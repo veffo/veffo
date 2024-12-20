@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
-
-- ⚡ Fun fact **I am funny😅**
+- 👨‍💻😅⚡ All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,13 +19,13 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+
 
 
 
@@ -68,14 +66,6 @@ To install the library into your project, run yarn or npm:
 or
 
 `npm i -S react-navigation-fluid-transitions`
-
-Compatible versions with `react-navigation`:
-
-| react-navigation-fluid-transitions        | react-navigation |
-| ----------------------------------------- |:----------------:|
-| 0.3.x                                     | 3.x              |
-| 0.2.x                                     | 2.x              |
-| 0.1.x                                     | 1.x              |
 
 > Future improvements and development will be on react-navigation-fluid-transitions@0.3.x.
 
@@ -144,19 +134,6 @@ The `Transition` element supports appear and disappear transitions (appear will 
 </Transition>
 ```
 
-#### Transition Types
-
-| Name        | Description | 
-| ----------  | ------------- | 
-| scale      	| Scales the element in and out | 
-| top      	| Translates the element in/out from the top of the screen | 
-| bottom | Translates the element in/out from the bottom of the screen | 
-| left | Translates the element in/out from the left of the screen | 
-| right | Translates the element in/out from the right of the screen | 
-| horizontal | Translates the element in/out from the left/right of the screen | 
-| vertical | Translates the element in/out from the top/bottom of the screen | 
-| flip | Flips the element in/out | 
-
 #### Custom transitions
 It is easy to provide custom transitions - just add the transition function to your component's appear or disappear property. The following example creates a transition that will scale in from 88 times the original size of the wrapped component:
 
@@ -177,23 +154,10 @@ myCustomTransitionFunction = (transitionInfo) => {
 
 Read more about the parameters and functionality for building [custom transitions](./docs/CustomTransition.md).
 
-### Native driver support
-For achieving the best experience it's vital to get rid of JS evaluation during animation run. React-native Animated API allows for scaling in both axis using native drivers, but it's not possible to resize width and height (which calls for a layout computation). Thus the native driver is used only when the ratio of source and target component are the same and it's recommended for the best quality of animations. 
 
-### API
 
-[FluidNavigator](./docs/FluidNavigator.md)  
 
-[Transition](./docs/Transition.md)
 
-### Credit
-Some of the concepts in the library builds on ideas from [@lintonye](https://github.com/lintonye)'s pull request and suggestion found here: [Shared element transition #941](https://github.com/react-navigation/react-navigation/pull/941).
-
-### Contributors
-Christian Falch (@chrfalch), Yuuki Arisawa (@uk-ar), Joe Goodall (@joegoodall1), [sonaye](https://github.com/sonaye), [David Chavez](https://github.com/dcvz), [muhaimincs](https://github.com/muhaimincs), [KingTayTay](https://github.com/KingTayTay),  [pedrobullo](https://github.com/pedrobullo), [Nathan James](https://github.com/nsjames), [Filip Engberg](https://github.com/reekris), [DadImScared](https://github.com/DadImScared), [fabriziogiordano](https://github.com/fabriziogiordano), [kelset](https://github.com/kelset), [rewieer](https://github.com/rewieer), [Dan Alloway](https://github.com/danalloway), [Alexander Zizzo](https://github.com/elzii), [Monica He](https://github.com/ehacinom), [Avi Patel](https://github.com/avipatel91), [Julian Hundeloh](https://github.com/jaulz), [Luong Dang Hai](https://github.com/jarvisluong), [Peter Henderson](https://github.com/PeterH139)
-
-### Sponsors
-[Fram X](https://framx.no) - a cross platform app company from Norway. 
 
 
 
