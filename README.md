@@ -1799,24 +1799,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-## Hi, I'm Fayas! 👋
+## Hi, I'm Fayas! 
 
-- 📚 I'm currently studying computer science.
-- 💻 I'm passionate about software development.
-- 🌐 I'm interested in web design and development.
-- 🔭 I enjoy working with the Python programming language.
-- 🎯 I'm focused on improving my coding skills.
-- 🌍 I love exploring new technologies and learning different programming languages.
-- 🚀 I actively contribute to open-source projects and the developer community.
-- 🎨 In my free time, I create open-source repositories.
-- 📖 I constantly expand my knowledge through online courses and tutorials.
-- 💡 I'm always seeking new challenges and opportunities to grow as a developer.
-- 📫 You can reach me [via my accounts](https://fayasnoushad.github.io/#accounts).
+- 👋📚💻🌐🔭🎯🌍🚀🎨📖💡📫 I'm currently studying computer science.
 
 
-===========================================
- IPython: Productive Interactive Computing
-===========================================
+
+
 
 
 
@@ -1985,9 +1974,7 @@ Website: [https://thehassantahir.web.app](https://thehassantahir.web.app)
 
 
 
-<p align="center">
-	<a href="https://thehassantahir.me" target="_blank"><img src="https://github.com/thehassantahir/thehassantahir/blob/main/github-banner.png"></a>
-</p>
+
 
 # react-simple-pull-to-refresh
 
@@ -2805,10 +2792,6 @@ email: example@email.com
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 
 
