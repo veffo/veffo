@@ -1,4 +1,29 @@
- 
+.. image:: https://codecov.io/github/ipython/ipython/coverage.svg?branch=main
+    :target: https://codecov.io/github/ipython/ipython?branch=main
+
+.. image:: https://img.shields.io/pypi/v/IPython.svg
+    :target: https://pypi.python.org/pypi/ipython
+
+.. image:: https://github.com/ipython/ipython/actions/workflows/test.yml/badge.svg
+    :target: https://github.com/ipython/ipython/actions/workflows/test.yml)
+
+.. image:: https://www.codetriage.com/ipython/ipython/badges/users.svg
+    :target: https://www.codetriage.com/ipython/ipython/
+
+.. image:: https://raster.shields.io/badge/Follows-NEP29-brightgreen.png
+    :target: https://numpy.org/neps/nep-0029-deprecation_policy.html
+
+.. image:: https://tidelift.com/subscription/pkg/pypi-ipython
+    :target: https://tidelift.com/badges/package/pypi/ipython?style=flat
+
+
+===========================================
+ IPython: Productive Interactive Computing
+===========================================
+
+
+
+
  ![Language](https://img.shields.io/github/languages/top/thehassantahir/faceboom?style=for-the-badge)
  ![issues](https://img.shields.io/github/issues/thehassantahir/faceboom?style=for-the-badge)
  ![codesize](https://img.shields.io/github/languages/code-size/thehassantahir/faceboom?style=for-the-badge)
