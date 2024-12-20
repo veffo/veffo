@@ -5,11 +5,11 @@ These components and shaders allow you to add rounded corners to UI elements!
 
 ---
 
-![](title.gif)
+![](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners/title.gif)
 
 ## How to install
 ### Option 1: Package Manager (Unity 2019.3 and higher)
-![](how-to-install.gif)
+![](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners/how-to-install.gif)
 URL to copypaste: 
 ```
 https://github.com/kirevdokimov/Unity-UI-Rounded-Corners.git
@@ -35,15 +35,15 @@ If you need to add or change the image at runtime, call `Validate()` and then `R
 
 # Features
 ## Changing roundness separately or all at once
-![](separate-roundness.gif)
+![](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners/separate-roundness.gif)
 ## Keeps round while resizing
 ![](gif-01.gif)
 ## Better quality than sprites
-![](image-00.png)
+![](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners/image-00.png)
 ## Supports Unity Mask
-![](gif-02.gif)
+![](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners/gif-02.gif)
 ## Supports Tint
-![](gif-04.gif)
+![](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners/gif-04.gif)
 
 
 
