@@ -37,7 +37,7 @@ If you need to add or change the image at runtime, call `Validate()` and then `R
 ## Changing roundness separately or all at once
 ![](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners/blob/master/separate-roundness.gif)
 ## Keeps round while resizing
-![](gif-01.gif)
+![](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners/blob/master/gif-01.gif)
 ## Better quality than sprites
 ![](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners/blob/master/image-00.png)
 ## Supports Unity Mask
