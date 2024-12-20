@@ -441,47 +441,10 @@ The parent wrapper component that contains all the elements to be animated. You'
 | className               |     -      | `string`                   | A class applied to the wrapper element, helpful for styling.                                                                                                                                                                                                                                                                                                                                                    |
 | staggerConfig           |     -      | `object`                   | Provide configuration for staggered `Flipped` children. The config object might look something like the code snippet below:                                                                                                                                                                                                                                                                                     |
 
-```js
-staggerConfig={{
-  // the "default" config will apply to staggered elements without explicit keys
-      default: {
-        // default direction is forwards
-        reverse: true,
-        // default is .1, 0 < n < 1
-        speed: .5
-      },
-  // this will apply to Flipped elements with the prop stagger='namedStagger'
-    namedStagger : { speed: .2 }
-  }}
-```
 
-#### Advanced Props
 
-| prop                    | default | type       | details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ----------------------- | :-----: | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| decisionData            |    -    | `any`      | Sometimes, you'll want the animated children of `Flipper` to behave differently depending on the state transition &mdash; maybe only certain `Flipped` elements should animate in response to a particular change. By providing the `decisionData` prop to the `Flipper` component, you'll make that data available to the `shouldFlip` and `shouldInvert` methods of each child `Flipped` component, so they can decided for themselves whether to animate or not.                                                                                                                                                                                                                                    |
-| debug                   | `false` | `boolean`  | This experimental prop will pause your animation right at the initial application of FLIP-ped styles. That will allow you to inspect the state of the animation at the very beginning, when it should look similar or identical to the UI before the animation began.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| portalKey               |    -    | `string`   | In general, the `Flipper` component will only apply transitions to its descendents. This allows multiple `Flipper` elements to coexist on the same page, but it will prevent animations from working if you use [portals](https://reactjs.org/docs/portals.html). You can provide a unique `portalKey` prop to `Flipper` to tell it to scope element selections to the entire document, not just to its children, so that elements in portals can be transitioned.                                                                                                                                                                                                                                     |
-| onStart              |    -    | `function` | This callback prop will be called before any of the individual FLIP animations have started. It receives as arguments the HTMLElement of the Flipper and the decisionData object described elsewhere.                                                                                                                                                                                                                                                                                                                                                                        |
-| onComplete              |    -    | `function` | This callback prop will be called when all individual FLIP animations have completed. Its single argument is a list of `flipId`s for the `Flipped` components that were activated during the animation. If an animation is interrupted, `onComplete` will be still called right before the in-progress animation is terminated.                                                                                                                                                                                                                                                                                                                                                                        |
-| handleEnterUpdateDelete |    -    | `function` | By default, `react-flip-toolkit` finishes animating out exiting elements before animating in new elements, with updating elements transforming immediately. You might want to have more control over the sequence of transitions &mdash; say, if you wanted to hide elements, pause, update elements, pause again, and finally animate in new elements. Or you might want transitions to happen simultaneously. If so, provide the function `handleEnterUpdateDelete` as a prop. [The best way to understand how this works is to check out this interactive example.](https://codesandbox.io/s/4q7qpkn8q0) `handleEnterUpdateDelete` receives the following arguments every time a transition occurs: |
 
-```js
-handleEnterUpdateDelete({
-  // this func applies an opacity of 0 to entering elements so
-  // they can be faded in - it should be called immediately
-  hideEnteringElements,
-  // calls `onAppear` for all entering elements
-  animateEnteringElements,
-  //calls `onExit` for all exiting elements
-  // returns a promise that resolves when all elements have exited
-  animateExitingElements,
-  // the main event: `FLIP` animations for updating elements
-  // this also returns a promise that resolves when
-  // animations have completed
-  animateFlippedElements
-})
-```
+
 
 ### `Flipped`
 
@@ -540,14 +503,6 @@ By default the FLIP-ped elements' translate, scale, and opacity properties are a
 | scale     | `bool` | Tween `scaleX` and `scaleY`         |
 | opacity   | `bool` |                                     |
 
-#### Advanced props
-
-Functions to control when FLIP happens
-
-| prop         | arguments                                     | details                                                                                                                                                                                                                                              |
-| ------------ | :-------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| shouldFlip   | `previousDecisionData`, `currentDecisionData` | A function provided with the current and previous `decisionData` props passed down by the `Flipper` component. Returns a `boolean` to indicate whether a `Flipped` component should animate at that particular moment or not.                        |
-| shouldInvert | `previousDecisionData`, `currentDecisionData` | A function provided with the current and previous `decisionData` props passed down by the `Flipper` component. Returns a `boolean` indicating whether to apply inverted transforms to all `Flipped` children that request it via an `inverseFlipId`. |
 
 
 ### `Spring`
@@ -606,27 +561,6 @@ Returns a boolean indicating whether animations are globally enabled or disabled
 - Requires React 16+
 - Uses [Rematrix](https://github.com/jlmakes/rematrix) for matrix calculations and a simplified fork of [Rebound](https://github.com/facebook/rebound-js) for spring animations
 
-## Troubleshooting
-
-### Problem #1: Nothing is happening
-
-- Make sure you're updating the `flipKey` attribute in the `Flipper` component whenever an animation should happen.
-- If one of your `Flipped` components is wrapping another React component rather than a DOM element, [use a render prop to get the Flipped props](#wrapping-a-react-component) and pass down to the necessary DOM element.
-- Is the element that's receiving props from `Flipped` visible in the DOM? `react-flip-toolkit` attempts to optimize performance by not animating elements that are off-screen or elements that have no width or height.
-- `display:inline` elements cannot be animated. If you want an `inline` element to animate, set `display:inline-block`.
-- Do you have the [prefers-reduced-motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion) setting turned on? As of v7.1.0 that setting will disable all animations.
-
-### Problem #2: Things look weird / animations aren't behaving
-
-- **Check to make sure all `flipId`s are unique.** At any point, there can only be one element with a specified `flipId` on the page. If there are multiple `Flipped` elements on the page with the same id, the animation will break.
-- **Make sure you are animating the element you want to animate and not, for instance, a wrapper div**. If you are animating an inline element like some text, but have wrapped it in a `div`, you're actually animating the div, which might have a much wider width that you'd expect at certain points, which will throw off the animation. Check to see if you need to add an `inline-block` style to the animated element.
-- Make sure you don't have any **competing CSS transitions** on the element in question.
-- **If you are animating an image**, try giving the image hard-coded dimensions and seeing if that fixes the problem. (If you are relying on the innate dimensions of the image, it might not have been fully rendered by the browser in time for the new image dimensions to be measured.)
-
-### Problem #3: It's still not working
-
-- Try out the `debug` prop. If you still can't figure out what's going wrong, you can add the [the `debug` prop](#props) directly on your `Flipper` component to pause transitions at the beginning.
-- If you think something might actually be broken, or are completely stuck, feel free to make an issue.
 
 ## Performance
 
@@ -838,16 +772,6 @@ If you like to know how to submit forms so you can receive the form details in y
 
 <br/>
 
-## Step 3 - Project Page
-
-Each project will have its own Page. The project page will have important details about the project like the Project Title, Description, Technologies, Project Links, etc.
-
-### Project Hero Section
-
-- On `.heading-primary` add the Project Title.
-- On `.text-primary` add a short description about the Project.
-- On Anchor Tag that says **Live Link** with class `btn btn--bg`, add the Project Live Link as the value for the href attribute.
-
 
 
 <!-- **** END Project Hero Section **** -->
@@ -872,49 +796,11 @@ Each project will have its own Page. The project page will have important detail
 
 <br>
 
-
-## Deployment 📦
-
-Once you have done with your setup. You need to put your website online!
-
-I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
-
-Whenever you wanna host a new site on Netlify. You will need to press the **Create New Site** button from the Netlify's dashboard once you login into Netlify.
-
-Once you press the **Create Site Button** then you will have to follow the 3 steps:
-
-1. You will have to select your Github account.
-
-2. Then select the Repository which you wanna host, in this case its your Portfolio website ( Clone of Dopefolio )
-
-3. In the 3rd step, you will have to modify the **Site settings and deploy**, keep everything as it is but just make sure to modify the **Build command** and set its value to **npm run build** and then modify the **Publish directory** and set its value to **/** as shown in the  **image** below
-
-<div align="center">
-  <img src="https://i.ibb.co/hDTTrPB/Set-Build-Command-to.png" alt="Dopefolio Build Command Example and Publish Directory Value" width="100%" />
-  <br>
-</div>
-
-<br>
-
-Then hit the **Deploy site** button and your **Portfolio Site** is live 🥳
-
-<br>
-
 ---
 
 <br>
 
-## Give a Star ⭐
-
-If you like this project then give it a **Github** star by pressing the **Star** button ⭐
-
-<br>
-
----
-
-<br>
-
-## Author 👨‍💻
+## Author 👨‍💻⭐❤️
 
 - **Ram Maheshwari** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Instagram](https://instagram.com/rammcodes_)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**  
 
@@ -923,16 +809,6 @@ If you like this project then give it a **Github** star by pressing the **Star**
 #### Note: 
 I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://linkedin.com/in/rammcodes)** or my email id **rammcodes@gmail.com** 🙌
 
-
-<br>
-
----
-
-<br>
-
-## Special Thanks ❤️
-
-Special thanks to [Jacobo Martínez](https://github.com/cobidev) for inspiring me to create something useful for the Developer Community. **Jacobo** is the creator of [Simplefolio](https://github.com/cobidev/simplefolio) which is another great Portfolio website Template for Developers. Check it out and show him some love ❤️
 
 <br>
 
