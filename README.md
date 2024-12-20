@@ -23,7 +23,7 @@ Languages 📝🗣️
 Volunteering 🙋‍♂️
 
 ## Table of contents
-
+## Tools of Trade
 - Web: Node.js, React.js, TailwindCSS
 - Database: PostgreSQL, MySQL, MongoDB
 - Containerization: Docker, Kubernetes, Rancher
@@ -35,8 +35,10 @@ Volunteering 🙋‍♂️
 - Computer Vision: Intel® OpenVINO Toolkit, OpenCV
 - Artificial Intelligence: Microsoft Azure Studio
 
-
+## Experience
 My professional experience cuts across computer engineering, networking, systems administration and software development. See my Linkedin profile for more info.
+
+## Languages
 English (Professional)
 Yoruba (Native)
 
