@@ -50,8 +50,7 @@ This project aims to implement a simple yet powerful set of constructs for build
 
 The library is JavaScript only - no linking required.
 
-<img src="https://github.com/fram-x/FluidTransitions/raw/develop/docs/example.gif" width="200">
-<a href="https://snack.expo.io/@chrfalch/onboarding-example"><img src="https://github.com/fram-x/FluidTransitions/raw/develop/docs/final.gif" alt="Snack" width="200"></a>
+
 
 The library implements a new navigator component called `FluidNavigator` with the same interface and routing configuration as the `StackNavigator`. The library has a component called `Transition` which can be used to build different types of transitions that will automatically be run when navigating between screens using the regular navigation actions.
 
@@ -1955,28 +1954,7 @@ Thanks for visiting! Feel free to fork and ⭐ this repo </h3>
 
 
 
-<!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
-<p align="center">
 
-<b>FUN FACT EVERYDAY🤔 :</b>
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝It took Pixar 29 hours to render a single frame from Monster’s University. If done on a single CPU it would have taken 10,000 years to finish.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-
-<!--🖼️OCTOCAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 <!--🌯GITHUBWRAPPED / 🌐WEBSITE: https://github.com/neat-run/wrapped -->
 <!--<p align="center"> -->
@@ -2287,18 +2265,16 @@ please read the [code of conduct](CODE_OF_CONDUCT.md).
 
 
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -2341,11 +2317,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 
 
@@ -2438,7 +2410,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://github.com/hassan-tahir/Faceboom/blob/master/img/faceboom.jpg">
+
 
 Faceboom is a brute force application built on python 2.7 later upgraded to 3.6 which enables the tester to enter the victims account by using their API, it uses various libraries like optparse, re and more.
 
@@ -2595,40 +2567,9 @@ return (
 // ...
 ```
 
-Pull To Refresh and Fetch More enabled
 
-```jsx
-// ...
 
-return (
-  <PullToRefresh onRefresh={handleRefresh} canFetchMore={true} onFetchMore={handleFetchMore}>
-    <ul>
-      {list.map((item, index) => (
-        <li key={index}>{item}</li>
-      ))}
-    </ul>
-  </PullToRefresh>
-);
 
-// ...
-```
-
-## Props Matrix
-
-|        Name         |         Type          | Required |        Default        | Description                                                                  |
-| :-----------------: | :-------------------: | :------: | :-------------------: | ---------------------------------------------------------------------------- |
-|     isPullable      |        boolean        |  false   |         true          | Enable or disable pulling feature                                            |
-|      onRefresh      |  () => Promise<any>   |   true   |                       | Function called when Refresh Event has been trigerred                        |
-|  pullDownThreshold  |        number         |  false   |          67           | Distance in pixel to pull to trigger a Refresh Event                         |
-| maxPullDownDistance |        number         |  false   |          95           | Maximum transitionY applied to Children when dragging                        |
-|     resistance      |        number         |  false   |           1           | Scale of difficulty to pull down                                             |
-|  refreshingContent  | JSX.Element or string |  false   | <RefreshingContent /> | Content displayed when Pulling or Fetch more has been trigerred              |
-|   pullingContent    | JSX.Element or string |  false   |  <PullingContent />   | Content displayed when Pulling                                               |
-|    canFetchMore     |        boolean        |  false   |         false         | Enable or disable fetching more feature                                      |
-|     onFetchMore     |  () => Promise<any>   |  false   |                       | Function called when Fetch more Event has been trigerred                     |
-| fetchMoreThreshold  |        number         |  false   |          100          | Distance in pixel from bottom of the container to trigger a Fetch more Event |
-|   backgroundColor   |        string         |  false   |                       | Apply a backgroundColor                                                      |
-|      className      |        string         |  false   |                       |                                                                              |
 
 ## Changelog
 
@@ -2739,15 +2680,8 @@ return (
     </tr>
   </tbody>
 </table>
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
-</ul>
+
+
 <h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 3°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>08:43</b> and sets at <b>14:47</b>.</p>
@@ -2987,17 +2921,6 @@ Moreover, if your pull request contains JavaScript patches or features, you must
 Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
 
-## Community
-
-Get updates on Bootstrap's development and chat with the project maintainers and community members.
-
-- Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap).
-- Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/).
-- Ask questions and explore [our GitHub Discussions](https://github.com/twbs/bootstrap/discussions).
-- Discuss, ask questions, and more on [the community Discord](https://discord.gg/bZUvakRU3M) or [Bootstrap subreddit](https://www.reddit.com/r/bootstrap/).
-- Chat with fellow Bootstrappers in IRC. On the `irc.libera.chat` server, in the `#bootstrap` channel.
-- Implementation help may be found at Stack Overflow (tagged [`bootstrap-5`](https://stackoverflow.com/questions/tagged/bootstrap-5)).
-- Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability.
 
 
 ## Versioning
@@ -3007,55 +2930,13 @@ For transparency into our release cycle and in striving to maintain backward com
 See [the Releases section of our GitHub project](https://github.com/twbs/bootstrap/releases) for changelogs for each release version of Bootstrap. Release announcement posts on [the official Bootstrap blog](https://blog.getbootstrap.com/) contain summaries of the most noteworthy changes made in each release.
 
 
-## Creators
-
-**Mark Otto**
-
-- <https://twitter.com/mdo>
-- <https://github.com/mdo>
-
-**Jacob Thornton**
-
-- <https://twitter.com/fat>
-- <https://github.com/fat>
 
 
-## Thanks
-
-<a href="https://www.browserstack.com/">
-  <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack" width="192" height="42">
-</a>
-
-Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
-
-<a href="https://www.netlify.com/">
-  <img src="https://www.netlify.com/v3/img/components/full-logo-light.svg" alt="Netlify" width="147" height="40">
-</a>
-
-Thanks to [Netlify](https://www.netlify.com/) for providing us with Deploy Previews!
 
 
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/bootstrap#sponsor)]
-
-[![OC sponsor 0](https://opencollective.com/bootstrap/sponsor/0/avatar.svg)](https://opencollective.com/bootstrap/sponsor/0/website)
-[![OC sponsor 1](https://opencollective.com/bootstrap/sponsor/1/avatar.svg)](https://opencollective.com/bootstrap/sponsor/1/website)
-[![OC sponsor 2](https://opencollective.com/bootstrap/sponsor/2/avatar.svg)](https://opencollective.com/bootstrap/sponsor/2/website)
-[![OC sponsor 3](https://opencollective.com/bootstrap/sponsor/3/avatar.svg)](https://opencollective.com/bootstrap/sponsor/3/website)
-[![OC sponsor 4](https://opencollective.com/bootstrap/sponsor/4/avatar.svg)](https://opencollective.com/bootstrap/sponsor/4/website)
-[![OC sponsor 5](https://opencollective.com/bootstrap/sponsor/5/avatar.svg)](https://opencollective.com/bootstrap/sponsor/5/website)
-[![OC sponsor 6](https://opencollective.com/bootstrap/sponsor/6/avatar.svg)](https://opencollective.com/bootstrap/sponsor/6/website)
-[![OC sponsor 7](https://opencollective.com/bootstrap/sponsor/7/avatar.svg)](https://opencollective.com/bootstrap/sponsor/7/website)
-[![OC sponsor 8](https://opencollective.com/bootstrap/sponsor/8/avatar.svg)](https://opencollective.com/bootstrap/sponsor/8/website)
-[![OC sponsor 9](https://opencollective.com/bootstrap/sponsor/9/avatar.svg)](https://opencollective.com/bootstrap/sponsor/9/website)
 
 
-## Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/bootstrap#backer)]
-
-[![Backers](https://opencollective.com/bootstrap/backers.svg?width=890)](https://opencollective.com/bootstrap#backers)
 
 
 ## Copyright and license
