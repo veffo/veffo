@@ -1,3 +1,80 @@
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
+
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200">
+
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
+
+<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko&border_color=599200">
+
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
+
+
+
+My Github stats:
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical"/>
+        </td>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=AvidCoder101"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=avidcoder101&count_private=true&show_icons=true&theme=radical"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avidcoder101&langs_count=10&layout=compact&hide=php,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        </td>
+    </tr>
+</table>
+
+----
+
+
+
+
+
+
+
+
 ![banner](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
@@ -1353,28 +1430,7 @@ To run tests, run the following command
 
 -----
 
-My Github stats:
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical"/>
-        </td>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=AvidCoder101"/>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=avidcoder101&count_private=true&show_icons=true&theme=radical"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avidcoder101&langs_count=10&layout=compact&hide=php,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
-
-----
 
 Organisations I am part of:
 
@@ -1445,23 +1501,7 @@ Languages I know:
 
 
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
 
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200">
-
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
-
-<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko&border_color=599200">
-
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
       
 #
 <!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
@@ -1737,10 +1777,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -2880,25 +2917,4 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
