@@ -1,4 +1,5 @@
 ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+[![Header](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -555,62 +556,20 @@ This [CSS property](https://dev.opera.com/articles/css-will-change-property/) te
 
 # Dopefolio 🔥
 
-## A Blazing Fast Multipage Portfolio Template for Developers 🚀
-
-## [Demo Link](https://dopefolio.netlify.app) 🔗
-
-<div align="center">
-  <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Dopefolio Demo" width="100%" />
-  <br>
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-## ( Update ): Project Achievement 🏆 
-
-**Dopefolio** has been listed as the **Hottest Frontend Tool of 2021** According to **CSS Tricks** 🥳. Thanks to all of you for supporting this project 🙌
-
-**[Link to the CSS tricks article on Dopefolio](https://css-tricks.com/hottest-front-end-tools-in-2021/#aa-58-dopefolio)**   
-
-<br/>
-
-----
-
-<br/>
-
 ## Features
 
 - ### **Easy to Setup 💯** 
-- ### **Free to Use ( OpenSource ) 🥳** 
+- ### **Free to Use ( OpenSource ) 🥳** 🙌🥳🏆
 - ### **No Additional Frameworks 🤘** 
 - ### **No Additional Libraries 🙌** 
 - ### **Multi Page 💎** 
 - ### **Fully Responsive 🚀** 
 - ### **Super Fast and Optimized for SEO ⚡** 
-- ### **Great Audits Score 🎖️** 
+- ### **Great Audits Score 🎖️🔗** 
 
-<img src="https://i.ibb.co/1dD8Mky/Screenshot-from-2021-08-28-14-38-30.png" alt="Dopefolio Audits" width="100%" />
 
-<br/>
-<br/>
 
-## Test the template with different colors on the playground link 🚀
 
-## [Playground Link](https://dopefolio-playground.netlify.app) 🔗
-
-<div align="center">
-  <img src="https://i.postimg.cc/xjsqN9GG/ezgif-com-gif-maker-2.gif" alt="Dopefolio Playground" width="100%" />
-  <br>
-</div>
-
-<br/>
-
-----
 
 <br/>
 
@@ -664,41 +623,7 @@ Once you run `npm run compile:scss`, then open the `index.html` inside your favo
 
 ## Template Instructions:
 
-## Step 1 - STYLES
-
-Make sure you have started the SASS to CSS compilation by running
-
-```bash
-$ npm run compile:scss
-```
-
-Change the color theme of the website.
-
-Go to `sass/abstracts/_variables.scss` and change the value of this sass variable called `$themeClrPrimary` to your preferred HEX color.
-
-```scss
-// Default value
-$themeClrPrimary: #0062b9;
-```
-
-**NOTE**: I highly recommend to checkout the [Dopefolio Playground Link](https://dopefolio-playground.netlify.app) to test the template with different colors and see which color do you like the most.
-
-<br/>
-
----
-
-<br/>
-
-## Step 2 - Homepage
-
-
-
 ### Projects
-
-- On `.heading-sec__sub`, put a short description about the section.
-- `.projects__row` is the row for each project in your portfolio.
-- One `.projects__row` for each project in your portfolio ( so for example, if you have 3 projects then you need 3 `.projects__row` one by one).
-
 - Inside each `projects__row`, there are 4 main elements.
 
   - Project Image is located at `.projects__row-img` where you can add the URL for your project mockup/image. You can use websites like [Media Modifier](https://mediamodifier.com/) and [SmartMockups](https://smartmockups.com) to generate mockups for free. Just make sure to crop the extra white space around your mockup so the mockups can look bigger and the size of the mockup file will be less.
@@ -718,51 +643,9 @@ Currently, I have already added a separate for each project ( considering there 
 
 If you like to know how to submit forms so you can receive the form details in your email then highly recommend using **formspree.io** as it's easier to set up and free to use. If you are using **Netlify** to host the site then Netlify has an inbuilt form receiver which you can use instead of **formspree**.
 
-
-
-
-
-### Footer Section
-
-- Inside h4 tag with the class `heading heading-sm text-lt` add your name.
-- On `.main-footer__short-desc` put a short description about yourself.
-- On Anchor tag inside `.main-footer__social-cont`, fill the href attribute with a link related to your social media account.
-
-
-
 <br/>
 
 ---
-
-<br/>
-
-
-
-<!-- **** END Project Hero Section **** -->
-
-### Project Details Section
-
-- On `.project-details__showcase-img`, change the value of **src** to the location/link of Project Mockup.
-- On `.project-details__desc-para` to add a detailed paragraph describing your project. Use multiple `.project-details__desc-para` elements for multiple paragraphs.
-- On `.skills` mention the skills that were used to build the project inside `.skills__skill` to mention each skill.
-- On Anchor Tag that says **Live Link** with class `btn btn--med btn--theme project-details__links-btn`, add the Project Live Link as the value for the href attribute.
-- On Anchor Tag that says **Code Link** with class `btn btn--med btn--theme-inv project-details__links-btn`, add the Project's Code Link ( Repository Link ) as the value for the href attribute.
-
-<!-- **** Project Details Section **** -->
-
-
-
-<!-- **** END Project Details Section **** -->
-
-<br>
-
----
-
-<br>
-
----
-
-<br>
 
 ## Author 👨‍💻⭐❤️
 
@@ -778,11 +661,7 @@ I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )
 
 ---
 
-<br>
 
-## License 📄
-
-This project is licensed under the  **GPL-3.0** License - see the [LICENSE](LICENSE) file for details
 
 
 
@@ -1059,30 +938,6 @@ public class GizmoDrawer : MonoBehaviour
 }
 ```
 
-## Camera render filter
-By default, gizmos will only be drawn to the MainCamera, and the Scene view camera. If you'd like to specify other cameras to also render the gizmos, the `Gizmos.CameraFilter` predicate allows you to subscribe to a delegate where you can manually specify if a camera should be rendered to or not.
-
-<details><summary>Example</summary>
-<p>
-    
-```cs
-private void OnEnable()
-{
-    //always sub in on enable, because OnEnable gets called when code gets recompiled AND on awake
-    Gizmos.CameraFilter += cam =>
-    {
-        return cam.name == "MyOtherCamera";
-    };
-}
-```
-
-</p>
-</details>
-
-## Custom drawers
-The ability to add custom drawers is possible. Inherit from the `Drawer` class and implement the `Draw` method. To see an example of drawing a line using a custom drawer, look at the `LineDrawer.cs` file.
-
-The `Draw` method takes in a ref parameter to a Vector3 array as the buffer, and then a params array of objects. The method expects to return the number of points allocated to the buffer. For example, if renderering a single line, allocate the two points at buffer[0] and buffer[1], and return 2. If the number returned is not the same as the amount of points actually used, then the end result of the drawn element will look incorrect and corrupt.
 
 ## API
 - `Gizmos.Line` = Draws a line from point a to b. Equivalent to [Gizmos.DrawLine](https://docs.unity3d.com/ScriptReference/Gizmos.DrawLine.html)
@@ -1093,11 +948,6 @@ The `Draw` method takes in a ref parameter to a Vector3 array as the buffer, and
 - `Gizmos.Cone` = Draws a cone with specified orientation, length and angle. It looks like the spotlight gizmo
 - `Gizmos.Sphere` = Draws a 3D sphere. Equivalent to [Gizmos.DrawWireSphere](https://docs.unity3d.com/ScriptReference/Gizmos.DrawWireSphere.html)
 - `Gizmos.Circle` = Draws a 2D circle that is oriented to the camera by default
-
-## Notes
-The package uses the same class name as the built-in gizmo class, because of this, you will need to use an alias to point to the right class (`using Gizmos = Popcron.Gizmos`).
-
-The alternative is to make a global class with the same name that redirects all of its calls to Popcron.Gizmos. The downside to this is that you will need to be explicit when calling the UnityEngine.Gizmos class if you ever need to. Choose your poison.
 
 ## FAQ
 - **What namespace?** 'Popcron'
@@ -1117,7 +967,7 @@ The alternative is to make a global class with the same name that redirects all 
 [![](https://github-readme-stats.vercel.app/api?username=baba-s&hide=contribs&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100&)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-profile-trophy.vercel.app/?username=baba-s&rank=-C,-B&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -1150,7 +1000,7 @@ When I am not working on an Open Source Project I enjoy sharing my knowledge wit
 ![simpletut's github stats](https://github-readme-stats.vercel.app/api?username=simpletut&show_icons=true&theme=dracula)
 
 
-[![Header](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac)
+
 
 ## 👋 Hello! 
 Software engineer with 7+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
@@ -1307,37 +1157,8 @@ A brief description of what this project does and who it's for
 
 #### Get all items
 
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
 
 
-## Appendix
-
-Any additional information goes here
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
 
 
 ## Badges
@@ -1358,27 +1179,10 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
 
-## Demo
-
-Insert gif or link to demo
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 
 ## Documentation
@@ -1386,24 +1190,10 @@ To deploy this project run
 [Documentation](https://linktodocumentation)
 
 
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
 
 
-## FAQ
 
-#### Question 1
 
-Answer 1
-
-#### Question 2
-
-Answer 2
 
 
 ## Features
@@ -1419,14 +1209,13 @@ Answer 2
 If you have any feedback, please reach out to us at fake@fake.com
 
 
-## 🚀 About Me
-I'm a full stack developer...
 
 
-# Hi, I'm Katherine! 👋
 
 
-## 🔗 Links
+
+
+## 🔗🚀 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
@@ -1462,38 +1251,6 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
-    
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
-
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
 
 ## Run Locally
 
@@ -1522,9 +1279,7 @@ Start the server
 ```
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Support
@@ -1548,23 +1303,10 @@ To run tests, run the following command
 ```
 
 
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
 
 
-## Used By
 
-This project is used by the following companies:
 
-- Company 1
-- Company 2
 
 
 
@@ -1738,24 +1480,6 @@ Languages I know:
 
 ---
 
-Some of my repositories:
-
-- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
-- **[My BMI Calculator Repo - AvidCoder101/BMICalculator](https://github.com/AvidCoder101/BMICalculator)**
-- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/AvidCoder101/To-do-list)**
-- **[My Harry Potter Quiz Repo - AvidCoder101/Harry-Potter-Quiz](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
-- **[My Drawing Repo - AvidCoder101/Drawing-App](https://github.com/AvidCoder101/Drawing-App)**
-- **[My Clock Repo - AvidCoder101/Clock-App](https://github.com/AvidCoder101/Clock-App)**
-
----
-
- My Codewars Stats:
-
-<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
-
----
-
-Thanks for visiting! Feel free to fork and ⭐ this repo </h3>
 
 
 
@@ -1769,36 +1493,6 @@ Thanks for visiting! Feel free to fork and ⭐ this repo </h3>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--🌯GITHUBWRAPPED / 🌐WEBSITE: https://github.com/neat-run/wrapped -->
-<!--<p align="center"> -->
-<!--<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a> -->
 
 <!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/yogeshwaran01/github-stats-terminal-style -->
 <p align="center">
