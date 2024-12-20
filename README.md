@@ -1,5 +1,6 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 [![Header](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+![banner](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -54,9 +55,6 @@ The library is JavaScript only - no linking required.
 The library implements a new navigator component called `FluidNavigator` with the same interface and routing configuration as the `StackNavigator`. The library has a component called `Transition` which can be used to build different types of transitions that will automatically be run when navigating between screens using the regular navigation actions.
 
 > The Navigator's API is identical to the StackNavigator except that it does not support a header component. It can easily be integrated with redux and your existing navigation setups.
-
-[Medium article](https://medium.com/@christian.falch/fluid-transitions-with-react-navigation-a049d2f71494)<br/>
-[React Native Animation Challenge #1](https://medium.com/@christian.falch/react-native-animation-challenge-1-7022e48a226)
 
 ## Installation
 
@@ -122,17 +120,6 @@ const Navigator = createFluidNavigator({
   screen2: { screen: Screen2 },
 });
 
-```
-
-### Transitions
-The library also supports transitions for elements wrapped in the `Transition` component. You can provide appear/disappear transitions that will be animated during navigation.
-
-The `Transition` element supports appear and disappear transitions (appear will be used if disappear is not set), and these can either be one of the predefined transitions - or functions where you provide your own transitions.
-
-```javascript
-<Transition appear='scale' disappear='bottom'>
-  <View style={styles.circle}/>
-</Transition>
 ```
 
 #### Custom transitions
@@ -208,33 +195,17 @@ Read more about the parameters and functionality for building [custom transition
 
 - [Forkable Examples](#forkable-examples)
   - [Simple Example: An Expanding Div](#simple-example-an-expanding-div)
-  - [Simple Example: Two Divs](#simple-example-two-divs)
-  - [Simple Example: List Shuffle](#simple-example-list-shuffle)
-  - [List Transitions](#list-transitions)
-  - [Stagger Effects](#stagger-effects)
-  - [Spring Customizations](#spring-customizations)
-  - [Nested Scale Transforms](#nested-scale-transforms)
-  - [Route-based Animations With React Router](#route-based-animations-with-react-router)
-  - [More examples](#more-examples)
 - [The Components](#the-components)
   - [`Flipper`](#flipper)
     - [Basic Props](#basic-props)
-    - [Advanced Props](#advanced-props)
   - [`Flipped`](#flipped)
     - [Wrapping a React Component](#wrapping-a-react-component)
-    - [Basic props](#basic-props)
-    - [Callback props](#callback-props)
-    - [Transform props](#transform-props)
-    - [Advanced props](#advanced-props)
   - [`Spring`](#spring)
 - [Library details](#library-details)
 - [Troubleshooting](#troubleshooting)
   - [Problem #1: Nothing is happening](#problem-1-nothing-is-happening)
-  - [Problem #2: Things look weird / animations aren't behaving](#problem-2-things-look-weird--animations-arent-behaving)
-  - [Problem #3: It's still not working](#problem-3-its-still-not-working)
 - [Performance](#performance)
   - [`Memoization`](#memoization)
-  - [`will-change:transform`](#will-changetransform)
 
 ## Forkable Examples
 
@@ -414,26 +385,6 @@ The parent wrapper component that contains all the elements to be animated. You'
 ### `Flipped`
 
 Wraps an element that should be animated.
-
-E.g. in one component you can have
-
-```jsx
-<Flipped flipId="coolDiv">
-  <div className="small" />
-</Flipped>
-```
-
-and in another component somewhere else you can have
-
-```jsx
-<Flipped flipId="coolDiv">
-  <div className="big" />
-</Flipped>
-```
-
-and they will be tweened by `react-flip-toolkit`.
-
-The `Flipped` component produces no markup, it simply passes some props down to its wrapped child.
 
 #### Wrapping a React Component
 
@@ -1328,7 +1279,7 @@ To run tests, run the following command
 
 
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -1389,7 +1340,7 @@ To run tests, run the following command
 
 
 
-![banner](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif)
+
 
   <h3 align= "center"> Hello World 👋🏼 It's Avid Coder 💓 </h3>
 
@@ -1494,9 +1445,7 @@ Languages I know:
 
 
 
-<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/yogeshwaran01/github-stats-terminal-style -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
+
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
