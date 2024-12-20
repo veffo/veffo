@@ -304,77 +304,9 @@ const AnimatedSquare = () => {
 }
 ```
 
-### Simple Example: Two Divs
 
-<a href="https://codesandbox.io/s/74q85nq1qq">
-<img src="./example-assets/2squares.gif" height="200px" alt="2 animated squares" />
-</a>
 
-[Fork this example on Code Sandbox](https://codesandbox.io/s/74q85nq1qq)
 
-```jsx
-import React, { useState } from 'react'
-import { Flipper, Flipped } from 'react-flip-toolkit'
-
-const Square = ({ toggleFullScreen }) => (
-  <Flipped flipId="square">
-    <div className="square" onClick={toggleFullScreen} />
-  </Flipped>
-)
-
-const FullScreenSquare = ({ toggleFullScreen }) => (
-  <Flipped flipId="square">
-    <div className="full-screen-square" onClick={toggleFullScreen} />
-  </Flipped>
-)
-
-const AnimatedSquare = () => {
-  const [fullScreen, setFullScreen] = useState(false)
-  const toggleFullScreen = () => setFullScreen(prevState => !prevState)
-
-  return (
-    <Flipper flipKey={fullScreen}>
-      {fullScreen ? (
-        <FullScreenSquare toggleFullScreen={toggleFullScreen} />
-      ) : (
-        <Square toggleFullScreen={toggleFullScreen} />
-      )}
-    </Flipper>
-  )
-}
-```
-
-### Simple Example: List Shuffle
-
-<a href="https://codesandbox.io/s/14v8o5xy44">
-<img src="./example-assets/listshuffle.gif" height="60px" alt="shuffling a list" />
-</a>
-
-[Fork this example on Code Sandbox](https://codesandbox.io/s/14v8o5xy44)
-
-```jsx
-import React, { useState } from 'react'
-import { Flipper, Flipped } from 'react-flip-toolkit'
-import shuffle from 'lodash.shuffle'
-
-const ListShuffler = () => {
-  const [data, setData] = useState([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
-  const shuffleList = () => setData(shuffle(data))
-
-  return (
-    <Flipper flipKey={data.join('')}>
-      <button onClick={shuffleList}> shuffle</button>
-      <ul className="list">
-        {data.map(d => (
-          <Flipped key={d} flipId={d}>
-            <li>{d}</li>
-          </Flipped>
-        ))}
-      </ul>
-    </Flipper>
-  )
-}
-```
 
 ### List Transitions
 
