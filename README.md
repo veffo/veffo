@@ -1,20 +1,16 @@
-.. image:: https://codecov.io/github/ipython/ipython/coverage.svg?branch=main
-    :target: https://codecov.io/github/ipython/ipython?branch=main
+## Hi, I'm Fayas! 👋
 
-.. image:: https://img.shields.io/pypi/v/IPython.svg
-    :target: https://pypi.python.org/pypi/ipython
-
-.. image:: https://github.com/ipython/ipython/actions/workflows/test.yml/badge.svg
-    :target: https://github.com/ipython/ipython/actions/workflows/test.yml)
-
-.. image:: https://www.codetriage.com/ipython/ipython/badges/users.svg
-    :target: https://www.codetriage.com/ipython/ipython/
-
-.. image:: https://raster.shields.io/badge/Follows-NEP29-brightgreen.png
-    :target: https://numpy.org/neps/nep-0029-deprecation_policy.html
-
-.. image:: https://tidelift.com/subscription/pkg/pypi-ipython
-    :target: https://tidelift.com/badges/package/pypi/ipython?style=flat
+- 📚 I'm currently studying computer science.
+- 💻 I'm passionate about software development.
+- 🌐 I'm interested in web design and development.
+- 🔭 I enjoy working with the Python programming language.
+- 🎯 I'm focused on improving my coding skills.
+- 🌍 I love exploring new technologies and learning different programming languages.
+- 🚀 I actively contribute to open-source projects and the developer community.
+- 🎨 In my free time, I create open-source repositories.
+- 📖 I constantly expand my knowledge through online courses and tutorials.
+- 💡 I'm always seeking new challenges and opportunities to grow as a developer.
+- 📫 You can reach me [via my accounts](https://fayasnoushad.github.io/#accounts).
 
 
 ===========================================
