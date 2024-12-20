@@ -636,7 +636,7 @@ email: example@email.com
 <br />
 <p align="center">
     <a href="https://github.com/oGranny/readme-template-extension">
-        <img src="assets/icon.png" alt="Logo" width="80" height="80">
+        <img src="icon.png" alt="Logo" width="80" height="80">
     </a>
 <h3 align="center"><a href="https://github.com/oGranny/readme-template-extension">readme-template-extension</a></h3>
     <p align="center">
