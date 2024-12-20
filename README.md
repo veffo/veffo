@@ -456,7 +456,33 @@ staggerConfig={{
   }}
 ```
 
+#### Advanced Props
 
+| prop                    | default | type       | details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------------- | :-----: | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| decisionData            |    -    | `any`      | Sometimes, you'll want the animated children of `Flipper` to behave differently depending on the state transition &mdash; maybe only certain `Flipped` elements should animate in response to a particular change. By providing the `decisionData` prop to the `Flipper` component, you'll make that data available to the `shouldFlip` and `shouldInvert` methods of each child `Flipped` component, so they can decided for themselves whether to animate or not.                                                                                                                                                                                                                                    |
+| debug                   | `false` | `boolean`  | This experimental prop will pause your animation right at the initial application of FLIP-ped styles. That will allow you to inspect the state of the animation at the very beginning, when it should look similar or identical to the UI before the animation began.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| portalKey               |    -    | `string`   | In general, the `Flipper` component will only apply transitions to its descendents. This allows multiple `Flipper` elements to coexist on the same page, but it will prevent animations from working if you use [portals](https://reactjs.org/docs/portals.html). You can provide a unique `portalKey` prop to `Flipper` to tell it to scope element selections to the entire document, not just to its children, so that elements in portals can be transitioned.                                                                                                                                                                                                                                     |
+| onStart              |    -    | `function` | This callback prop will be called before any of the individual FLIP animations have started. It receives as arguments the HTMLElement of the Flipper and the decisionData object described elsewhere.                                                                                                                                                                                                                                                                                                                                                                        |
+| onComplete              |    -    | `function` | This callback prop will be called when all individual FLIP animations have completed. Its single argument is a list of `flipId`s for the `Flipped` components that were activated during the animation. If an animation is interrupted, `onComplete` will be still called right before the in-progress animation is terminated.                                                                                                                                                                                                                                                                                                                                                                        |
+| handleEnterUpdateDelete |    -    | `function` | By default, `react-flip-toolkit` finishes animating out exiting elements before animating in new elements, with updating elements transforming immediately. You might want to have more control over the sequence of transitions &mdash; say, if you wanted to hide elements, pause, update elements, pause again, and finally animate in new elements. Or you might want transitions to happen simultaneously. If so, provide the function `handleEnterUpdateDelete` as a prop. [The best way to understand how this works is to check out this interactive example.](https://codesandbox.io/s/4q7qpkn8q0) `handleEnterUpdateDelete` receives the following arguments every time a transition occurs: |
+
+```js
+handleEnterUpdateDelete({
+  // this func applies an opacity of 0 to entering elements so
+  // they can be faded in - it should be called immediately
+  hideEnteringElements,
+  // calls `onAppear` for all entering elements
+  animateEnteringElements,
+  //calls `onExit` for all exiting elements
+  // returns a promise that resolves when all elements have exited
+  animateExitingElements,
+  // the main event: `FLIP` animations for updating elements
+  // this also returns a promise that resolves when
+  // animations have completed
+  animateFlippedElements
+})
+```
 
 ### `Flipped`
 
@@ -504,36 +530,6 @@ You can also simply provide a regular React component as long as that component 
 const MyCoolComponent = ({ knownProp, ...rest }) => <div {...rest} />
 ```
 
-#### Basic props
-
-| prop                                                   |  default   | type                  | details                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------ | :--------: | :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| children **(required)**                                |     -      | `node` or `function`  | Wrap a single element, React component, or render prop child with the `Flipped` component                                                                                                                                                                                                                                                                                                                                                               |
-| flipId **(required unless inverseFlipId is provided)** |     -      | `string`              | Use this to tell `react-flip-toolkit` how elements should be matched across renders so they can be animated.                                                                                                                                                                                                                                                                                                                                            |
-| inverseFlipId                                          |     -      | `string`              | Refer to the id of the parent `Flipped` container whose transform you want to cancel out. If this prop is provided, the `Flipped` component will become a limited version of itself that is only responsible for cancelling out its parent transform. It will read from any provided `transform` props and will ignore all other props (besides `inverseFlipId`.) [Read more about canceling out parent transforms here.](#practical-scale-transitions) |
-| transformOrigin                                        |  `"0 0"`   | `string`              | This is a convenience method to apply the proper CSS `transform-origin` to the element being FLIP-ped. This will override `react-flip-toolkit`'s default application of `transform-origin: 0 0;` if it is provided as a prop.                                                                                                                                                                                                                           |
-| spring                                                 | `noWobble` | `string` or `object`  | Provide a string referencing one of the spring presets &mdash; `noWobble` (default), `veryGentle`, `gentle`, `wobbly`, or `stiff`, OR provide an object with stiffness and damping parameters. [Explore the spring setting options here.](https://codepen.io/aholachek/full/bKmZbV/)                                                                                                                                                                               |
-| stagger                                                |  `false`   | `boolean` or `string` | Provide a natural, spring-based staggering effect in which the spring easing of each item is pinned to the previous one's movement. Provide `true` to stagger the element with all other staggered elements. If you want to get more granular, you can provide a string key and the element will be staggered with other elements with the same key.                                                                                                    |
-| delayUntil                                               |  `false`   | `string` (flipId) | Delay an animation by providing a reference to another `Flipped` component that it should wait for before animating (the other `Flipped` component should have a stagger delay as that is the only use case in which this prop is necessary.)                                                                                                    |
-
-#### Callback props
-
-<p>
-<a href="https://codesandbox.io/s/q787wz5lx4">
-  <img src="./example-assets/enter-update-delete.gif" height="300px" alt='animation of a sentence transforming into another sentence' />
-</a>
-</p>
-
-The above animation uses `onAppear` and `onExit` callbacks for fade-in and fade-out animations.
-
-| prop             | arguments                           | details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------------- | :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| onAppear         | `element`, `index`, `{previous: decisionData, current: decisionData }`                  | Called when the element first appears in the DOM. It is provided a reference to the DOM element being transitioned as the first argument, and the index of the element relative to all appearing elements as the second. Note: If you provide an `onAppear` prop, the default opacity of the element will be set to 0 to allow you to animate it in without any initial flicker. If you don't want any opacity animation, just set the element's opacity to 1 immediately in your `onAppear` function. |
-| onStart          | `element`, `{previous: decisionData, current: decisionData }`                          | Called when the FLIP animation for the element starts. It is provided a reference to the DOM element being transitioned as the first argument.                                                                                                                                                                                                                                                                                                                                                         |
-| onStartImmediate | `element`, `{previous: decisionData, current: decisionData }`                          | Similar to `onStart`, but guaranteed to run for all FLIP-ped elements on the initial tick of the FLIP animation, before the next frame has rendered, even if the element in question has a stagger delay. It is provided a reference to the DOM element being transitioned as the first argument.                                                                                                                                                                                                      |
-| onSpringUpdate   | `springValue`                       | Called with the current spring value (normally between 0 - 1 but might briefly go over or under that range depending on the level of "bounciness" of the spring). Useful if you'd like to tween other, non-FLIP animations in concert with a FLIP transition.                                                                                                                                                                                                                                          |
-| onComplete       | `element`,`{previous: decisionData, current: decisionData }`                          | Called when the FLIP animation completes. It is provided a reference to the DOM element being transitioned as the first argument. (If transitions are interruped by new ones, `onComplete` will still be called.)                                                                                                                                                                                                                                                                                      |
-| onExit           | `element`, `index`, `removeElement`, `{previous: decisionData, current: decisionData }` | Called when the element is removed from the DOM. It must call the `removeElement` function when the exit transition has completed.                                                                                                                                                                                                                                                                                                                                                                     |
 
 #### Transform props
 
@@ -638,17 +634,7 @@ Returns a boolean indicating whether animations are globally enabled or disabled
 `React-flip-toolkit` does a lot of work under the hood to try to maximize the performance of your animations &mdash; for instance, off-screen elements won't be animated, and style updates are batched to prevent [layout thrashing](https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing).
 However, if you are building particularly complex animations&mdash;ones that involve dozens of elements or large images&mdash; there are some additional strategies you can use to ensure performant animations.
 
-### `Memoization`
 
-When you trigger a complex FLIP animation with `react-flip-toolkit`, `React` could be spending vital milliseconds doing unnecessary reconciliation work before allowing the animation to start. If you notice a slight delay between when the animation is triggered, and when it begins, this is probably the culprit. To short-circuit this possibly unnecessary work, try memoizing your component by using [`React.memo`](https://reactjs.org/docs/react-api.html#reactmemo) or [`PureComponent`](https://reactjs.org/docs/react-api.html#reactpurecomponent) for your animated elements, and seeing if you can refactor your code to minimize prop updates to animated children when an animation is about to occur.
-
-### `will-change:transform`
-
-```css
-.box {
-  will-change: transform;
-}
-```
 
 This [CSS property](https://dev.opera.com/articles/css-will-change-property/) tells the browser to anticipate changes to an element. It should be used with caution, because it can increase browser resource usage. If you notice rendering issues in your animation, try seeing if it increases the performance of the animation.
 
@@ -808,220 +794,7 @@ $themeClrPrimary: #0062b9;
 
 ## Step 2 - Homepage
 
-Go to `/index.html` and fill your information, there are 6 sections:
 
-### Header of Homepage
-
-- On `.header__logo-img`, Add your own Image, Better if the background of the image is transparent so the background can match the theme color. To remove the background of your image, you can visit remove.bg where you can upload your image and it will remove the background of it.
-- On `.header__logo-sub`, Add your own Name.
-
-```html
-<!-- **** Header of Homepage **** -->
-<header class="header">
-  <div class="header__content">
-    <div class="header__logo-container">
-      <div class="header__logo-img-cont">
-        <img
-          src="./assets/png/john-doe.png"
-          alt="Ram Maheshwari Logo Image"
-          class="header__logo-img"
-        />
-      </div>
-      <span class="header__logo-sub">John Doe</span>
-    </div>
-    <div class="header__main">
-      <ul class="header__links">
-        <li class="header__link-wrapper">
-          <a href="./" class="header__link"> Home </a>
-        </li>
-        <li class="header__link-wrapper">
-          <a href="./#about" class="header__link">About </a>
-        </li>
-        <li class="header__link-wrapper">
-          <a href="./#projects" class="header__link"> Projects </a>
-        </li>
-        <li class="header__link-wrapper">
-          <a href="./#contact" class="header__link"> Contact </a>
-        </li>
-      </ul>
-      <div class="header__main-ham-menu-cont">
-        <img
-          src="./assets/svg/ham-menu.svg"
-          alt="hamburger menu"
-          class="header__main-ham-menu"
-        />
-      </div>
-    </div>
-  </div>
-  <div class="header__sm-menu">
-    <div class="header__sm-menu-content">
-      <ul class="header__sm-menu-links">
-        <li class="header__sm-menu-link">
-          <a href="./"> Home </a>
-        </li>
-
-        <li class="header__sm-menu-link">
-          <a href="./#about"> About </a>
-        </li>
-
-        <li class="header__sm-menu-link">
-          <a href="./#projects"> Projects </a>
-        </li>
-
-        <li class="header__sm-menu-link">
-          <a href="./#contact"> Contact </a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</header>
-<!-- END Header -->
-```
-
-### Hero Section of Homepage
-
-- On `.heading-primary`, put your custom title.
-- On `.text-primary`, put a short description about yourself.
-- On `.home-hero__social-icon-link`, fill the href attribute with a link related to your social media account.
-
-```html
-<!-- **** Hero Section of Homepage **** -->
-<section class="home-hero">
-  <div class="home-hero__content">
-    <h1 class="heading-primary">Hey, My name is John Doe</h1>
-    <div class="home-hero__info">
-      <p class="text-primary">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-        tempora explicabo quae quod deserunt eius sapiente solutions for complex
-        problems
-      </p>
-    </div>
-    <div class="home-hero__cta">
-      <a href="./#projects" class="btn btn--bg">Projects</a>
-    </div>
-  </div>
-  <div class="home-hero__socials">
-    <div class="home-hero__social">
-      <a href="#" class="home-hero__social-icon-link">
-        <img
-          src="./assets/png/linkedin-ico.png"
-          alt="icon"
-          class="home-hero__social-icon"
-        />
-      </a>
-    </div>
-    <div class="home-hero__social">
-      <a href="#" class="home-hero__social-icon-link">
-        <img
-          src="./assets/png/github-ico.png"
-          alt="icon"
-          class="home-hero__social-icon"
-        />
-      </a>
-    </div>
-    <div class="home-hero__social">
-      <a href="#" class="home-hero__social-icon-link">
-        <img
-          src="./assets/png/twitter-ico.png"
-          alt="icon"
-          class="home-hero__social-icon"
-        />
-      </a>
-    </div>
-    <div class="home-hero__social">
-      <a href="#" class="home-hero__social-icon-link">
-        <img
-          src="./assets/png/yt-ico.png"
-          alt="icon"
-          class="home-hero__social-icon"
-        />
-      </a>
-    </div>
-    <div class="home-hero__social">
-      <a
-        href="#"
-        class="home-hero__social-icon-link home-hero__social-icon-link--bd-none"
-      >
-        <img
-          src="./assets/png/insta-ico.png"
-          alt="icon"
-          class="home-hero__social-icon"
-        />
-      </a>
-    </div>
-  </div>
-  <div class="home-hero__mouse-scroll-cont">
-    <div class="mouse"></div>
-  </div>
-</section>
-<!-- /END Hero Section -->
-```
-
-### About Section
-
-- On `.heading-sec__sub`, put a short description about the section.
-- On `.about__content-details-para`, put your details here and use `<strong></strong>` tag to highlight specific keywords.
-- On `.skills__skill`, mention your skill one by one.
-
-```html
-<!-- **** About Section of Homepage **** -->
-<section id="about" class="about sec-pad">
-  <div class="main-container">
-    <h2 class="heading heading-sec heading-sec__mb-med">
-      <span class="heading-sec__main">About Me</span>
-      <span class="heading-sec__sub">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-        tempora explicabo quae quod deserunt eius sapiente
-      </span>
-    </h2>
-    <div class="about__content">
-      <div class="about__content-main">
-        <h3 class="about__content-title">Get to know me!</h3>
-        <div class="about__content-details">
-          <p class="about__content-details-para">
-            Hey! It's
-            <strong>John Doe</strong>
-            and I'm a <strong> Frontend Web Developer </strong> located in Los
-            Angeles. I've done
-            <strong> remote </strong>
-            projects for agencies, consulted for startups, and collaborated with
-            talented people to create
-            <strong>digital products </strong>
-            for both business and consumer use.
-          </p>
-          <p class="about__content-details-para">
-            I'm a bit of a digital product junky. Over the years, I've used
-            hundreds of web and mobile apps in different industries and
-            verticals. Feel free to
-            <strong>contact</strong> me here.
-          </p>
-        </div>
-        <a href="./#contact" class="btn btn--med btn--theme dynamicBgClr"
-          >Contact</a
-        >
-      </div>
-      <div class="about__content-skills">
-        <h3 class="about__content-title">My Skills</h3>
-        <div class="skills">
-          <div class="skills__skill">HTML</div>
-          <div class="skills__skill">CSS</div>
-          <div class="skills__skill">JavaScript</div>
-          <div class="skills__skill">React</div>
-          <div class="skills__skill">SASS</div>
-          <div class="skills__skill">GIT</div>
-          <div class="skills__skill">Shopify</div>
-          <div class="skills__skill">Wordpress</div>
-          <div class="skills__skill">Google ADS</div>
-          <div class="skills__skill">Facebook Ads</div>
-          <div class="skills__skill">Android</div>
-          <div class="skills__skill">IOS</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- END About Section -->
-```
 
 ### Projects
 
@@ -1039,93 +812,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
 
 Currently, I have already added a separate for each project ( considering there are 3 projects ) the file names are `project-1.html`, `project-2.html`, and `project-3.html`. They all contain the same code only the project title, description and image will change. If you like to add more projects then you can just create a new file for it and paste the same code that we have in `project-1.html` as the code is going to be the same and the only thing that you need to change is the data inside each project.
 
-```html
-<!-- **** Projects Section of Homepage **** -->
-<section id="projects" class="projects sec-pad">
-  <div class="main-container">
-    <h2 class="heading heading-sec heading-sec__mb-bg">
-      <span class="heading-sec__main">Projects</span>
-      <span class="heading-sec__sub">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-        tempora explicabo quae quod deserunt eius sapiente
-      </span>
-    </h2>
 
-    <div class="projects__content">
-      <div class="projects__row">
-        <div class="projects__row-img-cont">
-          <img
-            src="./assets/jpeg/project-mockup-example.jpeg"
-            alt="Software Screenshot"
-            class="projects__row-img"
-            loading="lazy"
-          />
-        </div>
-        <div class="projects__row-content">
-          <h3 class="projects__row-content-title">Project 1</h3>
-          <p class="projects__row-content-desc">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-            tempora, explicabo quae quod deserunt eius sapiente praesentium.
-          </p>
-          <a
-            href="./project-1.html"
-            class="btn btn--med btn--theme dynamicBgClr"
-            target="_blank"
-            >Case Study</a
-          >
-        </div>
-      </div>
-      <div class="projects__row">
-        <div class="projects__row-img-cont">
-          <img
-            src="./assets/jpeg/project-mockup-example.jpeg"
-            alt="Software Screenshot"
-            class="projects__row-img"
-            loading="lazy"
-          />
-        </div>
-        <div class="projects__row-content">
-          <h3 class="projects__row-content-title">Project 2</h3>
-          <p class="projects__row-content-desc">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-            tempora, explicabo quae quod deserunt eius sapiente praesentium.
-          </p>
-          <a
-            href="./project-2.html"
-            class="btn btn--med btn--theme dynamicBgClr"
-            target="_blank"
-            >Case Study</a
-          >
-        </div>
-      </div>
-      <div class="projects__row">
-        <div class="projects__row-img-cont">
-          <img
-            src="./assets/jpeg/project-mockup-example.jpeg"
-            alt="Software Screenshot"
-            class="projects__row-img"
-            loading="lazy"
-          />
-        </div>
-        <div class="projects__row-content">
-          <h3 class="projects__row-content-title">Project 3</h3>
-          <p class="projects__row-content-desc">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-            tempora, explicabo quae quod deserunt eius sapiente praesentium.
-          </p>
-          <a
-            href="./project-3.html"
-            class="btn btn--med btn--theme dynamicBgClr"
-            target="_blank"
-            >Case Study</a
-          >
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- END Projects Section -->
-```
 
 ### Contact Section
 
@@ -1134,62 +821,7 @@ Currently, I have already added a separate for each project ( considering there 
 
 If you like to know how to submit forms so you can receive the form details in your email then highly recommend using **formspree.io** as it's easier to set up and free to use. If you are using **Netlify** to host the site then Netlify has an inbuilt form receiver which you can use instead of **formspree**.
 
-```html
-<!-- **** Contact Section of Homepage **** -->
-<section id="contact" class="contact sec-pad dynamicBg">
-  <div class="main-container">
-    <h2 class="heading heading-sec heading-sec__mb-med">
-      <span class="heading-sec__main heading-sec__main--lt">Contact</span>
-      <span class="heading-sec__sub heading-sec__sub--lt">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-        tempora explicabo quae quod deserunt eius sapiente
-      </span>
-    </h2>
-    <div class="contact__form-container">
-      <form action="#" class="contact__form">
-        <div class="contact__form-field">
-          <label class="contact__form-label" for="name">Name</label>
-          <input
-            required
-            placeholder="Enter Your Name"
-            type="text"
-            class="contact__form-input"
-            name="name"
-            id="name"
-          />
-        </div>
-        <div class="contact__form-field">
-          <label class="contact__form-label" for="email">Email</label>
-          <input
-            required
-            placeholder="Enter Your Email"
-            type="text"
-            class="contact__form-input"
-            name="email"
-            id="email"
-          />
-        </div>
-        <div class="contact__form-field">
-          <label class="contact__form-label" for="message">Message</label>
-          <textarea
-            required
-            cols="30"
-            rows="10"
-            class="contact__form-input"
-            placeholder="Enter Your Message"
-            name="message"
-            id="message"
-          ></textarea>
-        </div>
-        <button type="submit" class="btn btn--theme contact__btn">
-          Submit
-        </button>
-      </form>
-    </div>
-  </div>
-</section>
-<!-- END Contact Section -->
-```
+
 
 
 
@@ -1199,72 +831,7 @@ If you like to know how to submit forms so you can receive the form details in y
 - On `.main-footer__short-desc` put a short description about yourself.
 - On Anchor tag inside `.main-footer__social-cont`, fill the href attribute with a link related to your social media account.
 
-```html
-<!-- **** Footer Section **** -->
-<footer class="main-footer">
-  <div class="main-container">
-    <div class="main-footer__upper">
-      <div class="main-footer__row main-footer__row-1">
-        <h2 class="heading heading-sm main-footer__heading-sm">
-          <span>Social</span>
-        </h2>
-        <div class="main-footer__social-cont">
-          <a target="_blank" rel="noreferrer" href="#">
-            <img
-              class="main-footer__icon"
-              src="./assets/png/linkedin-ico.png"
-              alt="icon"
-            />
-          </a>
-          <a target="_blank" rel="noreferrer" href="#">
-            <img
-              class="main-footer__icon"
-              src="./assets/png/github-ico.png"
-              alt="icon"
-            />
-          </a>
-          <a target="_blank" rel="noreferrer" href="#">
-            <img
-              class="main-footer__icon"
-              src="./assets/png/twitter-ico.png"
-              alt="icon"
-            />
-          </a>
-          <a target="_blank" rel="noreferrer" href="#">
-            <img
-              class="main-footer__icon"
-              src="./assets/png/yt-ico.png"
-              alt="icon"
-            />
-          </a>
-          <a target="_blank" rel="noreferrer" href="#">
-            <img
-              class="main-footer__icon main-footer__icon--mr-none"
-              src="./assets/png/insta-ico.png"
-              alt="icon"
-            />
-          </a>
-        </div>
-      </div>
-      <div class="main-footer__row main-footer__row-2">
-        <h4 class="heading heading-sm text-lt">John Doe</h4>
-        <p class="main-footer__short-desc">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit facilis
-          tempora explicabo quae quod deserunt
-        </p>
-      </div>
-    </div>
 
-    <div class="main-footer__lower">
-      &copy; Copyright 2021. Made by
-      <a rel="noreferrer" target="_blank" href="https://rammaheshwari.com"
-        >Ram Maheshwari</a
-      >
-    </div>
-  </div>
-</footer>
-<!-- END Footer Section -->
-```
 
 <br/>
 
@@ -1282,25 +849,7 @@ Each project will have its own Page. The project page will have important detail
 - On `.text-primary` add a short description about the Project.
 - On Anchor Tag that says **Live Link** with class `btn btn--bg`, add the Project Live Link as the value for the href attribute.
 
-<!-- **** Project Section **** -->
 
-```html
-<section class="project-cs-hero">
-  <div class="project-cs-hero__content">
-    <h1 class="heading-primary">Project 1</h1>
-    <div class="project-cs-hero__info">
-      <p class="text-primary">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos in
-        numquam incidunt earum quaerat cum fuga, atque similique natus nobis
-        sit.
-      </p>
-    </div>
-    <div class="project-cs-hero__cta">
-      <a href="#" class="btn btn--bg" target="_blank">Live Link</a>
-    </div>
-  </div>
-</section>
-```
 
 <!-- **** END Project Hero Section **** -->
 
@@ -1314,73 +863,7 @@ Each project will have its own Page. The project page will have important detail
 
 <!-- **** Project Details Section **** -->
 
-```html
-<section class="project-details">
-  <div class="main-container">
-    <div class="project-details__content">
-      <div class="project-details__showcase-img-cont">
-        <img
-          src="./assets/jpeg/project-mockup-example.jpeg"
-          alt="Project Image"
-          class="project-details__showcase-img"
-        />
-      </div>
-      <div class="project-details__content-main">
-        <div class="project-details__desc">
-          <h3 class="project-details__content-title">Project Overview</h3>
-          <p class="project-details__desc-para">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque alias
-            tenetur minus quaerat aliquid, aut provident blanditiis, deleniti
-            aspernatur ipsam eaque veniam voluptatem corporis vitae mollitia
-            laborum corrupti ullam rem. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Neque alias tenetur minus quaerat aliquid, aut
-            provident blanditiis, deleniti aspernatur ipsam eaque veniam
-            voluptatem corporis vitae mollitia laborum corrupti ullam rem?
-          </p>
-          <p class="project-details__desc-para">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque alias
-            tenetur minus quaerat aliquid, aut provident blanditiis, deleniti
-            aspernatur ipsam eaque veniam voluptatem corporis vitae mollitia
-            laborum corrupti ullam rem?
-          </p>
-        </div>
-        <div class="project-details__tools-used">
-          <h3 class="project-details__content-title">Tools Used</h3>
-          <div class="skills">
-            <div class="skills__skill">HTML</div>
-            <div class="skills__skill">CSS</div>
-            <div class="skills__skill">JavaScript</div>
-            <div class="skills__skill">React</div>
-            <div class="skills__skill">SASS</div>
-            <div class="skills__skill">GIT</div>
-            <div class="skills__skill">Shopify</div>
-            <div class="skills__skill">Wordpress</div>
-            <div class="skills__skill">Google ADS</div>
-            <div class="skills__skill">Facebook Ads</div>
-            <div class="skills__skill">Android</div>
-            <div class="skills__skill">IOS</div>
-          </div>
-        </div>
-        <div class="project-details__links">
-          <h3 class="project-details__content-title">See Live</h3>
-          <a
-            href="#"
-            class="btn btn--med btn--theme project-details__links-btn"
-            target="_blank"
-            >Live Link</a
-          >
-          <a
-            href="#"
-            class="btn btn--med btn--theme-inv project-details__links-btn"
-            target="_blank"
-            >Code Link</a
-          >
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-```
+
 
 <!-- **** END Project Details Section **** -->
 
@@ -1790,24 +1273,7 @@ The alternative is to make a global class with the same name that redirects all 
 
 
 
-[![](https://user-images.githubusercontent.com/6134875/185914097-ea19b907-11d8-4e00-a358-dcc6e2fa622a.png)](https://store-jp.nintendo.com/list/software/70010000015506.html)
-[![](https://user-images.githubusercontent.com/6134875/185771324-5c8f09d8-50aa-412e-bdc1-3d1d3df6403f.png)](https://armorgames.com/economical-game/18860)
-[![](https://user-images.githubusercontent.com/6134875/185771326-4e81adec-6457-4234-a26a-d8d9f3383b1c.png)](https://armorgames.com/frugal-knight-game/18887)
-[![](https://user-images.githubusercontent.com/6134875/185771334-2a8c8477-d211-4e89-9327-8e7d2b4ed0f2.png)](https://armorgames.com/one-screen-run-game/19013)
-[![](https://user-images.githubusercontent.com/6134875/185771335-8c7ccb94-dbdf-43d1-b742-1cfe792ebdef.png)](https://armorgames.com/economical-2-game/19018)
-[![](https://user-images.githubusercontent.com/6134875/185771353-9cd176cb-a392-44bf-84e5-5728143981af.png)](https://armorgames.com/one-screen-run-2-game/19100)
-[![](https://user-images.githubusercontent.com/6134875/185771354-425ab388-300b-4249-8c03-67123b762c24.png)](https://armorgames.com/eco-connect-game/19101)
-[![](https://user-images.githubusercontent.com/6134875/185771356-4525a826-cfb9-4854-a31f-2b67fe2a013b.png)](https://armorgames.com/telepobox-game/19121)
-[![](https://user-images.githubusercontent.com/6134875/185771365-223dfb1e-5db1-4f42-a6ba-18ae5f0f5935.png)](https://armorgames.com/move-box-game/19139)
-[![](https://user-images.githubusercontent.com/6134875/185771366-8ddbcfb2-0407-4c57-a1f0-acda2403335b.png)](https://armorgames.com/slide-box-game/19154)
-[![](https://user-images.githubusercontent.com/6134875/185771370-af5b34ee-cef7-4d0e-8320-2de4197c2d6d.png)](https://armorgames.com/white-pen-road-game/19185)
-[![](https://user-images.githubusercontent.com/6134875/185771374-93d39b00-dde1-4cbb-882b-07e55a1c81eb.png)](https://armorgames.com/drag-box-game/19221)
-[![](https://user-images.githubusercontent.com/6134875/185771377-6852c47d-97d1-4367-bd3c-f7d52a14122f.png)](https://armorgames.com/erase-box-game/19256)
-[![](https://user-images.githubusercontent.com/6134875/185771378-5db1de57-f89a-4a4f-aeea-839fa98dc443.png)](https://armorgames.com/slide-box-2-game/19257)
-[![](https://user-images.githubusercontent.com/6134875/185771379-d5f8b751-b508-4a7e-9715-bda47d80dde7.png)](https://armorgames.com/telepobox-2-game/19258)
-[![](https://github.com/baba-s/baba-s/assets/6134875/6faa4932-05c9-49d9-b0c9-07dcd7746c89)](https://armorgames.com/arrow-box-game/19319)
-[![](https://github.com/baba-s/baba-s/assets/6134875/cec5d67c-868c-4f5a-9b08-10799297c91c)](https://armorgames.com/rotate-box-game/19321)
-[![](https://github.com/baba-s/baba-s/assets/6134875/d93d9097-d0cb-4176-8b76-ee38e13539dc)](https://armorgames.com/ninja-auto-run-game/19320)
+
 
 [![](https://github-readme-stats.vercel.app/api?username=baba-s&hide=contribs&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100&)](https://github.com/anuraghazra/github-readme-stats)
@@ -2864,7 +2330,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <h3 align="center">
 📛Github Usernames📛 
 </br> 
-<img src="https://raw.githubusercontent.com/trinib/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
