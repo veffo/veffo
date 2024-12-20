@@ -16,15 +16,29 @@ Here are some ideas to get you started:
 -->
 
 
+Whoami 👤
+Tools of Trade 🛠️
+Experience 👨‍💼💼
+Languages 📝🗣️
+Volunteering 🙋‍♂️
+
+## Table of contents
+
+- Web: Node.js, React.js, TailwindCSS
+- Database: PostgreSQL, MySQL, MongoDB
+- Containerization: Docker, Kubernetes, Rancher
+- Cloud Computing: Digital Ocean, MVPS, Microsoft Azure, AWS
+- CI/CD: TravisCI, CircleCI, Jenkins
+- Scripting/Automation: Shell, CMD, Python, Ansible
+- IAC: CloudFormation
+- Server Administration: Linux, Windows, Nginx, Apache
+- Computer Vision: Intel® OpenVINO Toolkit, OpenCV
+- Artificial Intelligence: Microsoft Azure Studio
 
 
-
-
-
-
-
-
-
+My professional experience cuts across computer engineering, networking, systems administration and software development. See my Linkedin profile for more info.
+English (Professional)
+Yoruba (Native)
 
 <p align="center">
   <a href="https://getbootstrap.com/">
