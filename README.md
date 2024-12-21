@@ -108,28 +108,28 @@ Yoruba (Native)
 
 
 
-## 🔗🚀 Links
+##  Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
 
-🧠 I'm currently learning...
 
-👯‍♀️ I'm looking to collaborate on...
+ I'm currently learning...
 
-🤔 I'm looking for help with...
+ I'm looking to collaborate on...
 
-💬 Ask me about...
+ I'm looking for help with...
 
-📫 How to reach me...
+ Ask me about...
 
-😄 Pronouns...
+ How to reach me...
 
-⚡️ Fun fact...
+ Pronouns...
+
+ Fun fact...
 
 
 ## 🛠 Skills
@@ -196,25 +196,11 @@ Here are some ideas to get you started:
 
 
 
-### Languages and Tools
 
-<img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/nodedotjs.svg" alt="Node.js" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/react.svg" alt="React.js" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/sequelize.svg" alt="Sequelize" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
-<br />
 
 #
 
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
 
 
@@ -234,13 +220,13 @@ When I am not working on an Open Source Project I enjoy sharing my knowledge wit
 
 
 
-## 👋 Hello! 
+## 👋💻📚 Hello! 
 Software engineer with 7+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
 
 
 
-## 💻📚 Interesting Contributions
-[![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)](https://github.com/airbnb/javascript/pull/1693)
+
+
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
@@ -256,20 +242,7 @@ Software engineer with 7+ years of experience.  Worked for innovative startups, 
 
 
 
-<!--
-**AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # 💫 About Me:
 👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 rammaheshwari.com <br>
@@ -465,6 +438,7 @@ Languages I know:
 
 
 👋📚💻🌐🔭🎯🌍🚀🎨📖💡📫👨‍💻😅⚡🛠️👤👨‍💼💼📝🗣️🙋‍♂️🧪🔬😀⚽💓👋🏼🎲📛🌐👨‍💻☁️✏️🚀💭🖼️💬❤️📈💼📫⬇️💻👨‍💻🔭✨🔭🌱👯🤔💬📫😄⚡👋✨🔥📊
+👩‍💻🧠👯‍♀️🤔💬📫😄⚡️🔗🚀✨🔭🌱👯🤔💬📫😄⚡
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -475,7 +449,9 @@ Languages I know:
 🌼
 <img src="https://github.com/dlirA01/dlirA01/blob/main/wave.gif" width="28px"/>
 <img src="https://github.com/dlirA01/dlirA01/blob/main/wink-tounge.gif" width="28px"/>
-
+<div align="center">
+### Show some ❤️ by starring some of the repositories!
+</div>
 
 
 
