@@ -154,6 +154,155 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
+## Hi there 👋
+
+<!--
+**veffo/veffo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+Whoami 👤
+Tools of Trade 🛠️
+Experience 👨‍💼💼
+Languages 📝🗣️
+Volunteering 🙋‍♂️
+
+## Table of contents
+## Tools of Trade
+- Web: Node.js, React.js, TailwindCSS
+- Database: PostgreSQL, MySQL, MongoDB
+- Containerization: Docker, Kubernetes, Rancher
+- Cloud Computing: Digital Ocean, MVPS, Microsoft Azure, AWS
+- CI/CD: TravisCI, CircleCI, Jenkins
+- Scripting/Automation: Shell, CMD, Python, Ansible
+- IAC: CloudFormation
+- Server Administration: Linux, Windows, Nginx, Apache
+- Computer Vision: Intel® OpenVINO Toolkit, OpenCV
+- Artificial Intelligence: Microsoft Azure Studio
+
+## Experience
+My professional experience cuts across computer engineering, networking, systems administration and software development. See my Linkedin profile for more info.
+
+## Languages
+English (Professional)
+Yoruba (Native)
+
+
+
+#
+<!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
+<h2 align="center">
+Join the Word Cloud Board :cloud: :pencil2:
+
+### :thought_balloon: <a href="https://github.com/trinib/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E"><b>Add your name</b></a> to see the word cloud update in real time :rocket:
+
+:star2: 📛🌐👨‍💻Don't like the arrangement? <a href="https://github.com/trinib/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Regenerate it</b></a> :game_die:
+
+<!--🖼️🖼️INTERSTLOGOS-->
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+</h4>
+
+
+
+
+
+  <h3 align= "center"> Hello World 👋🏼 It's Avid Coder 💓 </h3>
+
+----
+
+ Here's some fun facts about me:
+
+- I hope to pursue a career in web development one day (but for now, I stick to open-source contributions 😀)
+- Although I code, my main career focus is to work in medical science 🧪🔬
+- I love football (soccer) ⚽
+- I created [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) and am part of so many more organisations!
+
+-----
+
+
+
+Organisations I am part of:
+
+[<img src= "https://avatars.githubusercontent.com/u/66388388?s=88&v=4" height= "50" width= "50">](https://github.com/EddieHubCommunity)
+[<img src= "https://avatars.githubusercontent.com/u/35373879?s=60&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
+[<img src= "https://avatars.githubusercontent.com/u/87652881?s=200&v=4" height= "50" width= "50">](https://github.com/CodingContributorsLair)
+[<img src= "https://avatars.githubusercontent.com/u/67384272?s=88&v=4" height= "50" width= "50">](https://github.com/MakeContributions)
+[<img src= "https://avatars.githubusercontent.com/u/37713493?s=88&v=4" height= "50" width= "50">](https://github.com/firstcontributions)
+[<img src= "https://avatars.githubusercontent.com/u/24355438?s=88&v=4" height= "50" width= "50">](https://github.com/fnplus)
+[<img src= "https://avatars.githubusercontent.com/u/68013560?s=88&v=4" height= "50" width= "50">](https://github.com/jobream)
+[<img src= "https://avatars.githubusercontent.com/u/88003901?s=60&v=4" height= "50" width= "50">](https://github.com/App-Choreography)
+[<img src= "https://avatars.githubusercontent.com/u/78741698?s=60&v=4" height= "50" width= "50">](https://github.com/chryz-hub)
+[<img src= "https://avatars.githubusercontent.com/u/55499010?s=60&v=4" height= "50" width= "50">](https://github.com/devcreatives)
+[<img src= "https://avatars.githubusercontent.com/u/69833530?s=60&v=4" height= "50" width= "50">](https://github.com/uncodedtech)
+[<img src= "https://avatars.githubusercontent.com/u/70080194?s=64&v=4" height= "50" width= "50">](https://github.com/golang-friends)
+[<img src= "https://avatars.githubusercontent.com/u/72601117?s=200&v=4" height= "50" width= "50">](https://github.com/nit-ap)
+[<img src= "https://avatars.githubusercontent.com/u/72855943?s=88&v=4" height= "50" width= "50">](https://github.com/CodeAvailable)
+[<img src= "https://avatars.githubusercontent.com/u/75231084?s=88&v=4" height= "50" width= "50">](https://github.com/RoquesBeach)
+[<img src= "https://avatars.githubusercontent.com/u/85593293?s=200&v=4" height= "50" width= "50">](https://github.com/64-shades)
+[<img src= "https://avatars.githubusercontent.com/u/81645243?s=64&v=4" height= "50" width= "50">](https://github.com/nhcommunity)
+[<img src= "https://avatars.githubusercontent.com/u/97304647?s=64&v=4" height= "50" width= "50">](https://github.com/Intel-Student-Ambassadors)
+[<img src= "https://avatars.githubusercontent.com/u/95956083?s=64&v=4" height= "50" width= "50">](https://github.com/InnateComm)
+[<img src= "https://avatars.githubusercontent.com/u/95483713?s=64&v=4" height= "50" width= "50">](https://github.com/CommunityPro)
+[<img src= "https://avatars.githubusercontent.com/u/90423790?s=64&v=4" height= "50" width= "50">](https://github.com/Robotics-Club-BMU)
+[<img src= "https://avatars.githubusercontent.com/u/86231837?s=200&v=4" height= "50" width= "50">](https://github.com/OSCA-Kampala-Chapter)
+[<img src= "https://avatars.githubusercontent.com/u/90124840?s=64&v=4" height= "50" width= "50">](https://github.com/Bauddhik-Geeks)
+[<img src= "https://avatars.githubusercontent.com/u/88617467?s=64&v=4" height= "50" width= "50">](https://github.com/OpInCo-Community)
+[<img src= "https://avatars.githubusercontent.com/u/86716722?s=64&v=4" height= "50" width= "50">](https://github.com/CURAJ-Open-Source-Community)
+[<img src= "https://avatars.githubusercontent.com/u/83757303?s=64&v=4" height= "50" width= "50">](https://github.com/CuriousGrids)
+[<img src= "https://avatars.githubusercontent.com/u/37249458?s=64&v=4" height= "50" width= "50">](https://github.com/risk-first)
+[<img src= "https://avatars.githubusercontent.com/u/83161372?s=200&v=4" height= "50" width= "50">](https://github.com/devstrons)
+[<img src= "https://avatars.githubusercontent.com/u/92242633?s=200&v=4" height= "50" width= "50">](https://github.com/websycode)
+[<img src= "https://avatars.githubusercontent.com/u/95528872?s=200&v=4" height= "50" width= "50">](https://github.com/Magic-Academy)
+[<img src= "https://avatars.githubusercontent.com/u/83478816?s=200&v=4" height= "50" width= "50">](https://github.com/Design-and-Code)
+[<img src= "https://avatars.githubusercontent.com/u/107547777?s=200&v=4" height= "50" width= "50">](https://github.com/AccessibleForAll)
+[<img src= "https://avatars.githubusercontent.com/u/105087028?s=200&v=4" height= "50" width= "50">](https://github.com/infraform)
+[<img src= "https://avatars.githubusercontent.com/u/99540144?s=200&v=4" height= "50" width= "50">](https://github.com/devs-in-tech)
+[<img src= "https://avatars.githubusercontent.com/u/88209946?s=200&v=4" height= "50" width= "50">](https://github.com/The-CODE-Plus-Plus-Community)
+[<img src= "https://avatars.githubusercontent.com/u/99627011?s=200&v=4" height= "50" width= "50">](https://github.com/Huniko-Team)
+
+---
+
+Languages I know:
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1489,194 +1638,6 @@ To run tests, run the following command
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <h3 align= "center"> Hello World 👋🏼 It's Avid Coder 💓 </h3>
-
-----
-
- Here's some fun facts about me:
-
-- I hope to pursue a career in web development one day (but for now, I stick to open-source contributions 😀)
-- Although I code, my main career focus is to work in medical science 🧪🔬
-- I love football (soccer) ⚽
-- I created [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) and am part of so many more organisations!
-
------
-
-
-
-Organisations I am part of:
-
-[<img src= "https://avatars.githubusercontent.com/u/66388388?s=88&v=4" height= "50" width= "50">](https://github.com/EddieHubCommunity)
-[<img src= "https://avatars.githubusercontent.com/u/35373879?s=60&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
-[<img src= "https://avatars.githubusercontent.com/u/87652881?s=200&v=4" height= "50" width= "50">](https://github.com/CodingContributorsLair)
-[<img src= "https://avatars.githubusercontent.com/u/67384272?s=88&v=4" height= "50" width= "50">](https://github.com/MakeContributions)
-[<img src= "https://avatars.githubusercontent.com/u/37713493?s=88&v=4" height= "50" width= "50">](https://github.com/firstcontributions)
-[<img src= "https://avatars.githubusercontent.com/u/24355438?s=88&v=4" height= "50" width= "50">](https://github.com/fnplus)
-[<img src= "https://avatars.githubusercontent.com/u/68013560?s=88&v=4" height= "50" width= "50">](https://github.com/jobream)
-[<img src= "https://avatars.githubusercontent.com/u/88003901?s=60&v=4" height= "50" width= "50">](https://github.com/App-Choreography)
-[<img src= "https://avatars.githubusercontent.com/u/78741698?s=60&v=4" height= "50" width= "50">](https://github.com/chryz-hub)
-[<img src= "https://avatars.githubusercontent.com/u/55499010?s=60&v=4" height= "50" width= "50">](https://github.com/devcreatives)
-[<img src= "https://avatars.githubusercontent.com/u/69833530?s=60&v=4" height= "50" width= "50">](https://github.com/uncodedtech)
-[<img src= "https://avatars.githubusercontent.com/u/70080194?s=64&v=4" height= "50" width= "50">](https://github.com/golang-friends)
-[<img src= "https://avatars.githubusercontent.com/u/72601117?s=200&v=4" height= "50" width= "50">](https://github.com/nit-ap)
-[<img src= "https://avatars.githubusercontent.com/u/72855943?s=88&v=4" height= "50" width= "50">](https://github.com/CodeAvailable)
-[<img src= "https://avatars.githubusercontent.com/u/75231084?s=88&v=4" height= "50" width= "50">](https://github.com/RoquesBeach)
-[<img src= "https://avatars.githubusercontent.com/u/85593293?s=200&v=4" height= "50" width= "50">](https://github.com/64-shades)
-[<img src= "https://avatars.githubusercontent.com/u/81645243?s=64&v=4" height= "50" width= "50">](https://github.com/nhcommunity)
-[<img src= "https://avatars.githubusercontent.com/u/97304647?s=64&v=4" height= "50" width= "50">](https://github.com/Intel-Student-Ambassadors)
-[<img src= "https://avatars.githubusercontent.com/u/95956083?s=64&v=4" height= "50" width= "50">](https://github.com/InnateComm)
-[<img src= "https://avatars.githubusercontent.com/u/95483713?s=64&v=4" height= "50" width= "50">](https://github.com/CommunityPro)
-[<img src= "https://avatars.githubusercontent.com/u/90423790?s=64&v=4" height= "50" width= "50">](https://github.com/Robotics-Club-BMU)
-[<img src= "https://avatars.githubusercontent.com/u/86231837?s=200&v=4" height= "50" width= "50">](https://github.com/OSCA-Kampala-Chapter)
-[<img src= "https://avatars.githubusercontent.com/u/90124840?s=64&v=4" height= "50" width= "50">](https://github.com/Bauddhik-Geeks)
-[<img src= "https://avatars.githubusercontent.com/u/88617467?s=64&v=4" height= "50" width= "50">](https://github.com/OpInCo-Community)
-[<img src= "https://avatars.githubusercontent.com/u/86716722?s=64&v=4" height= "50" width= "50">](https://github.com/CURAJ-Open-Source-Community)
-[<img src= "https://avatars.githubusercontent.com/u/83757303?s=64&v=4" height= "50" width= "50">](https://github.com/CuriousGrids)
-[<img src= "https://avatars.githubusercontent.com/u/37249458?s=64&v=4" height= "50" width= "50">](https://github.com/risk-first)
-[<img src= "https://avatars.githubusercontent.com/u/83161372?s=200&v=4" height= "50" width= "50">](https://github.com/devstrons)
-[<img src= "https://avatars.githubusercontent.com/u/92242633?s=200&v=4" height= "50" width= "50">](https://github.com/websycode)
-[<img src= "https://avatars.githubusercontent.com/u/95528872?s=200&v=4" height= "50" width= "50">](https://github.com/Magic-Academy)
-[<img src= "https://avatars.githubusercontent.com/u/83478816?s=200&v=4" height= "50" width= "50">](https://github.com/Design-and-Code)
-[<img src= "https://avatars.githubusercontent.com/u/107547777?s=200&v=4" height= "50" width= "50">](https://github.com/AccessibleForAll)
-[<img src= "https://avatars.githubusercontent.com/u/105087028?s=200&v=4" height= "50" width= "50">](https://github.com/infraform)
-[<img src= "https://avatars.githubusercontent.com/u/99540144?s=200&v=4" height= "50" width= "50">](https://github.com/devs-in-tech)
-[<img src= "https://avatars.githubusercontent.com/u/88209946?s=200&v=4" height= "50" width= "50">](https://github.com/The-CODE-Plus-Plus-Community)
-[<img src= "https://avatars.githubusercontent.com/u/99627011?s=200&v=4" height= "50" width= "50">](https://github.com/Huniko-Team)
-
----
-
-Languages I know:
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-#
-<!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
-<h2 align="center">
-Join the Word Cloud Board :cloud: :pencil2:
-
-### :thought_balloon: <a href="https://github.com/trinib/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E"><b>Add your name</b></a> to see the word cloud update in real time :rocket:
-
-:star2: 📛🌐👨‍💻Don't like the arrangement? <a href="https://github.com/trinib/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Regenerate it</b></a> :game_die:
-
-<!--🖼️🖼️INTERSTLOGOS-->
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-</h4>
-
-
- 
-
-
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Gatsby + Netlify CMS Starter
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
@@ -2076,33 +2037,7 @@ return (
 
 
 
-## Changelog
 
-1.3.3: Update package.json peerDependencies to support react 18 - (From: [@mjauernig](https://github.com/mjauernig))
-
-1.3.2: Fix build issue encountered with 1.3.1
-
-1.3.1: Fix issue preventing fixed elements to work properly - (From: [@ManuDoni](https://github.com/ManuDoni))
-
-1.3.0: Add a _resistance_ prop, that allows to adjust the pull down difficulty - (From: [@joshuahiggins](https://github.com/joshuahiggins))
-
-1.2.5: Fix event listenter leaks - (From: [@d-s-x](https://github.com/d-s-x))
-
-1.2.4: Fix overscroll on iOS Safari - (From: [@d-s-x](https://github.com/d-s-x))
-
-1.2.3: Add React 17+ as valid peer dependencies - (From: [@Felixmosh](https://github.com/felixmosh))
-
-1.2.2: Remove non-null assertion operators from ref.current + TouchEvent check for Mozilla - (From: [@HamAndRock](https://github.com/HamAndRock))
-
-1.2.1: Remove unnecessary z-index
-
-1.2.0: onRefresh and onFetchMore now require to be of type () => Promise<any>
-
-1.1.2: Bind Scroll event to Window
-
-1.1.0: Check for "canFetchMore" value for each scroll events.
-
-1.1.0: Add a Fetch More feature
 
 
 
@@ -2210,49 +2145,7 @@ return (
 
 
 
-## Hi there 👋
 
-<!--
-**veffo/veffo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-Whoami 👤
-Tools of Trade 🛠️
-Experience 👨‍💼💼
-Languages 📝🗣️
-Volunteering 🙋‍♂️
-
-## Table of contents
-## Tools of Trade
-- Web: Node.js, React.js, TailwindCSS
-- Database: PostgreSQL, MySQL, MongoDB
-- Containerization: Docker, Kubernetes, Rancher
-- Cloud Computing: Digital Ocean, MVPS, Microsoft Azure, AWS
-- CI/CD: TravisCI, CircleCI, Jenkins
-- Scripting/Automation: Shell, CMD, Python, Ansible
-- IAC: CloudFormation
-- Server Administration: Linux, Windows, Nginx, Apache
-- Computer Vision: Intel® OpenVINO Toolkit, OpenCV
-- Artificial Intelligence: Microsoft Azure Studio
-
-## Experience
-My professional experience cuts across computer engineering, networking, systems administration and software development. See my Linkedin profile for more info.
-
-## Languages
-English (Professional)
-Yoruba (Native)
 
 <p align="center">
   <a href="https://getbootstrap.com/">
@@ -2698,7 +2591,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).<br/>
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
 
 
 
@@ -2746,21 +2642,14 @@ email: example@email.com
     <p align="center">
         An awesome readme Template extension to quickstart your project
         <br />
-        <a href="https://marketplace.visualstudio.com/items?itemName=oGranny.md-template"><strong>Visual studio market place 📃</strong></a>
-        <br />
-        <br />
-        <a href="//github.com/Md-Template/ oGranny">View Demo</a>
-        •
-        <a href="https://github.com/oGranny/readme-template-extension/issues">Report Bug</a>
-        •
-        <a href="https://github.com/oGranny/readme-template-extension/issues">Request Feature</a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=oGranny.md-template"><strong>Visual studio market place </strong></a>
     </p>
 </p>
 
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## Table of Contents📃
 
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
@@ -2808,9 +2697,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
