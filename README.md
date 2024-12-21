@@ -14,7 +14,16 @@
 
 
 
+<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
+<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 3°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>08:43</b> and sets at <b>14:47</b>.</p>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 20 December, 01:03 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
 
 
@@ -99,6 +108,32 @@ Yoruba (Native)
 
 
 
+## 🔗🚀 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
 
 
 
@@ -106,6 +141,151 @@ Yoruba (Native)
 
 
 
+
+
+
+## Hi there नमस्ते (Namaste)! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
+<h4> Fullstack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
+I'm a full-stack web-developer from Kathmandu, Nepal. I graduated in Computer Science and Information Technology from Prime College, Nepal. I like building new stuff and working with other people.
+
+
+[![Instagram Badge](https://img.shields.io/badge/-@prajwal.iar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/prajwal.iar/)](https://instagram.com/prajwal.iar)
+[![Gmail Badge](https://img.shields.io/badge/-prajwal.iar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwal.iar@gmail.com)](mailto:prajwal.iar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal100/)](https://www.linkedin.com/in/prajwal100/)
+[![Telegram Badge](https://img.shields.io/badge/-@prajwalrai-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Praajwal.iar/ "Contact on Telegram")
+
+Like My Work?
+
+[![Hire Me on Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~01210bb2575a8c05a9)
+
+### You can find my stuff here :leaves:
+
+- My Personal Website :yum: [raiprajwal.com](https://raiprajwal.com)
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Dimitra Technology
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+## ⚡ Technologies
+
+<!--- just --->
+
+![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)
+![VueJs](https://img.shields.io/badge/vuejs-2.x-brightgreen.svg?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-2F323A?style=flat-square&logo=TypeORM&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
+
+
+
+### Languages and Tools
+
+<img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/nodedotjs.svg" alt="Node.js" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/react.svg" alt="React.js" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/sequelize.svg" alt="Sequelize" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
+<br />
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+
+
+
+
+### Hi there 👋 I'm Ashley Bibizadeh (SimpleTut)
+
+[![](https://vistr.dev/badge?repo=simpletut.simpletut&corners=square)](https://github.com/simpletut/vistr.dev)
+[![](https://img.shields.io/badge/-@simpletut-%23181717?style=flat-square&logo=github)](https://github.com/simpletut)
+
+I am a Lead Software Engineer living and working in London (UK) and I am passionate about working with development technologies including Blockchain, Web3, Node JS, React JS, Redux, Apollo and GraphQL.
+
+When I am not working on an Open Source Project I enjoy sharing my knowledge with you, creating premium video tutorials on [My YouTube channel](https://www.youtube.com/c/simpletut) that can help fast track your careers.
+
+
+
+
+
+
+## 👋 Hello! 
+Software engineer with 7+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
+
+
+
+## 💻📚 Interesting Contributions
+[![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)](https://github.com/airbnb/javascript/pull/1693)
+
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
+![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
+![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+
+
+
+<!--
+**AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+# 💫 About Me:
+👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 rammaheshwari.com <br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rammcodes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rammcodes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rammcodes_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rammcodes) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=rammcodes&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
@@ -917,21 +1097,7 @@ I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )
 
 
 
-# 💫 About Me:
-👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 rammaheshwari.com <br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rammcodes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rammcodes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rammcodes_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rammcodes) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=rammcodes&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
@@ -1209,56 +1375,6 @@ public class GizmoDrawer : MonoBehaviour
 
 
 
-### Hi there 👋 I'm Ashley Bibizadeh (SimpleTut)
-
-[![](https://vistr.dev/badge?repo=simpletut.simpletut&corners=square)](https://github.com/simpletut/vistr.dev)
-[![](https://img.shields.io/badge/-@simpletut-%23181717?style=flat-square&logo=github)](https://github.com/simpletut)
-
-I am a Lead Software Engineer living and working in London (UK) and I am passionate about working with development technologies including Blockchain, Web3, Node JS, React JS, Redux, Apollo and GraphQL.
-
-When I am not working on an Open Source Project I enjoy sharing my knowledge with you, creating premium video tutorials on [My YouTube channel](https://www.youtube.com/c/simpletut) that can help fast track your careers.
-
-
-
-
-
-
-## 👋 Hello! 
-Software engineer with 7+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
-
-
-
-## 💻📚 Interesting Contributions
-[![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)](https://github.com/airbnb/javascript/pull/1693)
-
-## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
-![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
-![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
-
-
-
-<!--
-**AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
@@ -1270,77 +1386,8 @@ Here are some ideas to get you started:
 
 
 
-## Hi there नमस्ते (Namaste)! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
-<h4> Fullstack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-I'm a full-stack web-developer from Kathmandu, Nepal. I graduated in Computer Science and Information Technology from Prime College, Nepal. I like building new stuff and working with other people.
 
 
-[![Instagram Badge](https://img.shields.io/badge/-@prajwal.iar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/prajwal.iar/)](https://instagram.com/prajwal.iar)
-[![Gmail Badge](https://img.shields.io/badge/-prajwal.iar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwal.iar@gmail.com)](mailto:prajwal.iar@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal100/)](https://www.linkedin.com/in/prajwal100/)
-[![Telegram Badge](https://img.shields.io/badge/-@prajwalrai-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Praajwal.iar/ "Contact on Telegram")
-
-Like My Work?
-
-[![Hire Me on Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~01210bb2575a8c05a9)
-
-### You can find my stuff here :leaves:
-
-- My Personal Website :yum: [raiprajwal.com](https://raiprajwal.com)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Dimitra Technology
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## ⚡ Technologies
-
-<!--- just --->
-
-![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)
-![VueJs](https://img.shields.io/badge/vuejs-2.x-brightgreen.svg?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
-![TypeORM](https://img.shields.io/badge/-TypeORM-2F323A?style=flat-square&logo=TypeORM&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
-
-
-
-### Languages and Tools
-
-<img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/nodedotjs.svg" alt="Node.js" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/react.svg" alt="React.js" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/sequelize.svg" alt="Sequelize" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
-<br />
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
 
 
@@ -1430,32 +1477,7 @@ If you have any feedback, please reach out to us at fake@fake.com
 
 
 
-## 🔗🚀 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
 
 
 ## Installation
@@ -2012,16 +2034,7 @@ return (
 </table>
 
 
-<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 3°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>08:43</b> and sets at <b>14:47</b>.</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
 
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 20 December, 01:03 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
 
 
