@@ -68,7 +68,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+
 
 
 
@@ -97,6 +97,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge"> </p>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight"> </p>
 
 ### :woman_technologist: &nbsp;About Me :
 
