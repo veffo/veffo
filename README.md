@@ -13,7 +13,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight"> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,14 +21,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 
 
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
 
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200">
 
-<!--📙✨👀LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+
 
 
 
