@@ -14,7 +14,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight"> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -42,9 +42,11 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 ----
 
 # 📊 GitHub Stats:
+[![](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=simpletut&show_icons=true&theme=dracula)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonigh)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Prajwal100&count_private=true&show_icons=true&include_all_commits=true)<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
 [![](https://github-readme-stats.vercel.app/api?username=baba-s&hide=contribs&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -52,14 +54,14 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 📊 Statistics
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Prajwal100&count_private=true&show_icons=true&include_all_commits=true)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal100&hide=TeX&layout=compact)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=prajwal100&color=green)
+
 
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
@@ -97,7 +99,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge"> </p>
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight"> </p>
+![Visitor Badge](https://komarev.com/ghpvc/?username=prajwal100&color=green)
 
 ### :woman_technologist: &nbsp;About Me :
 
