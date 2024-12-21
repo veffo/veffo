@@ -1,4 +1,8 @@
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+</a> | <a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
+</a> |
 | ------------- | ------------- |
 
 
@@ -18,65 +22,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ----
 
 # 📊 GitHub Stats:
 <!-- &theme=dracula &theme=dark &theme=tokyonight &hide_border=false &hide=contribs -->
 [![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
-  </samp>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-## Connect with me
-
-
-[<img src="https://github.com/dlirA01/dlirA01/blob/main/codepen.svg" height="12px"/>][codepen] [Codepen][codepen]
-[codepen]: https://codepen.io/areal_alien
-
-
-
-
-
-
-
 
 
 
@@ -94,6 +44,7 @@
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=green&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> codepen </p>
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -149,6 +100,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## Experience
 My professional experience cuts across computer engineering, networking, systems administration and software development. See my Linkedin profile for more info.
+
+<p align="center">
+  A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+</p>
 
 ## Languages
 English (Professional)
