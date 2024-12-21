@@ -46,7 +46,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 ![](https://github-readme-stats.vercel.app/api?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
-![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonigh&count_private=true&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true)<br/>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
