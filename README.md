@@ -6,6 +6,7 @@
 <!--
 https://github-readme-streak-stats.herokuapp.com/?user=rammcodes&theme=dark&hide_border=false
 https://github-readme-stats.vercel.app/api/top-langs/?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
+https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100&(https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
@@ -42,12 +43,12 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=rammcodes&theme=d
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=simpletut&show_icons=true&theme=dracula)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonigh)<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
 [![](https://github-readme-stats.vercel.app/api?username=baba-s&hide=contribs&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100&)](https://github.com/anuraghazra/github-readme-stats)
+
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 📊 Statistics
@@ -65,13 +66,13 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=rammcodes&theme=d
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
 
-## 𝗦𝘁𝗮𝘁𝘀
 
-![simpletut's github stats](https://github-readme-stats.vercel.app/api?username=simpletut&show_icons=true&theme=dracula)
+
+
 
 
 
