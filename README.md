@@ -68,6 +68,44 @@ My Github stats:
 
 ----
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rammcodes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+[![](https://github-readme-stats.vercel.app/api?username=baba-s&hide=contribs&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100&)](https://github.com/anuraghazra/github-readme-stats)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## 📊 Statistics
+[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Prajwal100&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal100&hide=TeX&layout=compact)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=prajwal100&color=green)
+
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -723,10 +761,7 @@ I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rammcodes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rammcodes&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -990,12 +1025,9 @@ public class GizmoDrawer : MonoBehaviour
 
 
 
-[![](https://github-readme-stats.vercel.app/api?username=baba-s&hide=contribs&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100&)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=baba_s&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -1031,10 +1063,9 @@ When I am not working on an Open Source Project I enjoy sharing my knowledge wit
 ## 👋 Hello! 
 Software engineer with 7+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
 
-## 📚 Writing
-Besides developing, I also run a [Youtube Channel](https://www.youtube.com/channel/UCW_4e6sUTMWHxlF06aErH9w).
 
-## 💻 Interesting Contributions
+
+## 💻📚 Interesting Contributions
 [![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)](https://github.com/airbnb/javascript/pull/1693)
 
 ## 🛠️ Technologies & Tools
@@ -1049,8 +1080,7 @@ Besides developing, I also run a [Youtube Channel](https://www.youtube.com/chann
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
-## 📊 Statistics
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -1127,11 +1157,7 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Prajwal100&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal100&hide=TeX&layout=compact)
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=prajwal100&color=green)
 
 ### Languages and Tools
 
@@ -1385,13 +1411,7 @@ To run tests, run the following command
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
 
 
 
