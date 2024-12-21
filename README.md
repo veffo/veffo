@@ -67,12 +67,8 @@
 
 ## Connect with me
 
-<img src="https://github.com/dlirA01/dlirA01/blob/main/codepen.svg" height="12px"/>
+
 [<img src="https://github.com/dlirA01/dlirA01/blob/main/codepen.svg" height="12px"/>][codepen] [Codepen][codepen]
-
-<br />
-
----
 [codepen]: https://codepen.io/areal_alien
 
 
