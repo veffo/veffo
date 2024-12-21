@@ -49,6 +49,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 
 
 
+
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
@@ -90,7 +91,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge"> </p>
-![Visitor Badge](https://komarev.com/ghpvc/?username=prajwal100&color=green)
+[![Visitor Badge](https://komarev.com/ghpvc/?username=prajwal100&color=green)]
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -140,9 +141,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### My Github stats :
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
 
 <table>
     <tr>
