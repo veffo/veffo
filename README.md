@@ -67,6 +67,7 @@
 
 ## Connect with me
 
+<img src="https://github.com/dlirA01/dlirA01/blob/main/codepen.svg" height="12px"/>
 [<img src="https://github.com/dlirA01/dlirA01/blob/main/codepen.svg" height="12px"/>][codepen] [Codepen][codepen]
 
 <br />
@@ -74,9 +75,7 @@
 ---
 [codepen]: https://codepen.io/areal_alien
 
-🌼
-<img src="https://github.com/dlirA01/dlirA01/blob/main/wave.gif" width="28px"/>][youtube]
-[<img src="https://github.com/dlirA01/dlirA01/blob/main/wink-tounge.gif" width="28px"/>][youtube]
+
 
 
 
@@ -354,7 +353,9 @@ Languages I know:
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-
+🌼
+<img src="https://github.com/dlirA01/dlirA01/blob/main/wave.gif" width="28px"/>
+<img src="https://github.com/dlirA01/dlirA01/blob/main/wink-tounge.gif" width="28px"/>
 
 
 
