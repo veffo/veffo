@@ -5,6 +5,8 @@
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
 
 
 
