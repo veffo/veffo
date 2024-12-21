@@ -17,7 +17,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=dark&background=000000"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsZed0&theme=dark&background=000000"/>
         </td>
         <td>
             <img src="https://github-profile-trophy.vercel.app/?username=AvidCoder101"/>
