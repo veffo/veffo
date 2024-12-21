@@ -40,18 +40,13 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 
 
 ----
-<!-- theme=dracula &hide=contribs -->
+
 # 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://github-readme-stats.vercel.app/api?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs)<br/>
+<!-- &theme=dracula &theme=dark &hide_border=false &hide=contribs -->
+[![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 
 
-
-[![](https://github-readme-stats.vercel.app/api?username=baba-s)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
