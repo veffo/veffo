@@ -3,24 +3,18 @@
 
 
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
 
 
 
 
-
-### 🔥 &nbsp; My Stats :
+### My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
-
-----
-
-# 📊 GitHub Stats:
+# GitHub Stats:
 <!-- &theme=dracula &theme=dark &theme=tokyonight &hide_border=false &hide=contribs -->
 [![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
@@ -292,7 +286,7 @@ Languages I know:
 </p>
 
 
-👋📚💻🌐🔭🎯🌍🚀🎨📖💡📫👨‍💻😅⚡🛠️👤👨‍💼💼📝🗣️🙋‍♂️🧪🔬😀⚽💓👋🏼🎲📛🌐👨‍💻☁️✏️🚀💭🖼️💬❤️📈💼📫⬇️💻👨‍💻🔭✨🔭🌱👯🤔💬📫😄⚡👋✨
+👋📚💻🌐🔭🎯🌍🚀🎨📖💡📫👨‍💻😅⚡🛠️👤👨‍💼💼📝🗣️🙋‍♂️🧪🔬😀⚽💓👋🏼🎲📛🌐👨‍💻☁️✏️🚀💭🖼️💬❤️📈💼📫⬇️💻👨‍💻🔭✨🔭🌱👯🤔💬📫😄⚡👋✨🔥📊
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
