@@ -3,19 +3,13 @@
 
 
 
-<!--
-https://github-readme-streak-stats.herokuapp.com/?user=rammcodes&theme=dark&hide_border=false
-https://github-readme-stats.vercel.app/api/top-langs/?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
-https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100&(https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 
 
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight"> </p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
