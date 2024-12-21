@@ -42,8 +42,8 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 ----
 
 # 📊 GitHub Stats:
-<!-- &theme=dracula &theme=dark &hide_border=false &hide=contribs -->
-[![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+<!-- &theme=dracula &theme=dark &theme=tokyonight &hide_border=false &hide=contribs -->
+[![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 
 
