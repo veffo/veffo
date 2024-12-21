@@ -40,13 +40,15 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=com
 
 
 ----
-
+<!-- theme=dracula -->
 # 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=simpletut&show_icons=true&theme=dracula)<br/>
-![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonigh)<br/>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Prajwal100&count_private=true&show_icons=true&include_all_commits=true)<br/>
+
+
+![](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonigh&count_private=true&include_all_commits=true)<br/>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
 [![](https://github-readme-stats.vercel.app/api?username=baba-s&hide=contribs&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
