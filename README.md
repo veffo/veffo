@@ -11,13 +11,13 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=dark&background=000000"/>
 
 
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical"/>
+            [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
         </td>
         <td>
             <img src="https://github-profile-trophy.vercel.app/?username=AvidCoder101"/>
