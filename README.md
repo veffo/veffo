@@ -11,11 +11,11 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m working and mine contributing building web applications.
 
 - 🌱 Exploring Technical Content Writing.
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Android, MEARN**
 
 - 📫 How to reach me **q.6110@mail.ru**
 
@@ -40,27 +40,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-## Tools of Trade
-- Web: Node.js, React.js, TailwindCSS
-- Database: PostgreSQL, MySQL, MongoDB
-- Containerization: Docker, Kubernetes, Rancher
-- Cloud Computing: Digital Ocean, MVPS, Microsoft Azure, AWS
-- CI/CD: TravisCI, CircleCI, Jenkins
-- Scripting/Automation: Shell, CMD, Python, Ansible
-- IAC: CloudFormation
-- Server Administration: Linux, Windows, Nginx, Apache
-- Computer Vision: Intel® OpenVINO Toolkit, OpenCV
-- Artificial Intelligence: Microsoft Azure Studio
-
 ## Experience
 
 My professional experience cuts across knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
 
 I'm always seeking to take ownership of the project and deliver faster than expected. Familiar with both remote, and in-office roles.
 
+---
+
 ## Languages
 - English (Technical)
 - Russian (Native)
+
+---
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
