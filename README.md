@@ -1,12 +1,6 @@
-
-
-
-
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=itsZed0&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
-
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
 
 
 
@@ -14,24 +8,6 @@
 
 
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsZed0&theme=dark&background=000000"/>
-        </td>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=AvidCoder101"/>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=avidcoder101&count_private=true&show_icons=true&theme=radical"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avidcoder101&langs_count=10&layout=compact&hide=php,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
 
 
 
