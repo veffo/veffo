@@ -312,7 +312,7 @@ Organisations I am part of:
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 👋📚💻🌐🔭🎯🌍🚀🎨📖💡📫👨‍💻😅⚡🛠️👤👨‍💼💼📝🗣️🙋‍♂️🧪🔬😀⚽💓👋🏼🎲📛🌐👨‍💻☁️✏️🚀💭🖼️💬❤️📈💼📫⬇️💻👨‍💻🔭✨🔭🌱👯🤔💬📫😄⚡👋✨🔥📊
-👩‍💻🧠👯‍♀️🤔💬📫😄⚡️🔗🚀✨🔭🌱👯🤔💬📫😄⚡🔭🌱👯🤔💬📫😄⚡💫👨‍💻⚡💼🌎👋💻📚⚡🍃😋👨‍💻⭐🌼📃⚠️🙏👍
+👩‍💻🧠👯‍♀️🤔💬📫😄⚡️🔗🚀✨🔭🌱👯🤔💬📫😄⚡🔭🌱👯🤔💬📫😄⚡💫👨‍💻⚡💼🌎👋💻📚⚡🍃😋👨‍💻⭐🌼📃⚠️🙏👍🙌🥳🏆🔧🔥💎💯🤘🚀⚡🎖️🔗
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -326,7 +326,7 @@ Organisations I am part of:
 
 
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 20 December, 01:03 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+
 
 
 
@@ -351,6 +351,8 @@ Organisations I am part of:
   <img src="https://img.shields.io/npm/v/react-navigation-fluid-transitions.svg?style=flat-square">
 </a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
 ## Introduction
 This project aims to implement a simple yet powerful set of constructs for building fluid transitions between elements when navigating with [React Navigation](https://reactnavigation.org). 
@@ -776,10 +778,6 @@ Returns a boolean indicating whether animations are globally enabled or disabled
 
 ## Library details
 
-<a href="https://www.browserstack.com/">
-<img src="./example-assets/browserstack.png" alt="browserstack" width="140"/>
-</a>
-
 - Tested in latest Chrome, Firefox, Safari, and Edge with [Browserstack](https://www.browserstack.com/).
 - Requires React 16+
 - Uses [Rematrix](https://github.com/jlmakes/rematrix) for matrix calculations and a simplified fork of [Rebound](https://github.com/facebook/rebound-js) for spring animations
@@ -812,35 +810,8 @@ This [CSS property](https://dev.opera.com/articles/css-will-change-property/) te
 
 
 
-# Dopefolio 🔥
+# Dopefolio
 
-## Features
-
-- ### **Easy to Setup 💯** 
-- ### **Free to Use ( OpenSource ) 🥳** 🙌🥳🏆
-- ### **No Additional Frameworks 🤘** 
-- ### **No Additional Libraries 🙌** 
-- ### **Multi Page 💎** 
-- ### **Fully Responsive 🚀** 
-- ### **Super Fast and Optimized for SEO ⚡** 
-- ### **Great Audits Score 🎖️🔗** 
-
-
-
-
-
-<br/>
-
-## Technologies used 🛠️
-
-- **HTML** 🚀
-- **CSS** 🚀
-- **JavaScript** 🚀
-- **SASS** 🚀
-
----
-
-<br/>
 
 ## How To Use 🔧
 
@@ -1111,7 +1082,7 @@ If you need to add or change the image at runtime, call `Validate()` and then `R
 
 
 
-![Ah, gl lines](https://cdn.discordapp.com/attachments/377316629220032523/576127655712391198/unknown.png)
+
 # Gizmos
 Used for drawing runtime gizmos in builds and editor from any context in the code. It was created when I realized that the built in unity gizmos (Gizmos.DrawWireSphere, etc) don't render in builds, so I made this utility to be able to use.
 
