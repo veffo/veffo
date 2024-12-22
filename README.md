@@ -1,3 +1,16 @@
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=baba_s&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://skillicons.dev/icons?i=cs,firebase,git,github,jenkins,md,py,rider,unity,vscode,wordpress)](https://skillicons.dev)
+
+[![](https://img.shields.io/twitter/follow/baba_s_?label=Twitter&logo=twitter&style=flat)](https://twitter.com/baba_s_) [![](https://img.shields.io/github/followers/baba-s?label=follow&logo=github&style=flat)](https://github.com/baba-s) [![](https://qiita-badge.apiapi.app/s/baba_s/posts.svg) ](https://qiita.com/baba_s) [![](https://qiita-badge.apiapi.app/s/baba_s/contributions.svg)](https://qiita.com/baba_s)
+
+
+
+
+
+
+
+
 ![banner](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate FullStack Developer from Russia</h3>
@@ -27,8 +40,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 | ------------- | ------------- |
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 
----
-
 ### Top Repositories :
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -45,8 +56,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 My professional experience cuts across knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
 
 I'm always seeking to take ownership of the project and deliver faster than expected. Familiar with both remote, and in-office roles.
-
----
 
 ## Languages
 - English (Technical)
@@ -222,7 +231,7 @@ Organisations I am part of:
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 👋📚💻🌐🔭🎯🌍🚀🎨📖💡📫👨‍💻😅⚡🛠️👤👨‍💼💼📝🗣️🙋‍♂️🧪🔬😀⚽💓👋🏼🎲📛🌐👨‍💻☁️✏️🚀💭🖼️💬❤️📈💼📫⬇️💻👨‍💻🔭✨🔭🌱👯🤔💬📫😄⚡👋✨🔥📊
-👩‍💻🧠👯‍♀️🤔💬📫😄⚡️🔗🚀✨🔭🌱👯🤔💬📫😄⚡🔭🌱👯🤔💬📫😄⚡💫👨‍💻⚡💼🌎👋💻📚⚡🍃😋
+👩‍💻🧠👯‍♀️🤔💬📫😄⚡️🔗🚀✨🔭🌱👯🤔💬📫😄⚡🔭🌱👯🤔💬📫😄⚡💫👨‍💻⚡💼🌎👋💻📚⚡🍃😋👨‍💻⭐🌼
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -230,12 +239,10 @@ Organisations I am part of:
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-🌼
+
 <img src="https://github.com/dlirA01/dlirA01/blob/main/wave.gif" width="28px"/>
 <img src="https://github.com/dlirA01/dlirA01/blob/main/wink-tounge.gif" width="28px"/>
-<div align="center">
-### Show some ❤️ by starring some of the repositories!
-</div>
+
 
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 20 December, 01:03 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
@@ -817,19 +824,9 @@ If you like to know how to submit forms so you can receive the form details in y
 
 ---
 
-## Author 👨‍💻⭐❤️
-
-- **Ram Maheshwari** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Instagram](https://instagram.com/rammcodes_)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**  
-
-<br>
-
-#### Note: 
-I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://linkedin.com/in/rammcodes)** or my email id **rammcodes@gmail.com** 🙌
 
 
-<br>
 
----
 
 
 
@@ -1102,11 +1099,6 @@ public class GizmoDrawer : MonoBehaviour
 - `Gizmos.Sphere` = Draws a 3D sphere. Equivalent to [Gizmos.DrawWireSphere](https://docs.unity3d.com/ScriptReference/Gizmos.DrawWireSphere.html)
 - `Gizmos.Circle` = Draws a 2D circle that is oriented to the camera by default
 
-## FAQ
-- **What namespace?** 'Popcron'
-- **Does it work in builds?** Yes
-- **Is there frustum culling?** Yes, it can be toggled with Gizmos.FrustumCulling
-- **It's not rendering in game!** Check if your gizmo code is in OnDrawGizmos, because this method isnt called in builds, and ensure that Gizmos.Enabled is true
 
 
 
@@ -1118,67 +1110,6 @@ public class GizmoDrawer : MonoBehaviour
 
 
 
-
-
-
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=baba_s&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![](https://skillicons.dev/icons?i=cs,firebase,git,github,jenkins,md,py,rider,unity,vscode,wordpress)](https://skillicons.dev)
-
-[![](https://img.shields.io/twitter/follow/baba_s_?label=Twitter&logo=twitter&style=flat)](https://twitter.com/baba_s_) [![](https://img.shields.io/github/followers/baba-s?label=follow&logo=github&style=flat)](https://github.com/baba-s) [![](https://qiita-badge.apiapi.app/s/baba_s/posts.svg) ](https://qiita.com/baba_s) [![](https://qiita-badge.apiapi.app/s/baba_s/contributions.svg)](https://qiita.com/baba_s)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-## API Reference
-
-#### Get all items
 
 
 
@@ -1227,9 +1158,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 - Cross platform
 
 
-## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
 
 
 
