@@ -1,3 +1,11 @@
+I think the best way to move forward
+would be to get practical working
+experience. My dream is to make the web
+a little better and help developers.
+Computer eng
+Software Engineer at Wolt | Working on backend, databases, & infrastructure | Python, Go, JS | Based in 🇩🇪 | Writing at http://rednafi.com
+
+
 ### Hi, I'm Alen Jojo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
   <a href="https://github.com/alenjojo?tab=followers">
