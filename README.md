@@ -1,3 +1,99 @@
+<hr></hr>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
+
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+
+
+
+
+
+
+
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+
+![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![UnoCSS](https://img.shields.io/badge/-UnoCSS-%23333333?style=flat-square&logo=unocss)
+![WindiCSS](https://img.shields.io/badge/-WindiCSS-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
+
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
+![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
+
+I ❤️ Web Dev, 💻 Self-thought Product Engineer | 🖖 @vuejs aficionado | Swift Learner | ☕️ #coffee lover | 🌵 #agave nanny
+
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
 <h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
