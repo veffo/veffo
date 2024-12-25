@@ -35,13 +35,6 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 
 
 
-During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to DuckDuckGo, I was appointed as a maintainer and community leader with write access to all of DuckDuckGo's repositories. I have also made contributions to a variety of other open-source projects and organizations, including Mozilla, Angular, Svelte, Node.JS etc
-  
-I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
-
-You can read more about me and my open source journey at my website: [https://www.gautamkrishnar.com/](https://www.gautamkrishnar.com/)
-
-I create most of my open-source projects to solve the challenges I encounter in life, with many more still waiting to be addressed. I am embarking on a quest to find solutions for each one, one problem at a time.
 
 #### Awards and Achievements
 - Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
@@ -55,12 +48,7 @@ I create most of my open-source projects to solve the challenges I encounter in 
 
 </details>
 
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
+
 
 
 
@@ -126,44 +114,9 @@ npx anmol
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
-};
-```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+
 
 ---
 <!--START_SECTION:waka-->
@@ -263,63 +216,17 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
 
-<p align="center">
-  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
-</p>
 
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<br>
-</p>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
-</p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
-job: Senior Robotics Software Engineer
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Technology Innovation Institute
-past experiences:
-  - ["Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-2023"]
-  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
-  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
-  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
-                      "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Motion Planning", "Optimization", 
-                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Web3", "React", "Vue"]
-will_learn: ["Blockchain (backend)"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
-```
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
-</p>
+
+
+
 
 
 **:zap: Recent Activity:**
@@ -404,9 +311,6 @@ Liked it ?
 
 *BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
 
 
 
@@ -419,10 +323,8 @@ Liked it ?
 
 
 
-<h1 align="center"> Hello there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Shubham Jitiya</h1>
+
+
 
 
 
@@ -435,26 +337,10 @@ Liked it ?
 - ⌨️ Avg. Typing speed 73+ wpm
 
 
-## 📱 My Android Apps :
-
-<!-- Projects:Start -->
-- [GTU - Everything for students](https://play.google.com/store/apps/details?id=com.shubhjitiya.gecgandhinagar)
-- [Mystifying](https://play.google.com/store/apps/details?id=com.jitiyashubham.mystifying)
-- [Flex - Study | Home Tutoring app](https://github.com/shyamsar30/Flex-Study)
-- [GOD - Goal of the day](https://play.google.com/store/apps/details?id=com.shubhamjitiya.god)
-- [WhatsInsta - Status Saver](https://play.google.com/store/apps/details?id=com.shubhjitiya.whatsinstasaver)
-
-- [Team OPS Gujarat](https://play.google.com/store/apps/details?id=com.gujarat.ops.team) 
-- 	Invoice generator
-- 	DayDream 
-<!-- Projects:END -->
-
-➡️ [more apps...](https://play.google.com/store/apps/dev?id=6657791161208757128)
-
----
 
 
-## 🌐 Socials
+
+## 🌐➡️📱 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubham.jitiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-jitiya/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/ShubhamJitiya)
 
 ## 💻 Tech Stack
@@ -473,31 +359,13 @@ Liked it ?
 ## 🛒 Google Play Store
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6657791161208757128)
 
-## 🎵 Debug with 
+## 🎵📈💳📟➡️ Debug with 
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhamjitiya&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/>
-</p>
-
-## 💳 Github Profile Summary Card
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamjitiya&theme=solarized) 
 
 
-## 📟 GitHub Stats
-<p>
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamjitiya&show_icons=true&theme=moltack" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamjitiya" />
-</p>
-
-<p align="center>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjitiya&layout=compact)](https://github.com/shubhamjitiya/github-readme-stats)
-
-</p>
-	  
 
 ## 📕 Google Cloud - Android Study Jams :
 
@@ -507,20 +375,18 @@ Liked it ?
 - [ Lemonade App | Android Study Jams ](https://youtu.be/trie2mgdRpU)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more videos ...](https://www.youtube.com/c/ShubhamJitiya)
 
-	 
-	  
+
+
+
 ## ✍️Random Dev Quote :
-	  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+
 
 [![](https://visitcount.itsvg.in/api?id=shubhamjitiya&icon=0&color=1)](https://visitcount.itsvg.in)
 
 	  
-<div align=center>
-Show some ❤️ by starring some of the repositories!
-</div>
+
 
 
 
@@ -770,8 +636,6 @@ I am a _Deep Learning Software Engineer_ at Intel and a grad student at the Univ
   - [Twitter](https://twitter.com/srihari_rh)
 - ⚡ Fun fact: _I rarely sleep at night_
 
-<br/>
-<br/>
 
 
 
@@ -784,45 +648,16 @@ I am a _Deep Learning Software Engineer_ at Intel and a grad student at the Univ
 
 
 
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/greetings.gif" alt="Hello World" />
-</p>
 
-<h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Utkarsh Pathrabe
-</h1>
 
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
-</p>
 
-<h3 align='center' style='margin: 16px 4px;'>
-    <a href='https://utkarshpathrabe.website/'>My Portfolio Website</a>
-</h3>
 
-<h3 align="justify">
-    I currently hold the esteemed position of Senior System Software Engineer at NVIDIA Graphics Pvt. Ltd, based in Pune, India. My professional journey has been marked by significant roles at prominent organizations. I previously served as a Senior Associate Software Engineer at J P Morgan Chase & Co. in Bengaluru, where I contributed to impactful projects. I also had the privilege of interning at J P Morgan Chase & Co. in Mumbai, further expanding my experience within the organization.<br /><br />
-    During my growth-oriented journey, I gained valuable insights as a Data Analyst Summer Intern at InfoCepts Technologies Pvt. Ltd. in Nagpur, where I honed my analytical skills. My journey also included a Summer Internship at CMC Ltd. in Mumbai, which provided me with hands-on exposure to the industry.<br /><br />
-    I am a proud alumnus of BITS Pilani, Rajasthan, India, where I pursued a B.E. (Hons) in Computer Science. My academic journey culminated in an impressive 9.33 CGPA, underscoring my dedication to excellence in education.<br /><br />
-    Beyond my professional and academic endeavors, I am an enthusiast of competitive coding. Tackling intricate problems not only stimulates my intellect but also fortifies my problem-solving abilities. My curiosity about emerging technologies is unceasing, motivating me to delve into new realms of innovation and knowledge.<br /><br />
-    Artistry is a crucial part of my life, with a penchant for drawing and painting. These creative outlets offer a balance to my technical pursuits and serve as vehicles for self-expression. I am also an avid traveler, fueled by an adventurous spirit that seeks to explore diverse cultures and places, enriching my perspectives.<br /><br />
-    Gaming is another facet of my interests, offering an immersive world that fuels my imagination and creativity.<br /><br />
-    In a nutshell, my journey has been a tapestry of academic excellence, professional growth and personal passions, all contributing to a well-rounded individual committed to continuous learning and enrichment.
-</h3>
 
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/dev-working_rounded.gif" alt="working developer">
-</p>
+
 
 <p align="center" style='margin: 16px 4px 8px; display: flex; gap: 2rem;'>
     <img src="https://user-badge.committers.top/india/UtkarshPathrabe.svg" alt="github top commits rank" />
     <img src="https://komarev.com/ghpvc/?username=utkarshpathrabe&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
-</p>
-
-<p align="center" style='margin: 16px 4px 8px;'>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=utkarshpathrabe&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
-    </a>
 </p>
 
 <p align="center" style='margin: 16px 4px 16px;'>
@@ -1069,31 +904,6 @@ I am a _Deep Learning Software Engineer_ at Intel and a grad student at the Univ
     </a>
 </p>
 
-<h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
-    Stats
-</h3>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshpathrabe&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="utkarshpathrabe" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=utkarshpathrabe&show_icons=true&locale=en&theme=gruvbox" alt="utkarshpathrabe" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpathrabe&theme=gruvbox" alt="utkarshpathrabe" />
-</p>
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
-</p>
 
 
 
@@ -1101,21 +911,10 @@ I am a _Deep Learning Software Engineer_ at Intel and a grad student at the Univ
 
 
 
-
-
-
-
-
-
-
-
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -1136,34 +935,12 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
 
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
-- [A Guide to Python&#39;s Weak References Using weakref Module](https://martinheinz.dev/blog/112)
-- [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
-- [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
-<!-- BLOG-POST-LIST:END -->
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
-<!-- links to social media icons -->
+
+  
+
 
 <!-- icons with padding -->
 
@@ -1213,17 +990,11 @@ Software developer/DevOps engineer from Slovakia, living in Bratislava. Working 
 
 
 
-<!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hii+👋+from+Vishal!;Aspiring+Full+Stack+Web+Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000"> -->
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</span>, My name is Vishal</h1>
-<h3 align="center">An Aspiring Full Stack Web Developer.</h3>
 
 
 
----
+
+
 
 <h3 align="left">🤝Connect with me on:</h3>
 <p align="left">
@@ -1278,16 +1049,13 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 ![github-stats1](https://github-readme-stats.vercel.app/api?username=Im-vishalanand&theme=gotham&show_icons=true&count_private=true&hide_border=true)
 ![github-stats2](https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
 
-<p align="right">
-<a href="https://github.com/Im-vishalanand?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Im-vishalanand&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Im-vishalanand github-readme-stats"/></a>
-<a href="https://github.com/Im-vishalanand?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Im-vishalanand github-readme-streak-stats"/></a>
-</p>
 
-## 🐦 Latest Tweet
+
+## 🐦✍️ Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Im_vishalanand)](https://twitter.com/Im_vishalanand)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 ---
 
@@ -1317,37 +1085,11 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 </samp>
    
 <p align="center">
-<samp> 
-	𝑯𝒆𝒓𝒆 𝒂𝒔 𝒂𝒏 𝒖𝒏𝒅𝒆𝒓𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆, 𝑴𝒐𝒕𝒂𝒔𝒊𝒎 𝒊𝒔 𝒂 𝒉𝒊𝒈𝒉𝒍𝒚 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒗𝒆, 𝒂𝒎𝒃𝒊𝒕𝒊𝒐𝒖𝒔, 𝒂𝒏𝒅 𝒇𝒐𝒄𝒖𝒔𝒆𝒅 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝒔𝒕𝒖𝒅𝒆𝒏𝒕, 𝒘𝒉𝒐 𝒊𝒔 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒄𝒐𝒅𝒊𝒏𝒈 𝒂𝒏𝒅 𝒆𝒏𝒋𝒐𝒚𝒔 𝒕𝒐 𝒆𝒙𝒑𝒆𝒓𝒊𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝒂𝒏𝒅 𝒘𝒂𝒏𝒕s 𝒕𝒐 𝒆𝒏𝒉𝒂𝒏𝒄𝒆 𝒉𝒊𝒔 𝒔𝒌𝒊𝒍𝒍𝒔 𝒊𝒏 𝒕𝒉𝒆 𝒇𝒊𝒆𝒍𝒅 𝒐𝒇 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚.
-</samp>
 
-<hr>
+
+
 <h3 align="center"> :: My Tech-Stack Includes :: </h3>
 
-<h4 align='center'>{ Programming Languages }</h4>
-<p align='center'>
-  <img src="./resources/java.png" />&nbsp;&nbsp;
-   <img src="./resources/python.png" />&nbsp;&nbsp;
-  <img src="./resources/c.png" />&nbsp;&nbsp; 
-  <img src="./resources/c%2B%2B.png" /> <br> <br>
-</p>
-
-<h4 align='center'>< Web Technologies /></h4>
-<p align='center'>
-  <img src="./resources/html-5.png" />&nbsp;&nbsp;
-  <img src="./resources/css-3.png" /><br> <br>
-  <img src="./resources/javascript.png" />&nbsp;&nbsp;&nbsp; 
-  <img src="./resources/jquery.png" />&nbsp;&nbsp;&nbsp; 
-  <img src="./resources/nodejs.png" />&nbsp;&nbsp;&nbsp; 
-</p>
-
-<h4 align='center'>= Databases =</h4>
-<p align='center'>
-  <img src="./resources/sql.png" />&nbsp;&nbsp;&nbsp; 
-  <img src="./resources/pl-sql.png" />&nbsp;&nbsp;&nbsp; 
-  <img src="./resources/mongodb.png" />&nbsp;&nbsp;&nbsp; 
-</p>
-<hr>
 
 <h3 align="center">🔎 Find me around the web 🌎</h3>
 <table align="center" width="100%">
@@ -1393,30 +1135,13 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 <hr>
    
 <h3 align="center">📈 GitHub Statistics 📉</h3><br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=motasimmakki&show_icons=true&theme=tokyonight" alt="my github stats" height="50%" width="50%"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motasimmakki&layout=compact&theme=tokyonight" alt="languages" height="50%" width="41.5%"/>
-</p>
+
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=motasimmakki&style=plastic&label=PROFILE+VIEWS" alt="motasimmakki" /> </p>
    
-<p align="center">
-  <img src="https://github.com/motasimmakki/motasimmakki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
-<h3 align="center"> :: Hopolin Badge Board :: </h3>
 
-[![@motasim's Holopin board](https://holopin.me/motasim)](https://holopin.io/@motasim)
 
-<p align="center">
-  <img src="./resources/Keep%20Coding.gif" alt="keep-coding"></center>
-</p>
-
-<hr>
-
-<h5 align='center'>
-  / <> with 🧡 By <a href="https://github.com/motasimmakki">Motasim</a> /
-<h5>
 
 
 
@@ -1505,14 +1230,9 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
 
 
   
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-  
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/octocat.jpeg" height=300 width=300>
 
- ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
- 
 
-<h2>Connect with me!  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2>
+
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshita-gupta-a4a895187/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Akshita_archer/)
 [<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akshitagupta15june)   [<img src="https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://akshita1506.home.blog) 
@@ -1523,9 +1243,6 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
 
 
 
-<br/>
-<br/>
-<br/>
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
@@ -1549,9 +1266,7 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
 
 
 
-# Hi, I'm cxyfreedom
 
-A senior backend developer from China, based in Shanghai. I regulary write articles on Obsidian.
 
 ## About Me
 
@@ -1568,13 +1283,7 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 
-## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
-
-![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C696%20hrs%2045%20mins-blue)
@@ -2154,9 +1863,7 @@ Feel free to contact me :yum:
 
 
 
-<div align='center'><h1> जय माता दी (JAI MATA DI) :pray:</h1></div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1EF79A&background=FFFFFF00&multiline=true&width=435&lines=Keshav+Singh;SSE)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
@@ -2180,18 +1887,7 @@ Feel free to contact me :yum:
 
 <br />
 
-## Skills
-- **Languages**: C#, .Net Core, ASP.NET Core Web API, REST, gRPC, Microservices, OOPs, Unit Testing [NUnit], TDD, SOQL
-- **Frameworks**: Angular
-- **Databases**: MySQL, MongoDB, Salesforce, Postgres, Redis, OpenSearch
-- **Operating Systems**: Windows, Linux
-- **Tools**: Visual Studio, Jira, Bitbucket, Azure DevOps, Git, SonarQube
-- **AWS**: App Config, Parameter Store, KMS, SQS, SNS, SES, Event Bus, App Flow, API Gateway, Lambda, Cognito, Step Functions, DynamoDB, S3 bucket, SAM CLI
-- **Azure**: SignalR, Storage, Vault, SQL Server, VPN, App Service, Function, API Management
 
-<br />
-
-![](https://github-stats-alpha.vercel.app/api?username=keshavsingh4522&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 
 ## Profiles
 <!-- start work experience section -->
@@ -2509,17 +2205,7 @@ Here are some ideas to get you started:
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
 
-## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
-- 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](https://codesandbox.io/s/readme-introgif-9fjo5) <!-- Thanks to @matyo91's helpful comments in their profile README! -->
-- 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚜𝚒𝚝 𝚌𝚘𝚞𝚗𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝙽𝚊𝚝𝚑𝚊𝚗𝟷𝟹𝟾𝟾𝟾/𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝙱𝚊𝚍𝚐𝚎𝚁𝚎𝚕𝚘𝚊𝚍𝚎𝚍](https://github.com/Nathan13888/VisitorBadgeReloaded)
-- 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/](https://yaytext.com/monospace/)
-- 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚓𝚊𝚖𝚎𝚜𝚐𝚎𝚘𝚛𝚐𝚎00𝟽/𝚐𝚒𝚝𝚑𝚞𝚋-𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢-𝚛𝚎𝚊𝚍𝚖𝚎](https://github.com/jamesgeorge007/github-activity-readme)
-- 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚕𝚘𝚠𝚕𝚒𝚐𝚑𝚝𝚎𝚛/𝚖𝚎𝚝𝚛𝚒𝚌𝚜](https://github.com/lowlighter/metrics)
-<!--
-- 𝙻𝚊𝚝𝚎𝚜𝚝 𝚝𝚠𝚎𝚎𝚝 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚣𝚑𝚒𝚒𝚒𝚢𝚊𝚗𝚐/𝚣𝚑𝚒𝚒𝚒𝚢𝚊𝚗𝚐](https://github.com/zhiiiyang/zhiiiyang)
-- 𝙻𝚊𝚝𝚎𝚜𝚝 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝚙𝚘𝚜𝚝𝚜 𝚊𝚗𝚍 𝚠𝚎𝚊𝚝𝚑𝚎𝚛 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝](https://github.com/thmsgbrt/thmsgbrt)
-- 𝙰𝚕𝚕-𝚝𝚒𝚖𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚜𝚝𝚊𝚝𝚜 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚖𝚊𝚛𝚔𝚎𝚝𝚙𝚕𝚊𝚌𝚎/𝚊𝚌𝚝𝚒𝚘𝚗𝚜/𝚙𝚛𝚘𝚏𝚒𝚕𝚎-𝚛𝚎𝚊𝚍𝚖𝚎-𝚜𝚝𝚊𝚝𝚜](https://github.com/marketplace/actions/profile-readme-stats)
--->
+
 
 
 
@@ -2799,12 +2485,7 @@ During this time, <b>865</b> of <b>2500</b> ( <b>34.6% </b>) of all PM10 points 
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
-<p align="center">
-  <img src="PM10_plot_2024.png" width="600" height="400">
-<img src="PM10_plot_2023.png" width="600" height="400">
-<img src="PM10_plot_2022.png" width="600" height="400">
 
-</p>
 <br>
 </p>
 <h3><a href="https://scholar.google.com/citations?hl=en&user=53-926AAAAAJ&view_op=list_works&sortby=pubdate"><b>Find my recent publications on my Google Scholar profile</b></a></h3>
@@ -3090,20 +2771,7 @@ _Fun tidbits: My side interests are graphics design :paintbrush:, breakdancing
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
-```dart
-// tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
@@ -3451,11 +3119,11 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
 </a> -->
 
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🗂️ Highlight Projects
+
+
+## 🗂️🏆 Highlight Projects
 
 <a href="https://github.com/Zhenye-Na/DA-RNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
