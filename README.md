@@ -1,3 +1,673 @@
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
+- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+<!-- BLOG-POST-LIST:END -->
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+### ✨&nbsp; About Me
+
+I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
+
+#### My Opensource Story
+All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
+- [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This proof of concept project showcases the ability of any website to track and identify individuals, even when using private browsing or incognito mode in their web browser. With over 5000K users and 1.8K stars, it has garnered attention and discussions in privacy forums and conferences globally. Its impact has led to improvements from privacy-focused browser vendors to counter fingerprinting, and has increased public awareness of the dangers of browser fingerprinting.
+- [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 5.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
+-  [SoCLI](https://github.com/gautamkrishnar/socli) Within 24 hours of its release, it garnered over 300 stars and now has nearly 2K users. This tool offers a convenient way of accessing StackOverflow directly from a terminal.
+- [Motrix WebExtension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager. It now has more than 20K+ users worldwide.
+- [Refined GitHub Feeds](https://github.com/gautamkrishnar/refined-github-feeds) - A browser extension that adds filtering to the Github news feeds. 
+
+[⏩ &nbsp; and many more](https://github.com/gautamkrishnar?tab=repositories&q=&type=source&language=&sort=stargazers) 
+
+```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
+
+During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to DuckDuckGo, I was appointed as a maintainer and community leader with write access to all of DuckDuckGo's repositories. I have also made contributions to a variety of other open-source projects and organizations, including Mozilla, Angular, Svelte, Node.JS etc
+  
+I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
+
+You can read more about me and my open source journey at my website: [https://www.gautamkrishnar.com/](https://www.gautamkrishnar.com/)
+
+I create most of my open-source projects to solve the challenges I encounter in life, with many more still waiting to be addressed. I am embarking on a quest to find solutions for each one, one problem at a time.
+
+#### Awards and Achievements
+- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
+- Worked as [DuckDuckGo Community Leader](https://web.archive.org/web/20210727164606/https://help.duckduckgo.com/community/community-leaders/) and Maintainer
+- Won 1st place in Several Hackathons and events
+  
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+  <p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+</details>
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
+
+</details>
+
+<details>
+  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
+  <br/>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBFic650BEADS5FmCzS0xJPcori52uWfj3jxQXfEvein/mw9dd4Xk+4+61M36
+4luKAcMVmLvlJMfi+mI5LHBdQ/AkvWVKDDBVc5aObjIj9OoozoREzJJH1OIHvwil
+r63C/NtwGoR2Rzk+7YwiT9rxji68+rEijdKWekk4KofzgQLNhLxLnaKm1r8GqfAK
+fN9d9kt2zrBeh0wkoNCoZX65ryWgwbwnnxbxTxfq8hpqFB9MZLG5dh6p5+jIFhf9
+ObHOy5u4DfE/kqFsvLjQEeHe/POfWjDrOPV3dKW6bU+osPcKouB3VEPEgs/HYAeM
++1jQD2x+/boO1decuR6sh//m9RS9Z9M3G4NgFXGhD9Pr8ecKyiK5PlIUIJzVUilH
+jMd0KMDF3OCw9/+dMc+7TvOY4/YX4UOfSfaHm895vP4lIKgcoJOuWAMXtdgPDq0R
+bTFte6Sx19vtHbcSJ0n9x6tkCFlXmibQdjr+XiLGQ8GdzDKc9KEoAmQt443JlqG5
+pwduTbxSX2yYnY6x1rlWkeqBH7flsL2SQXXzrPkCafqxbeNeQu15rLaLGlokjR77
+RsZHfqUYZTG27e5YYwJIVdbWzV1EPv25Nx9kgOCactj4rxlQj4UXBTa4MeK651f8
+brJr9VgYgqkIheEXFQcGtEZLxSgZjGfgNeirp1cPdhdXKsuZyF58z2hZswARAQAB
+tCxHYXV0YW0ga3Jpc2huYSBSIDxyLmdhdXRhbWtyaXNobmFAZ21haWwuY29tPokC
+UQQTAQoAOwIbAwMLCQcDFQoIAh4BAheAAxYCAQIZARYhBIEG/BF8CV2XhLwzEwHK
+Zaw3XKplBQJegZXrBQk+UjsmAAoJEAHKZaw3XKplLA0QAMxXEsSD+kG8hjgVhbFK
+D5V3nz69dqGf0FW7n0szK3SzJZ7Y9KSQRgr/kErPJxz/2VwE7IBOFFfit+iv2TSo
+Pq0XpDS3mM8++wgJGkeF6wtNSJFHnD/s1G0j7Yg9PC5j6JEYATZ8etDXu5ecVrUd
+ufr3aIKmHknxKcSCbv7+d1HdRyWZ6sEkotSqfsdeHelEnP6GRIXW3l/Xcm+l01Fc
+YAhFh0S1/G8rbcZp+xJhQu69FDZ2FegG5DkWCiY/au5LqtqIfhytLgzSqpB843BA
+4DYffmXScuqqTReflA0L2QGGgTBZxHX5qbiPpyI8AoYIiYLKN8MhfmFrx9W1sUff
+MtN0lkJAmpy+2M9kkK4i5aniseb/m8uivFFRo1Ibm9JpTYEn2XZtdKf1UKrvXFoj
+LWiNweh2OeRIdlEnJgw6G5/o+0W85tk5kvaMxjnWhiOSTao9QDRg8eYMG2lW081q
+VTjwTKNVehB3QDvSmiSucg/2ZqDDcpHPE+aUqq+YiwozLiOlbcw7/vC6bPdXeYmo
+jZA01fzenlfIFCN/Rz4jiRXJ63CxL7cBCCX9c3ioqqCdz569S5sE/4MGv3VH48ho
+ozqXLYJYud7QumiMo37ypSgngwjL9ui+2RHduXlEHu/H5rrT5WLPZA5p4s5r0ZUc
+uC/J5XrngN+91K6m6W1z9V8xiQI0BBMBCgAeBQJYnOudAhsDAwsJBwMVCggCHgEC
+F4ADFgIBAhkBAAoJEAHKZaw3XKpl/uYQAJuLMfutDaQqPRpPKg8Y3at4qV5j6kAM
+vdo+99/4zaBS27wKRHn1uDwVhRhTbUcmebTXmNYifN18Y1XE/lIKiiaCmRHxc2dy
++YVLyZRroKKbARJ68rzepU8Rr3jUHa2iNXWbWVOLNQ0JJ2voSuOzlP3mTHzB4r6e
+LhfZbONJkokbwIv47CVzUwIg0tw633O6+xrrtXZNvbWcimERB1qT1uMlK8f+66Tx
+zgcyPcBlinge/DOEwGUwVD/ZO7jbfjc2maFK8zHs2w1oKm2RjD9AV4wWqTVif0nC
+CXlgXi0zZq1cWy70n42kRmHxKRDBx3c8b8tNnFeOY8xSAGle/An+dT7H4RdrMmAu
+Pz6kioxkK95MkW/egB9VDzdK0bEk2iAVPw/M5v3cb72aqMfyYNulA5NPdKSIlNUv
+jrElb0/9qbXx9L5d5mfympfq3guYbZlBt0tNXaLyvXlD3guPbtLaStcKvz1/vsAd
+TEkWTbFb1n57yyG0IgiE9O6oOwXt4ciXp9eg+lwz7Z40Si60UHZtX/6amJkqTFRe
+CraJraUKpttFipAMF0adH5gqkdqKpI7pUmDlmAkyxcRFvb18ZTKUJMVMcf6kGIIy
+hvuc/EAHEefaQ+nEl3sgmHejxOwhlm7c5RS9fRQqL+5CZHFl2g+/Kgq5lLG4JuOZ
+jP+8R2yYwGbVtCtHYXV0YW0ga3Jpc2huYSBSIDxnYXV0YW1rcmlzaG5hckBnbWFp
+bC5jb20+iQJOBBMBCgA4AhsDAwsJBwMVCggCHgECF4ADFgIBFiEEgQb8EXwJXZeE
+vDMTAcplrDdcqmUFAl6BlewFCT5SOyYACgkQAcplrDdcqmX7VhAAxtYiX0aJMimC
+NGuIcc7Q1B8iOIDT+05P9mhc8/EZphFNCg790yzarZ5vidTRZ7irrGR+aOsZzB+J
++If1OS/goxasBCZG+XH5Qcvk7NhXqya9XZAoWBSn8J1EkcqJSp7K1szf+fv7pDKB
+3KQ6+r9V3/zkdOlmdRLc2U3t1zmNQlZGf20V0DpylQeaot9ualxW3wGP8kR4qHlu
+NG0K3p9QF+xTQJ/m8a8IJQ17gHD8KlbRzm64dbjfxnS8l95iny6fFcM8R6pCQZQD
+Z5GoTPSXsHo2gayAycJg3abEq+alozkdNngqXCAwGOK9wCu6BCTDm8jdxumSGeB4
+t4zPdBl4+Kjt2ns3UdLrKIDFhJg7bLU+e83yP3q0IqbPN9qK+pqBGk8vClY/n1XV
+9xpOw+5be0JZcC+PMokslVhg5daJrBYXLhCj01N/QRpg8quPBc1SdD3rKExGfkY6
+8olLd98HZ/HxsJGaAlv/aVSFUfiOqweMLvk6yCkpQUgn0Ot0WXBxRNOz5xQfpUqH
+3rWhJCueFh422gQITtuHDDD38s5QEWTJ6zZJzodSXWJoiofBeIg+2KbtgIcDNb7x
+7D1eG21ZFtWKBVh3rrjXup2SypZD0PApRc1bxHN/SptNV256qGPx0XtzTLh5//fe
+nF45PZ6/WnLNJplxZbI3BKFyPDVRt72JAjEEEwEKABsFAlic650CGwMDCwkHAxUK
+CAIeAQIXgAMWAgEACgkQAcplrDdcqmUY6g/+KkI0Z8l/b0GDWYqQ9rsC5G6Quze6
+y4zsRKuob/pxDnvPU8kTTsiUEFym5EIVIqu8wdapHR78BYdLVrfpgIk4hKP7uliy
+tDLNWSl16oXif9zsyu4QUHl5FkZWl37aAMO2F43j8jpd3d8XFvqsSk2X240x7kK0
+WFd02Ez75HkPhBfv/i3sJQjTn8hCZS6wgmTTdQArSDq9VwMD4mEY6+Ub8ckExXJc
+oWSlKpR4urq2ahTzlPBfTkFCIc5gnHKIyLfEuGZjYcM49WOT64+MO9C4gj/57bZv
+ilVpcm1/JCE0n6JjWx8gMgqaxM/Kulxi6QjhTMjXj2nORUg4+K3iTQQXt5G0JdZA
+nRpHDaNVL1nudC8L/xtEBvrTvJgn0JPqCcx+W00daBw0OLoUFibXms2/ARP3q26z
+ZXBkxZrvEDh1B3CFizSwBcNEmiI2pMd+qx3TrmKHya46yI+HdZCMdlfs4a8K81no
+WInK+mS0+Rv6Pq0I7JksOc644BI2uaAXhYejsxULtX1/xBkpbcqujehD1yQp42Ae
+YeJt8sGks15gfZbVX7I7U/43mFgGhv8oT/BqhdBbZ17QeOznUieNKEOQ6117niMu
+s4xKLH0tFaHzGh5iLncTNDAxGYTFEpDY6CmMX6KfNnv6+LyTKd/j3d9ZvKPsmlRE
+b0cWDH71he6tbfG0KkdhdXRhbSBrcmlzaG5hIFIgPGdhdXRhbWtyaXNobmFyQGxp
+dmUuY29tPokCTgQTAQoAOAIbAwMLCQcDFQoIAh4BAheAAxYCARYhBIEG/BF8CV2X
+hLwzEwHKZaw3XKplBQJegZXsBQk+UjsmAAoJEAHKZaw3XKplQ7cP/ArAq+YrAyQn
+CqLOpWhns71vbaqIBvYyLpu6yM6zXXaARZkVrBnAKnTmcnlvyYdDkL0HbS7uN4s2
+pwTustBGYy98dBNBeW9f1ci33Petk1rnFHO0UBUQ407dSuFJk+PeJa1/3U/JOH39
+QkqAQhWIWSpFwXeLv7TKWDhcGWCceRk4atKoEvwv4AA9VM/atrqEQbYyM+O2VSB5
+9MrEEx+xXmVoL4BvwvBLV1B6skIKwbuJ7yTjfbDChykVqyDUL6RjZgJ0/owwr59r
+F4piMjkYXw3iAD5B7DCw26+kZsoaO+HQTyfqQPHCMjB3Rial/NITrYlyXCtac34e
+Oc7MReBJST9OjrEehSjThGZo2FT+xFn6s6PEXYedaN5+zmVf1PoUUFZMGIVEfxDZ
+LcIgv4JJYh5gVhWbOgc8MB+q/SDGgLTDuU48w95OpzMT8G3U2rPLvOrdNQ8R79gF
+xl7kW0KGjbgiqGakRcUVVOaD2N1LPI1gghZpwO3jDvN8Ln2rwxGcEH1v8htdGglg
+frBUzh7VlHIDU6hoTJdDa3DinE1ds3Ljt6gW/kK34OSUxiBiwjudCFYco/2HlpN7
+ts4fe+eHFufl2Ux4GkmzasMf5Ybw753aQY2uSIyBeDWJTGByy1XJ7nOvPwHpsNle
+ApyzLA2QjFhnGsThmv4kArHtXg4K2bLMiQIxBBMBCgAbBQJYnOudAhsDAwsJBwMV
+CggCHgECF4ADFgIBAAoJEAHKZaw3XKplKL0QALQUqBbKrYr7OBXw8p28DZtsF09B
+A/Y6HBFgaDltuHWtEuRCn+I28VYjsIrRy6hdbKdq3LqrglKPy8CxNGq89eNcdfXX
+WsodsMUDPZeTdEpIksFVsgZnO/mAWt1zs1FDShIowaYgPyOOFl0qsEFhH8rPGJfp
+nNJUWauiu+aaLywZ0gVV7u/ntycVEQ3SUI7bsEpO65Bqe9LGwkJ7Gd/B4tzPdWX/
+nQ57W07OdN0coprzGtecSNGeNEqfE6cG/w2epDVx0iBgUMFHZmPEB5nmkmgiDC88
+5gl7SRem0FVXFw4QjqiY26IW7MY/SNccfO5uOMA21TUqcNjhGLj36VLBbtzOH7ul
+71qVB4+h7N2XGZ+GN/DX/o2OYVCQHjxkQEk8Qo3+frCTPMfliPObkZkfjAl8nbhD
+ombkTCl5993cYSBcXRC7fgh1TiQvXht8lW4luqdkAeL8ivTGdEqMAOzykPXob+PP
+s4aC87E9/j2M357SOMnPdjp3VEGo2JqY2fJutuY5iwY4+VTToNDmp9Or9hApQOhV
+J98Mw4lg4OkQZKMle8g8rfRm0ccn63FcIsSX3deJtSbd3wqxbz48gwtPHD5dXb1d
+yZQgdwUOJBpQJUxbXB3bvwIQZ7fZitAPilAbGk2K03YW7zdOGRJB/ipMSKj/6xcL
+RgaECperkYElYpsXtCRHYXV0YW0ga3Jpc2huYS5SIDxnYXV0YW1AcmVkaGF0LmNv
+bT6JAlQEEwEIAD4CGwMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AWIQSBBvwRfAld
+l4S8MxMBymWsN1yqZQUCXoGV7AUJPlI7JgAKCRABymWsN1yqZb56D/4y6KOzCspv
+oTUbRiwlvqjig2+BBbpcFX/xClE8Sp09D4wiSBCLcFGEFI0x6Db+I0q4zF9xji5a
+5IDk7ni8zU0lRVCcVuPt2L54NbB+b0dQwIRjoqiegx6iDJ2/yRIr/fGRvRYG1tIx
+LKuSUUykiHz+0ZQPiRY6vrUQWaoD+1NRdq/xLbr9zRNFGO6ln8cyhsZI2qIiLnag
+/eqkCh5ZpiH2TH65EhmkV2v0c3+c1zAUYe9DQpO1eqLOdkjF8IR/TNCLIuuFmprg
+G2XjJXAmWzJHi/Q3/hQadIV435zZ20FenQ6Uu8PZI0Ly2rMysxPJ0kGPS9Yg+fJ7
+TaqbcUVeb4McuH86wu4E9TuG3CpoZN2A05jwG/m6B6AcLwQU08UDRmbIJH63UJOZ
+YTSOkyQCpQmxhaKo5Ty85ek4cX/7Ya1Lcj6PS3/PHJtzIeFsZySoM2Ykf3qrjRNE
+5qrfZOvfoq81p6yEvTreGQqoUNnYTO9PLilSz7pEi9gPbGh/waBc9BoCW9p5gw7c
+HS29JvlwGbT7MGHLsVWIpnUdz34plS9kgZ20iBvViIrX8D6jmmfiMUz9npKuoZ+g
+uuuh16eA3nUNUoITaTmv+ngsTqEfrMqRVPx8LLJ32hz833Doc4EgKzOoNwgeiiEj
+lfPT/14UthyJ1Bkk9c59SgnW/oInJ1vgCYkCTgQTAQgAOBYhBIEG/BF8CV2XhLwz
+EwHKZaw3XKplBQJeQbNZAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEAHK
+Zaw3XKplEOEQAJ8YGdI5c3CZj8BtbTjbmqFbN1HPfm8I6D+8h17j4cX9zTwWLcwz
+V66CpA/lcEIqCdwuAAFBTyNcQ+xYqDdUID1LXyyX+WR7yeUVoei7/6udi0zi6M+1
+f5HTxfZnKFTlHtyjBKHlK0On3pvyiZsHleU47mRPrFhJBAvV5HGCvou3b/vNs3xC
+YLlLYcoqiz/c2XG1/leklITNYtSVb4IxUxHutekzQW7xwSKZFnrH40aHi689Z75t
+3dJT9j12i5PlDehfY4U3YqOUxxQJvhUwceQ8ONfaE2sUZu7gcyL+n8XQSuxe7Pw1
+/WWM1+k+Sro6piHmCfrr72GOw0ZSEQpQ927UR5LhLeJLtkqaH92R2h3n6wQlJYPd
+rcyKUgNSAkdQrSKQYxDfK6HPZAXzDpJT/e1itWeQV4NAEOBqtz7Bpflu735JiHsH
+XhcYk2me+DCtmYPZPrQC0p+p2ZjQuamseRjjjNHGq71IwK3xCLB+ggG6g0cntngD
+rZZGfWqDAiWC/5Ffv7x4FYHFmQxau5nkpurDJ6zVCQ/y9F8L7XUQcMWkZofixdKa
+iDFnpML3t6RUfAGtgeyRpw4k/m2s3uZAU2Sx114oO0K15Y5J4591Ou8M5ZKuhIqe
+CqsR3tQMRivx2J/lowahaKyz7ohkkvB4URvzl/CsAH/Tkmqq0S9xvF/KtCZHYXV0
+YW0gS3Jpc2huYSBSIDxnYWtyaXNobkByZWRoYXQuY29tPokCVAQTAQgAPgIbAwUL
+CQgHAgYVCgkICwIEFgIDAQIeAQIXgBYhBIEG/BF8CV2XhLwzEwHKZaw3XKplBQJe
+gZXsBQk+UjsmAAoJEAHKZaw3XKplfI0P/0GNEFe7jGFFrPdFuFCedZS9gdHV+Czq
+hq4R+DbVc+ybhG4xBG1ee3gAbv2q4dsT7VIXOLferE3rVTiNcZIioo5iJXxbHFVf
+oViqWbG6P/DWx4JjLX4g8aIFyWbGlbYxYQznd5FJ2V2z9BeKZGLVrHXIHYXDvNd/
+QeVy/fVAqwbpqjgz9RGfMvZZrYQi5EC2TG+Ko1Y+ynWtWJPAzRQ23j3vhhtEvvn/
+bjEc++n5IvwoqnJAf9OUSltqQj4FX4WUaV+rGxIRtTw75zOWQEQMPqrUVBhJKJEb
+RKM0iluCNBrGMySlxQfC6dmjpxBckLnBAGpXrx6GcwwnuK98z/cx05cnve7/5kEI
+aiokdcKqzc+bRhqKfjaQC9P1HIRt4/CjoiF7DleIMNI4pXFIjOARNiTLwzyWL8WT
+l2i0CCd7NfRD8ewkpfgxv3ro9LjMDvRk3PTDmg4yZJotneg77j8oFoqCLkKT0u3t
+7OFJBoQPpf9v5wzJyxM7/TtaU+ZMDKkmMqyjjKNZiyODirWAOgWusGgG4GL1aKV8
+Ny2gCDNWYHKBUKyuZ72aEBCqQElSCSmBsoTmJPasicQt1YqmIwo7z8+XzCw95AaU
+mrRuGDkva2bKC2J2cI1AyZoA9rAnxpDAvcqgpK6JtDZyzJl4yTlH7iAuV85zMQn0
+Y5DjN8DRpkPviQJOBBMBCAA4FiEEgQb8EXwJXZeEvDMTAcplrDdcqmUFAl5/Ln0C
+GwMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQAcplrDdcqmW/ow//WMU8J4W1
+FXfTfJhqfMkGnn1gHPT7gi0LJsJQaXPA0qV/eXxTQHtK7RD9yY0pCVmXbuGNgrqi
+LXCDqRPK1mR3aaR8FO1vdygq37wCc4a8vvy20DmJXNUFYR+rqGW3nTdDLenGfDH4
+WO84Eehs8Ufh6fmIJWZWX3T/PsrLGoxTsHfKCLjIndEprGXzux8lWmHrXJeZEKdw
+WoCTn/ygAcMf/Ac7Ri0PzJ0zsjis/8P6LvLXI+queVDOWO8+q8NXhAmzxoAoduTI
+zLW2lbpjuZChi7cFWDdvNWXYvbRK/0v5p8QcPDIw+zT8c7lo8JXzfBNlHRmaWx5C
+k2szfPCbkWA9tyiy3RXKkldzUtVv1wKF6p5iGZc/Cl3xtHy9i7dmqQ60YG/TTQrh
+vJifwmoKLipY14ytO9sBuUAEzAHjVeY5LM9541Ek8GaqYKzvnu+1mnIl+V4IYNPX
+Z4X+SA+cNrt9oYOw+ly2Fac0ZLMFKkm3kTyxOuoYH81k3nsDeHt/t2Z6Og2PHb79
+uzHHcXbGQKJk0nM1oRiyc+ikpAWPuf4mhib+vE7mxL0BsijU/AXucmX+l4EskcnD
+q/olowRGYm29uNZ4RnwXKr9q/pMFoA2+r6u9/GvZ+87AHRQPyF72VxP+Ge2jVXkC
+JgHOcvbmiuubxrwE7/zf74T7JscXg4VrFV60K0dhdXRhbSBLcmlzaG5hIFIgPGhl
+bGxvQGdhdXRhbWtyaXNobmFyLmNvbT6JAlQEEwEIAD4CGwMFCwkIBwIGFQoJCAsC
+BBYCAwECHgECF4AWIQSBBvwRfAldl4S8MxMBymWsN1yqZQUCXoGV7AUJPlI7JgAK
+CRABymWsN1yqZdUtD/478kII9XpCK87xQaZcLnDVCaC4tO+/+GPSSvCbP6MkSGPd
+iz68hSJlJnNruORWpdQl7g6N0YwrES+f3jkc/A9NemF2BC+GeJ6Lq5Bkw3MlS18u
+z9P6OgCZowLSxCXMQrSnhrvZA2xzblgH16WU0qVdXew3vdAtgXTnqAfjpCD6y1R+
+1abqHJD+utO+fDW8ICLd4hV++YrxIJfLd2jADLxmhFEugiI9lc7HKHb7G16DIOhb
+GFASVqPIk0UO97UYa7XZQ0uTn5lMqdNEMLH3iT4VAy7Fvg5mifxMr8wNRW/RMTHs
+kQSwWt8EIr7QxEOhf88A07EqT3Ap2VCBWkFkadUQirxC995BC/o/qBFkIQv3knQ/
+e2gNTAux98RdcOxtWQeacTgl5InCj/Qxue6Kse3eTcIDqAq74s4IuONbpoHguTN2
+OpSA7YhlkLhS0DqbFXX2T/a9ZUFFgvh4J5zJHNVo2WilPlTjnSdESsFFuEx5Ei9v
+C6ldZi7+7YWHoBni0EPu9NEQmv4PToeWGasxMLB43HlgAcW+ip54l5dC1jtCyVqU
+oQPTDBemXuz9FQ6KSfXkMnVl9ZHERChh9Jsvu5CDUu2h4/q+SQjpn2K0NEllihbs
+PEge4J0t6KKeHmpqAgPyar/Cpk+asgSitcSMbao01arcjdszlK6Q9osAcKeJbYkC
+TgQTAQgAOBYhBIEG/BF8CV2XhLwzEwHKZaw3XKplBQJegZWkAhsDBQsJCAcCBhUK
+CQgLAgQWAgMBAh4BAheAAAoJEAHKZaw3XKpltJkP/2RvtnN/S6KsqNqCZKfVRwEh
+IQaHg7JQtXkm54x/9DWdSHb5/3Gy5lGs6rVAdhnWFiyXDvJWpejoxsG2GTS3Xe1i
+gT1q5kLYoPXgEAKXerhPd4eDbk2punaNqFbV9S/MRiSKKTB7I+3lpXOH5UB0F0E+
+VI/ADLA942Xw16fQ5kRqwVD/j5bj3X2S6oIbw+ADCqtqINdYYJxnzGP8HfkH+InO
+O+dyufPSYnxf7rXEdRAPH6eMf4vbP5K5FvOYN0+Q9I8Hnn6d2ej6z7Wnj4zx/CPq
+HX4YyyKTgvVdlb7cEFu2I7eGLZeAqYI7ABco73gxpsBqXv1Hv9q6UGu00sz/078y
+pdh1valm+VZHgyiiYf7kGUK/yPBhSriy9ZZT0ze7BY3KStkfwisMbW/U/izh4rrB
+izbUeQNcEIdBH5XQ4U7s/9mmdY6GUxNQ2rqltBSDAHUuhfZY1VsyfgmnbBJV8oTq
+1QRQ9+8hMMGPmYD3FaglvtrrEB3fTCsgIln8EykoZpsyiYR7Ivlj31Vt/5hz8Wzb
+PsgvFV6h7k0n3mdKbpTVyNBCde4s15oMcHyt3CXQ+KPxdG/9LVo57d/iKby97elK
+grkQQnjPyAEl9wiQcQ4Y762qJcaEtAakOfPmltBmmbfoTj32MEIC/7VkDYY3vfPo
+im/vrUQfUlChkgJiYV5MuQINBGLxrPkBEAC1ns4KpNZmnCwgmp/KVnubzx+Irue9
+Pgukptxdqu/0Z4B0iBAbdHuImwtqRmH6bw60kLsrgQ+AOFec9D5AYtx+7EhsXivm
+iBKf0EoEol7aWOdrEd1KY4qqW1joSdLfvwuuDy6LjuX/TQr2IqYgxhz4YbDUWR13
+2xE9ypTD9m/3MUNQTd78XAIL+2a48ChaRtc/4TYZMhWxCpZlbdeX8Yrlki050L/n
+fzqAs9jHuO/on91bSbDDBxy0hr3TgKVnt3p5torakJILk0AkH81Lhv6qCAf7GpDa
+fUjXMrALiodsa35Xfqhk5m3kbg4y1rdKU5O5ybNCn/tqM8kPUE0w6lbuX/WqYKHB
+Hs8sGLZK6VfWSpvc+Dn+Bzc18lFlOWdAgE8TVK6k0MDp2+B7Q4z4oY19FZdz01rq
+saQDD2o/Ppr+Z0MZMG5yFZJ7qjfyp+Yd4296bPd0eCBoftrgmAR2a+qQlzMRjLWu
+QRw4ssJqDaTAJ8KwGk3WETqMsP72lvEvtvp8DQqVYn3hI52OWz1XZKDecrQTYA2P
+lt3ylVMxPHedQGn8dDgegeAGSdFmjg6QYASUmp5wuM8ZQvuBPcePyWcT547i+deL
+QivR2RdsMdq/qgfK3JAL7YQxlq7llhvC4Ik5M2KsdDG2PR2HGUVg/PVxxYtF9u3f
+GQtxX/yPN1ZXAQARAQABiQI8BBgBCAAmFiEEgQb8EXwJXZeEvDMTAcplrDdcqmUF
+AmLxrPkCGwwFCQeGH1UACgkQAcplrDdcqmVVhw//ZY8EwoWxyHfZuibJUn3mbHfx
+ByiVoGhKkUkjaFsuyvpxbzUOfARU7BUuu7mFE+igcvpEutCGNx0tXxrTsnG+EsiC
+3VJNaEner0aAyM9dhK9JWyAX6+BFx9jMdtQ4roR5nQuM8NtJoymjnwTRQltmYI3r
+ASWOiBO5qiTIyQb+E0yvv8q9wS3AmbGUcC0zpkBBInnAnpxl6kcpJj5z4vAK0tqu
+96ssdLTGeT9tYVWRO/UncXSaDtY5wxnWRgXPC64GBxH3AYP6X3cgqPjHBUkBFctP
+6CqoNT59JhoDlpwLIaLmTyAlBh+0ydlDPtUtNO82mM35KLHU0+q+Bq6kCfrgaM8G
+cGJIv3wXmA5sRMbFomWMW+5u40zKpWuFEbySPbz2XB6Q1FMDfQi5O+xO+K6576rn
+narY8c3fiGZgyhS9lPrrOn+V2oWiatzAZVZDqW0rpcDgx8t1QDAEOfeseX9AflnL
+oxznnm+7SLx57hjrYbBd9FOpKfr3Fu0phPTx9Ftc+hLqPJsX1UJTa84r5UZgELvB
+ryi5tNmsgztvF5U9VP93UkjTDZOJe5nLB+toEMEuHQ+nl7p46mzcDjGDeAAg964f
+wP+XmK7XBdUpjHdH3nQd9xSYekwwf009RP8W3uH9COA8C4dLuXv1zm7Gc6tnYE3Z
+v2cAe34YVqatgP0z8vu5Ag0EYvGtKAEQANFty5AN0wZWx3vBbcOMgMcw8dtKXCuw
+s1iIonhKMsnjHXdtqz0Jlz3ZxyV4b2szLNg1TxqBEeBZr2cs51CLyySmx1RprOol
+Mgsrx+O4ZeAclI9aEhjeMQ3diejHyamDaKPv38A2HfAFZXDAb5ITIGvslqVVmEAP
+v9VKurdZfBZ2cpEUNxMbUSKtcaKCRNwOpCz0YBeFvR6WeB+RGW2aKzCe6gumIpKX
+lTq3e4SuZSmz9ZIpQHLxG7yIKE0bj2YE+UMlKAEUf2/H+jreJZMO4aYZHINg6lUP
+up0Ym+qyu/3OAmgfFnD2Ws3K1GToEgNSDYtUhbW9SsgL0jMZV/YY90PnPRqbsRxn
+VuFeyvepX8xAsvquyqlXcKKO9GSTftua4kC9Wh5IugP4eC6VdfilJSNcbjKND8MD
+q2BdshtxH6n64oM3Xdl3tNffOTc51hB3gzPiUuF4Xhw6FZhksr8LdVmjrBl0y2No
+5UGwpFl5kiO5eW9KZZPEnpZL4Vl+CHc62rYgJrfjR7hmW4wwQqgW2gF+Lo5Bzlja
+ktJQX5W456zczST9q+cvlRy1ffsxC975qHB9L5NARTgVtAY0yd7EY4HQOh6gfJ4y
+EgKnWfCrXxIoKDlUI706ThPcxajMmGQFoycNxkNoruybVtRY9JHl1eRZ+pzRg6pl
+sj1c0Oo1Qk7NABEBAAGJBHIEGAEIACYWIQSBBvwRfAldl4S8MxMBymWsN1yqZQUC
+YvGtKAIbAgUJB4YfeQJACRABymWsN1yqZcF0IAQZAQgAHRYhBOSMr1acLUVttgXD
+BdYkOTQcCqvTBQJi8a0oAAoJENYkOTQcCqvTfzQQAMrOCsry8deW18Q73Kz0+sa6
+GRtO9geP3hIurcUyFLSmwry3FirZ7qt2y61HjpKvNstF+2TLV+tvvCq76+YTm0Bi
+d9S6AifO45BCe7k/by8afj4dwAU4YRiFRhY5ppS5JBI6Mpyq35eELXtO0aoy4f0N
+aaQpiR3/d7wiYN/1hm3qW1Nxv3ffFIivHssVACYaU84wir0PHTnqqpWCLgtjPemo
+jCbqxY6s0ljRWFN5bOOzEaLddjGseZ0+0kE+SoNcNEpGQqaIJQuXMycz+wYezcSP
+W6F6AOG/O1ZIvGpFK1jaFffiDT9J+dyHLYqHhUt0/x65WcRc2VhutuULZy7OIRU7
+atEvFWegdMwqQ396e2oImZJ/LgeXKE08X0kdOJGpvRN9NTB5IeoTJmqDNBuHpBUI
+1eyjwrPcRt+lYVMmWJXHOqPUNd34JDsyDTFDLhNYwSOBjH2WWarFpRausP9fgB8k
+NMZlW2fMum3iNYt++/qzfl4qLYByGlnUka/eRRShR3ZhVvb9PtuCIM+jOreJRb/t
+JmVfiIueC+sJVRzgO/VZSXGmuVjzsRqmRJgYq9eE01d//VlZcXQe2rb0/1B92KOm
+4x4i1npnWrNSIr2YB17KBU2Q/JojSp2+A044yvKl6gE5PPM38F8H78hxwH0RPOgE
+zi6FaUh4RlkWVxlx0L1tcw8P/iFwyHANF1B4j/SmdPYlTE5YqGmSaSUuCpgX+vwU
+f5mwoieE3HY6MLW3bBtN72JyhODPoke/4sY62urJEXgizoeqpCxkUGLo2svScf/i
+Jw/HaBzKxydZCmcr1Tn4+SsvPeJX1LbDdIC4pRdOSA0FJ4ZYIngwwSdYIxV6Czuz
+AdbSU7anVjgWEwgFI8tK5AkdbSVh8/adrAnNv2LNU1e+oqXamj2rieq9DVbIDUEN
+q9+Yn20eMvXxsBvQy5KJXEXKXSqD1Eq1/qgBa/Nf/jstb/uyei0v5csrttXLxE/W
+r887ZGFKxpJrfmKMYJLPWodyHI9Ra2/DKlb1iqSKZcgGKaDUuTCb4Fxm6ssYumtw
+In9a8AK4zyc4W7vsg8ZEQRCTUOukSuWC1o2ALpR1EC5xdy0ozFesuvEOy2DKWjrx
+Jt6CUYGRygtCcMfQSu7iv+8xQQBML15lgwQfLjhGURzgY+hA2lBXagA9eP34fLX7
+5EKfhvQLR+zvb59SOa2623z6nAQ7b7FrtDKOP0GZnsBLnItmHVbsMFeUErWs0nat
+gYsFJAuwsm4O7avhk+LUFOcHqWuzLi02+VVyVBEZ59jve5W6owpvEzTERdvN5yee
+r9oSyv3IZulSQ2xILpiFlQtVPhCiIGoXWBbHrzOrtvD/+K1cCm4+ixqr1FKOa4QU
+hjDs
+=b3bX
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
+
+<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+
+
+
+
+
+
+
+
+
+
+## Hi, I'm Fayas! 👋
+
+- 📚 I'm currently studying computer science.
+- 💻 I'm passionate about software development.
+- 🌐 I'm interested in web design and development.
+- 🔭 I enjoy working with the Python programming language.
+- 🎯 I'm focused on improving my coding skills.
+- 🌍 I love exploring new technologies and learning different programming languages.
+- 🚀 I actively contribute to open-source projects and the developer community.
+- 🎨 In my free time, I create open-source repositories.
+- 📖 I constantly expand my knowledge through online courses and tutorials.
+- 💡 I'm always seeking new challenges and opportunities to grow as a developer.
+- 📫 You can reach me [via my accounts](https://fayasnoushad.github.io/#accounts).
+
+
+Tech Lead, Senior Software Engineer @RedHatOfficial | Full Stack Developer, Open-source Maintainer & Contributor | Polyglot
+
+
+
+
+
+
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki AI
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C508%20hrs%2058%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-761-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 251.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 199 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 29 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+🌆 Daytime                1862 commits        ██████████░░░░░░░░░░░░░░░   40.40 % 
+🌃 Evening                1355 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌙 Night                  625 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Sunday                   944 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+TypeScript               18 hrs 2 mins       ████████████████████████░   94.31 % 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+TSConfig                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+SCSS                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 Editors: 
+WebStorm                 19 hrs 7 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      19 hrs 7 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+```
+
+
+
+
+ Last Updated on 25/12/2024 00:30:22 UTC
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+
+<!-- <p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p> -->
+
+<p align="center">
+  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+</p>
+
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+</p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```yaml
+name: Erwin Lejeune
+located_in: Abu Dhabi, UAE
+from: Nantes (France)
+job: Senior Robotics Software Engineer
+education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+company: Technology Innovation Institute
+past experiences:
+  - ["Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-2023"]
+  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
+  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
+  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
+  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
+  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
+  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
+                      "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Motion Planning", "Optimization", 
+                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["Web3", "React", "Vue"]
+will_learn: ["Blockchain (backend)"]
+hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+```
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
+
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 🚀 Published release [1.0.0](https://github.com/guilyx/ts-etherscan/releases/tag/1.0.0) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
+2. 🎉 Merged PR [#1](https://github.com/guilyx/ts-etherscan/pull/1) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
+3. 💪 Opened PR [#1](https://github.com/guilyx/ts-etherscan/pull/1) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
+4. ❗ Opened issue [#2](https://github.com/HunterTheAgent/community-ideas/issues/2) in [HunterTheAgent/community-ideas](https://github.com/HunterTheAgent/community-ideas)
+5. 🗣 Commented on [#1](https://github.com/HunterTheAgent/community-ideas/issues/1#issuecomment-2521148506) in [HunterTheAgent/community-ideas](https://github.com/HunterTheAgent/community-ideas)
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C860%20hrs%2059%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.8%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 335.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,071 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 71 Public Repositories 
+ > 
+> 🔑 15 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                335 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+🌆 Daytime                2261 commits        █████████░░░░░░░░░░░░░░░░   34.92 % 
+🌃 Evening                2899 commits        ███████████░░░░░░░░░░░░░░   44.78 % 
+🌙 Night                  979 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+Image (svg)              14 mins             ████████░░░░░░░░░░░░░░░░░   33.80 % 
+TypeScript               14 mins             ████████░░░░░░░░░░░░░░░░░   33.78 % 
+Markdown                 10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+
+🐱‍💻 Projects: 
+wastedongas              40 mins             ████████████████████████░   94.23 % 
+ts-etherscan             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+trackdrop                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+```
+
+
+ Last Updated on 24/12/2024 12:44:27 UTC
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 16 July 2020 - To: 23 December 2024
+
+Total Time: 1,860 hrs 59 mins
+
+C++                690 hrs 24 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.10 %
+Go                 313 hrs 18 mins ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.84 %
+Python             251 hrs 15 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.50 %
+C                  144 hrs 59 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.79 %
+Bash               85 hrs 51 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.61 %
+YAML               83 hrs 49 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.50 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+Liked it ?
+
+*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
+
+*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center"> Hello there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
