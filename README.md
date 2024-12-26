@@ -25,66 +25,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🎯 I'm focused on improving my coding skills.
 
 
-📖🎨💡🌱👯👨🏻‍🎓👨‍💻💬📫🔭 :neutral_face 🌱🤔💬😭😄 :bulb 👨🌐 :boom
-👨‍🏛💻🌱🤔💼💬❤️💻🎓🌱✍️💬✉️📄
+📖🎨💡🌱👯👨🏻‍🎓👨‍💻💬📫🔭 :neutral_face: 🌱🤔💬😭😄 :bulb 👨🌐 :boom: :computer: :hourglass_flowing_sand: :rocket: :man_technologist: :dart: :trophy: :zap: :tv: :book: :girl: :crab: :paintbrush: :man_dancing: :skateboard: :book:
+👨‍🏛💻🌱🤔🧐💼💬❤️💻🎓🌱✍️💬✉️📄🔭🤝🌱👨🏻‍💻🎨💬📫📝📚🎨🎁🔥🏢🎵📈💳📟➡️📕✍️🅾️🎓💻😃👨🏻‍💻😎👿⚽⚡️🔭🅾️📊🖼🛠🤖📝👯💬📙🎉❤️🎬🏦📝💻📖💬👯⚡🧑‍💻🤔🤞🗣💪🎉🗣❗🔔📫🎯🔨🖥💼💜🎓🌐
+
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+[<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
 
 ---
-
-
-
-
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
-- 😄 Pronouns: Programmer/She/Her/Hers
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
-
-
-
-
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-
-
-
-
-
-
-### About me
-
-* 🎨 Frontend engineer who loves React, React Native and Electron.
-
-* 🎁 Open source enthusiast. Thanks to all the open source contributors!
-
-* 🔥 I really love the thrill of making what I want possible!
-
-* 🏢 I used to work at Tmax OS and [Coupang](https://www.coupang.jobs/en/teams/cmg-coupang-media-group/), and now I work at [AIRS Medical](https://airsmed.com/ko/).
-
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-
-
-
-
-
-
-
-
 
 
 
@@ -111,7 +63,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## 🛒 Google Play Store
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6657791161208757128)
 
-## 🎵📈💳📟➡️📕✍️ Debug with 
+##  Debug with 
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
 
 
@@ -490,24 +442,7 @@ Organisations I am part of:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🔗📕⏩ :rofl &nbsp;**Connect with me**
+🔗📕⏩👇👆 :rofl &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -535,60 +470,12 @@ Organisations I am part of:
 
 
 
-
-
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
-
-
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki AI
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1238,78 +1125,10 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 
 
-<details>
-<summary>:tv: List Favorites Anime</summary>
-  
-<!-- favorites_anime starts -->
-* [Ze Tian Ji](https://anilist.co/anime/101409)
-* [Ze Tian Ji 2](https://anilist.co/anime/102165)
-* [Ze Tian Ji 3](https://anilist.co/anime/102166)
-* [Ze Tian Ji 4](https://anilist.co/anime/108986)
-* [Ze Tian Ji 5](https://anilist.co/anime/115839)
-* [Toaru Majutsu no Index](https://anilist.co/anime/4654)
-* [Toaru Majutsu no Index II](https://anilist.co/anime/8937)
-* [Toaru Majutsu no Index III](https://anilist.co/anime/100185)
-* [Toaru Kagaku no Railgun](https://anilist.co/anime/6213)
-* [Toaru Kagaku no Railgun S](https://anilist.co/anime/16049)
-* [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
-* [Ling Jian Zun](https://anilist.co/anime/107882)
-* [Ling Jian Zun 2](https://anilist.co/anime/116137)
-* [Ling Jian Zun 3](https://anilist.co/anime/116138)
-* [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Doupo Cangqiong](https://anilist.co/anime/102464)
-* [Doupo Cangqiong 2](https://anilist.co/anime/102463)
-* [Doupo Cangqiong 3](https://anilist.co/anime/104922)
-* [World Trigger](https://anilist.co/anime/20729)
-* [World Trigger 2](https://anilist.co/anime/114087)
-* [Mahouka Koukou no Rettousei](https://anilist.co/anime/20458)
-* [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
-* [Tong Ling Fei](https://anilist.co/anime/99935)
-* [Shu Ling Ji](https://anilist.co/anime/119945)
-* [Quanzhi Fashi](https://anilist.co/anime/99200)
-<!-- favorites_anime ends -->
 
-</details>
 
-<details>
-<summary>:book: List Favorites Manga</summary>
-  
-<!-- favorites_manga starts -->
-<!-- favorites_manga ends -->
 
-</details>
 
-<details>
-<summary>:girl: List Favorites Character</summary>
-  
-<!-- favorites_characters starts -->
-* [Mahiru Shiina](https://anilist.co/character/195602)
-* [Mini Yaemori](https://anilist.co/character/153703)
-* [Loo](https://anilist.co/character/293202)
-* [Mukuro Hoshimiya](https://anilist.co/character/157109)
-* [Akari Watanabe](https://anilist.co/character/191672)
-* [Misaki Shokuhou](https://anilist.co/character/40136)
-* [Kuon](https://anilist.co/character/126823)
-* [Vladilena Milizé](https://anilist.co/character/141061)
-* [Yor Forger](https://anilist.co/character/138102)
-* [Chizuru Ichinose](https://anilist.co/character/128106)
-* [Celia Claire](https://anilist.co/character/161678)
-* [Kyouko Hori](https://anilist.co/character/66171)
-* [Nagisa Minase](https://anilist.co/character/162885)
-* [Sayu Ogiwara](https://anilist.co/character/127925)
-* [Ravel Phenex](https://anilist.co/character/58341)
-* [Yuuko Yoshida](https://anilist.co/character/141461)
-* [Ziyu Zhou](https://anilist.co/character/234726)
-* [Angelina Kudou Shields](https://anilist.co/character/128377)
-* [Ninym Ralei](https://anilist.co/character/206374)
-* [Marin Kitagawa](https://anilist.co/character/133676)
-* [Holo](https://anilist.co/character/7373)
-* [Ayako Kuroba](https://anilist.co/character/200612)
-* [Nepgear](https://anilist.co/character/49927)
-* [Jibril](https://anilist.co/character/87887)
-<!-- favorites_characters ends -->
-
-</details>
 
 
 
@@ -1464,24 +1283,9 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 💼 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
-- 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
-- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟺
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-```yaml
-- Developing Nexus, the cross-platform, all-in-one, CharaChorder desktop app!
-```
-<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘... -->
-- 🤔🤞🗣💪🎉🗣❗🔔📫 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
-	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
-	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
+
+
 
 
 
@@ -1504,16 +1308,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
+
 
 
 
@@ -1594,22 +1389,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 
 
-🅾️🎓💻😃👨🏻‍💻😎👿⚽
 
-
-## ⚡️ A Few Quick Facts
-
-- 🔭 I’m currently working as a Researcher at **[@ The Ohio State University - Wexner Medical Center 🅾️](https://wexnermedical.osu.edu/)**
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
-- 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 💬 Ask me about Python, ML, DL, CV, NLP
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
   
 ### 🖥️ My DevSetup
@@ -1749,60 +1529,9 @@ Software:
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
-_Favorite programming language: Rust :crab:._  
-_Learning: WebGPU._  
-_Fun tidbits: My side interests are graphics design :paintbrush:, breakdancing
-:man_dancing:, and skateboarding :skateboard:._
 
 ---
 
-<a href="mailto:duongnguyen18@siggraph.org">
-  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/zach-nguyen">
-  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
-
-<a href="https://twitter.com/zach_duong">
-  <img height="32" align="left" alt="X" src="img/icons/x.png" />
-</a>
-
-<a href="https://paypal.me/dnguy38">
-  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
-</a>
-
-<a href="https://www.buymeacoffee.com/cszach">
-  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
-</a>
-
-<a href="https://liberapay.com/cszach">
-  <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
-
-<a href="https://dribbble.com/cszach">
-  <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -1837,11 +1566,7 @@ _Fun tidbits: My side interests are graphics design :paintbrush:, breakdancing
 
 
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+
 
 
 
