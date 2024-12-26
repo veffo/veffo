@@ -11,15 +11,44 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working and mine contributing building web applications.
+- 💻 I’m working and mine contributing building applications.
 
 - 🌱 Exploring Technical Content Writing.
 
-- 💬 Ask me about **Android, MEARN**
+- 💬 If you have any questions, **just ask me**
 
-- 📫 How to reach me **q.6110@mail.ru**
+- 📫 You can reach me **q.6110@mail.ru**
+
+
+- 📚 I'm currently studying computer science.
+-  I'm passionate about software development.
+- 🌐 I'm interested in web design and development.
+- 🎯 I'm focused on improving my coding skills.
+-  I'm always seeking new challenges and opportunities to grow as a developer.
+
+📖🎨💡🌱👯👨🏻‍🎓👨‍💻💬📫🔭 :neutral_face 🌱🤔💬😭😄 :bulb 👨🌐 :boom
+👨‍🏛💻🌱🤔💼💬❤️💻🎓🌱✍️💬✉️📄
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### My Github stats :
 
@@ -218,7 +247,7 @@ Organisations I am part of:
 
 👋📚💻🌐🔭🎯🌍🚀🎨📖💡📫👨‍💻😅⚡🛠️👤👨‍💼💼📝🗣️🙋‍♂️🧪🔬😀⚽💓👋🏼🎲📛🌐👨‍💻☁️✏️🚀💭🖼️💬❤️📈💼📫⬇️💻👨‍💻🔭✨🔭🌱👯🤔💬📫😄⚡👋✨🔥📊
 👩‍💻🧠👯‍♀️🤔💬📫😄⚡️🔗🚀✨🔭🌱👯🤔💬📫😄⚡🔭🌱👯🤔💬📫😄⚡💫👨‍💻⚡💼🌎👋💻📚⚡🍃😋👨‍💻⭐🌼📃⚠️🙏👍🙌🥳🏆🔧🔥💎💯🤘🚀⚡🎖️🔗📈
-😃💻👨‍💻👾🏗️🏠🖨️
+😃💻👨‍💻👾🏗️🏠🖨️ :wink 🌍
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -250,18 +279,14 @@ Organisations I am part of:
 
 
 
-### Hi there <a href="https://www.gautamkrishnar.com/"></a>
-This is the place where I opensource stuff and break things :rofl:
-
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
 
 
-🔗📕 &nbsp;**Connect with me**
+
+
+
+
+🔗📕⏩ :rofl &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -269,21 +294,16 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-### ✨&nbsp; About Me
-
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
-
-
-
-[⏩ &nbsp; and many more](https://github.com/gautamkrishnar?tab=repositories&q=&type=source&language=&sort=stargazers) 
 
 
 
 
-#### Awards and Achievements
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-- Worked as [DuckDuckGo Community Leader](https://web.archive.org/web/20210727164606/https://help.duckduckgo.com/community/community-leaders/) and Maintainer
-- Won 1st place in Several Hackathons and events
+[ &nbsp; and many more](https://github.com/gautamkrishnar?tab=repositories&q=&type=source&language=&sort=stargazers) 
+
+
+
+
+
   
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -297,37 +317,6 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 
 
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
-
-
-
-
-
-
-
-
-
-
-## Hi, I'm Fayas! 👋
-
-- 📚 I'm currently studying computer science.
-- 💻 I'm passionate about software development.
-- 🌐 I'm interested in web design and development.
-- 🔭 I enjoy working with the Python programming language.
-- 🎯 I'm focused on improving my coding skills.
-- 🌍 I love exploring new technologies and learning different programming languages.
-- 🚀 I actively contribute to open-source projects and the developer community.
-- 🎨 In my free time, I create open-source repositories.
-- 📖 I constantly expand my knowledge through online courses and tutorials.
-- 💡 I'm always seeking new challenges and opportunities to grow as a developer.
-- 📫 You can reach me [via my accounts](https://fayasnoushad.github.io/#accounts).
-
-
-Tech Lead, Senior Software Engineer @RedHatOfficial | Full Stack Developer, Open-source Maintainer & Contributor | Polyglot
-
-
-
-
-
 
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
@@ -357,9 +346,6 @@ npx anmol
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-
-
 
 
 ---
@@ -445,30 +431,9 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -560,30 +525,6 @@ Liked it ?
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 💫 About Me :
-- 🌝 Believes in Think less - Do more !
-- 💬 Ask me about android or any tech-related stuff (Tech lead : GEC - gn).
-- 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12+ hours listening to songs every day with development.
-- ⌨️ Avg. Typing speed 73+ wpm
-
-
-
-
-
 ## 🌐➡️📱 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubham.jitiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-jitiya/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/ShubhamJitiya)
 
@@ -603,36 +544,13 @@ Liked it ?
 ## 🛒 Google Play Store
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6657791161208757128)
 
-## 🎵📈💳📟➡️📕 Debug with 
+## 🎵📈💳📟➡️📕✍️ Debug with 
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## ✍️Random Dev Quote :
-
 
 
 [![](https://visitcount.itsvg.in/api?id=shubhamjitiya&icon=0&color=1)](https://visitcount.itsvg.in)
 
 	  
-
-
-
-
-
-
-
 
 
 <!-- Socials -->
@@ -786,103 +704,6 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 </details>
 
 <p align="center"><a href="https://010000010110110001101001011000110110100101100001.com/"><sup><sub>010000010110110001101001011000110110100101100001.com</sub></sup></a></p>
-
-<!--
-
-<details>
-  <summary><b>PGP</b></summary>
-    <p align="center">
-
- ```     
-  -----BEGIN PGP PUBLIC KEY BLOCK-----
-
-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
-mFFVmpQe2X/qgZBVVYC+LjpxNEMt6w==
-=dpLK
------END PGP PUBLIC KEY BLOCK-----
-```
-  
-  </p>
-</details>
-
--->
-
-
-
-
-
-
-
-
-
-
-### Hi there 👋
-
-I am a _Deep Learning Software Engineer_ at Intel and a grad student at the University of Edinburgh.
-
-- 🔭 I’m currently working on:
-  - _Implementing Panoptic Segmentation for [TensorFlow Model Garden](https://github.com/tensorflow/models/tree/master/official/vision/beta)_
-  - _Implementing Object Detection models in TensorFlow2.x_
-  - _Self Supervision for pretraining Image models_
-  - _Large minibatch training on TPUs_
-- 🌱 I’m currently learning:
-  - _Optimization methods, Multivariate Calculus and Machine Vision_
-- 👯 I’m looking to collaborate on: 
-  - _Implementing research papers in computer vision_
-- 🤔 I’m looking to help others with: 
-  - _Bugs in Python, TensorFlow1.x and 2.x code_
-- 💬 Ask me about:
-  - _Deep Learning, TensorFlow, Math_ 
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/srihari-humbarwadi)
-  - [Twitter](https://twitter.com/srihari_rh)
-- ⚡ Fun fact: _I rarely sleep at night_
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1144,21 +965,6 @@ I am a _Deep Learning Software Engineer_ at Intel and a grad student at the Univ
 
 
 
-
-
-
-
-## &#x270d; Blog & Writing
-
-
-
-
-
-
-
-  
-
-
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
@@ -1188,31 +994,6 @@ I am a _Deep Learning Software Engineer_ at Intel and a grad student at the Univ
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Software developer/DevOps engineer from Slovakia, living in Bratislava. Working with Python, Docker, Kubernetes and Golang.
-
-
-
-
-
-
-
-
-
-
 <h3 align="left">🤝Connect with me on:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/im-vishalanand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -1224,17 +1005,6 @@ Software developer/DevOps engineer from Slovakia, living in Bratislava. Working 
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
-## :man_technologist: About Me :
-I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- :zap: In my free time, I read tech articles, read novels
-- 🌱 I’m currently learning **Angular**
-- 👯 I am also looking for some **Open Source Oppurtunities**
-- 👨🏻‍🎓 Visit my **[Portfolio](https://im-vishalanand.github.io/)**
-- 👨‍💻 All of my projects are available at **[here](https://github.com/im-vishalanand?tab=repositories)**
-- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1nsnlYP3nJ9X8FGQaom0rBlRMCfC4tB03/view?usp=sharing)**
--  💬 Ask me about **Java, SpringBoot, HTML, CSS, JavaScript**
-- 📫 How to reach me **iam.vishalanand11@gmail.com**
 
 ---
 
@@ -1262,39 +1032,14 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 ![github-stats2](https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
 
 
-
-
-
-
-
-
-
----
-
-
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Im-vishalanand&label=Profile%20views&color=0e75b6&style=flat" alt="Im-vishalanand"/> </p>
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-
    
-<p align="center">
+
 
 
 
@@ -1350,23 +1095,6 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=motasimmakki&style=plastic&label=PROFILE+VIEWS" alt="motasimmakki" /> </p>
    
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-	
 	
 </br>
 	
@@ -1441,28 +1169,6 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 ![](https://visitor-badge.glitch.me/badge?page_id=akshitagupta15june.akshitagupta15june)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1574,12 +1280,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
-
-
 :page_with_curl: I'm currently learning:
 <br><br>
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -1674,15 +1374,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
 <a href="mailto:moe@poi.lol"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
 <a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1819,29 +1510,7 @@ Here are some ideas to get you started:
 
 
 
-🏷️🎉🗣⚡💻🔥📊
 
-
-
-
-
-
-
-
-
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
 
@@ -1877,32 +1546,17 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
 
-<img src='./Assets/Monkey_Kid_Coding.gif' align='left'>
 
-### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
-- :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/), have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
-- 🔭 I’m currently working on  **Backend Development**
-- :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- :bulb: Occasionally I do participate in **Hackathons**
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
-- 🌐 :point_right Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
-- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
-<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
-<br />
+
+
+
+
+
 
 
 
 ## Profiles
-
-
-
-
-
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
@@ -1986,25 +1640,13 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ```
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘... -->
-- 🤔🤞 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
+- 🤔🤞🗣💪🎉🗣❗🔔📫 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#143261](https://github.com/pytorch/pytorch/pull/143261#issuecomment-2560493940) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. 💪 Opened PR [#143778](https://github.com/pytorch/pytorch/pull/143778) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-3. 🎉 Merged PR [#39](https://github.com/Raymo111/kahoot-answer-bot/pull/39) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#155](https://github.com/mautrix/discord/issues/155#issuecomment-2510718344) in [mautrix/discord](https://github.com/mautrix/discord)
-5. ❗ Opened issue [#151](https://github.com/CharaChorder/DeviceManager/issues/151) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
-<!--END_SECTION:activity-->
 
-<!--
-## 🔔📫 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
-<a href="https://twitter.com/Raym0111" target="_blank">
-	<img src="https://github.com/Raymo111/Raymo111/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-</a>
--->
+
+
 
 
 
@@ -2101,27 +1743,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
-
-
-
-
-
-
-## I little bit about me
-
-🎓 &nbsp;I'm currently working towards an AWS Data Engineering Cert. \
-🌱 &nbsp;I'm on track with learning more about DataOps, MLOps, DevOps and Software Architecture.\
-✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
-💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
-✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
-📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
-
----
-
-
-
-
-
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
@@ -2171,23 +1792,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2246,24 +1850,6 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 
 
 
-- I am a **Programming rookie** 
-- I like to use a variety of useful **computer software** and build  **beautiful blog.**
-- I also like **literature, reading and writing.** 
-- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
-- and I also came into contact with **programming**.
-- Although I was **not interested** in it at the beginning,
-- **luckily I slowly fell in love with it. ❤️**
-
-
-
-**Talking about Personal Stuffs:**
-
-- 👨‍🏛 I am currently a student of **JSU**.
-- 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning **Web development and English**. 
-- 🤔 My hobbies are **playing chess and running**.
-- 💼 I am an **obsessive-compulsive disorder**.
-- 💬 If you have any questions, **just ask me**.
 
 
 
