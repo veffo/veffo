@@ -33,6 +33,65 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
+- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
+- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 📫 How to reach me: rsjcoepit@gmail.com
+- 😄 Pronouns: Programmer/She/Her/Hers
+- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
+- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+
+
+
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+
+
+
+
+
+
+### About me
+
+* 🎨 Frontend engineer who loves React, React Native and Electron.
+
+* 🎁 Open source enthusiast. Thanks to all the open source contributors!
+
+* 🔥 I really love the thrill of making what I want possible!
+
+* 🏢 I used to work at Tmax OS and [Coupang](https://www.coupang.jobs/en/teams/cmg-coupang-media-group/), and now I work at [AIRS Medical](https://airsmed.com/ko/).
+
+- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🌐➡️📱 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubham.jitiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-jitiya/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/ShubhamJitiya)
 
@@ -193,6 +252,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
+
+
+
 
 
 
@@ -1153,91 +1216,9 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C696%20hrs%2045%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 9 Contributions in the Year 2024
- > 
-> 📦 118.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 54 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    3 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌃 Evening    3 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    3 commits      ████████████░░░░░░░░░░░░░   50.0% 
-Thursday     2 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       1 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   24 hrs 20 mins      ███████████████████████░░   91.76% 
-YAML                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
-CSV/TSV                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
-textmate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-
-🔥 Editors: 
-PyCharm                  26 hrs 31 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      26 hrs 31 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             ██████████████░░░░░░░░░░░   57.14% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
 
 
 
- Last Updated on 24/12/2024
-<!--END_SECTION:waka-->
-
-<!--
-**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡👋 :star :ghost :sunglasses: :bar_chart :Fun fact: ...
--->
 
 
 
@@ -1952,80 +1933,7 @@ _Fun tidbits: My side interests are graphics design :paintbrush:, breakdancing
 
 
 
-
-
-
-
-
-
-
-
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
-- 😄 Pronouns: Programmer/She/Her/Hers
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
-
-
-
-
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-
-<br>
-
-
-
-
-### About me
-
-* 🎨 Frontend engineer who loves React, React Native and Electron.
-
-* 🎁 Open source enthusiast. Thanks to all the open source contributors!
-
-* 🔥 I really love the thrill of making what I want possible!
-
-* 🏢 I used to work at Tmax OS and [Coupang](https://www.coupang.jobs/en/teams/cmg-coupang-media-group/), and now I work at [AIRS Medical](https://airsmed.com/ko/).
-
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-
-
-
-
-
-
-
-
-
-
-
-### 📔📝 Latest Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
-- [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
-- [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
-- [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
-- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
-<!-- BLOG-POST-LIST:END -->
-
-## 🔧 Technologies & Tools
+## 🔧📔📝 Technologies & Tools
 
 **Cloud Services:**
 
@@ -2071,27 +1979,11 @@ _Fun tidbits: My side interests are graphics design :paintbrush:, breakdancing
 
 
 
-## 🗂️🏆 Highlight Projects
-
-
-
-<!-- ## 👨‍💻 This week, I spent my time on:
-
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
 
 
-I think the best way to move forward
-would be to get practical working
-experience. My dream is to make the web
-a little better and help developers.
-Computer eng
-Software Engineer at Wolt | Working on backend, databases, & infrastructure | Python, Go, JS | Based in 🇩🇪 | Writing at http://rednafi.com
-
-
-### Hi, I'm Alen Jojo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
   <a href="https://github.com/alenjojo?tab=followers">
     <img src="https://img.shields.io/github/followers/alenjojo?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -2104,7 +1996,7 @@ Software Engineer at Wolt | Working on backend, databases, & infrastructure | Py
   </a>
 </p>
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣🗂️🏆
 - 🥅 2023 Goals was Contribute more to Open Source projects now more into development
 ---
   <img align="left" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alenjojo&show_icons=true&theme=radical&hide=stars&line_height=45" /> 
