@@ -359,7 +359,7 @@ Liked it ?
 ## 🛒 Google Play Store
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6657791161208757128)
 
-## 🎵📈💳📟➡️ Debug with 
+## 🎵📈💳📟➡️📕 Debug with 
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
 
 
@@ -367,13 +367,9 @@ Liked it ?
 
 
 
-## 📕 Google Cloud - Android Study Jams :
 
-<!-- BLOG-POST-LIST:START -->
-- [Repeat, When, Android Studio basics layouts | Android Study Jams](https://youtu.be/LeL3I-RzcNc)
-- [Android Basics In Kotlin - Info Session | Android Study Jams ](https://youtu.be/qzGKkP8rZCM)
-- [ Lemonade App | Android Study Jams ](https://youtu.be/trie2mgdRpU)
-<!-- BLOG-POST-LIST:END -->
+
+
 
 
 
@@ -393,13 +389,7 @@ Liked it ?
 
 
 
-<!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙰𝚕𝚒𝚌𝚒𝚊</h1>
 
-<!-- Contact and keys -->
-<p align="center">
-<a href="mailto:alicia@omg.lol" title="Email Address"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org" title="Matrix User ID"><code>@lissy93:matrix.org</code></a>
-</p>
 
 <!-- Socials -->
 <p align="center">
@@ -666,13 +656,9 @@ I am a _Deep Learning Software Engineer_ at Intel and a grad student at the Univ
     </a>
 </p>
 
-<p align='center' style='font-size: 16px;'>
-    ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
-</p>
 
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
-    Connect with me:
-</h3>
+
+
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://twitter.com/utkarshpathrabe" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
@@ -1008,7 +994,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 ---
 
-## 🛠️Languages and Tools:
+## 🛠️📊🐦✍️😊👨🏼‍💻Languages and Tools:
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -1026,31 +1012,25 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 ![Postman](https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white)
 ![STS](https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white)
 
-<!--
-## 📊 GitHub Stats:
-<p align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-vishalanand&theme=gotham&hide_border=true&layout=compact&langs_count=5"   width="35%" alt="Im-vishalanand" align="left"></a>
-</p>
--->
+
 <!-- ![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-vishalanand&theme=gotham&hide_border=true&layout=compact&langs_count=6)
 ![github-stats1](https://github-readme-stats.vercel.app/api?username=Im-vishalanand&theme=gotham&show_icons=true&count_private=true&hide_border=true)
 ![github-stats2](https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
 
 
 
-## 🐦✍️ Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Im_vishalanand)](https://twitter.com/Im_vishalanand)
+
+
 
 
 
 
 ---
 
-<h3>⚡Feel free to reach out. Always interested in some intriguing conversations!✌️</h3>
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Im-vishalanand&label=Profile%20views&color=0e75b6&style=flat" alt="Im-vishalanand"/> </p>
 
-### Thanks for visiting! 😊
 
 
 
@@ -1064,21 +1044,20 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 
 
-# <h1 align="center"> ɧɛƖƖơ ɠɛɛƙʂ <img src="./resources/Waving%20Hand.gif" style="max-width:100">👨🏼‍💻<h1>
+
+
 
 <p align="center">
-<samp> 
-   <!-- <img align="center" src="./resources/My-Tech-Cover-Pinned.png"> -->
-</samp>
+
    
 <p align="center">
 
 
 
-<h3 align="center"> :: My Tech-Stack Includes :: </h3>
+<h3 align="center"> :: 🔎My Tech-Stack Include🌎s :: </h3>
 
 
-<h3 align="center">🔎 Find me around the web 🌎</h3>
+
 <table align="center" width="100%">
   <tr>
     <td align="center">
@@ -1344,7 +1323,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡👋:ghost :sunglasses: :bar_chart :Fun fact: ...
+- ⚡👋 :star :ghost :sunglasses: :bar_chart :Fun fact: ...
 -->
 
 
@@ -1365,15 +1344,7 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-:star: Here are some projects that I'm working on:
-- [Frontier of Hell](https://github.com/moepoi/Frontier-of-Hell)
-- [Kitchen Counts](https://github.com/moepoi/Kitchen_Counts)
-- [Nekoya](https://github.com/Nekoya-Site)
-- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
-- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
-- [Nepgear](https://t.me/NepgearBot)
-- [WhoisBot](https://t.me/WhoisBot)
-- [Moe API](https://beta.moe.team)
+
 
 
 
@@ -1785,7 +1756,7 @@ Feel free to contact me :yum:
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - :bulb: Occasionally I do participate in **Hackathons**
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
-- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
+- 🌐 :point_right Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
@@ -1794,144 +1765,11 @@ Feel free to contact me :yum:
 
 
 ## Profiles
-<!-- start work experience section -->
-<details>
-<summary><b> My Work Experience :point_right: </b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Company</th>
-      <th>Position</th>
-      <th>Roles & responsibilities</th>
-      <th>Duration</th>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td><b><a href="https://www.rsystems.com/">R Systems</a> </b></td>
-      <td>Senior Software Engineer</td>
-      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>FEB 2024 - Present</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://www.marlabs.com/">Marlabs</a> </b></td>
-      <td>Software Engineer</td>
-      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>JULY 2023 - OCTOBER 2023 </td>
-    </tr>
-     <tr>
-      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
-      <td>Associate - IT</td>
-      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>January 2023 - JULY 2023</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
-      <td>Junior Associate - IT</td>
-      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>August 2021 - January 2023</td>
-    </tr>
-  	<tr>
-      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
-      <td>Intern</td>
-      <td>Learning and practising of ASP.NET,C#</td>
-      <td>January 2021 - August 2021</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://www.chegg.com/">Chegg</a> </b></td>
-      <td>Expert</td>
-      <td>Solving questions.</td>
-      <td>October 2020 - January 2021</td>
-    </tr>
-    <tr>
-      <td><b>Procode team</b></td>
-      <td>College Activity</td>
-      <td>Setting Problems ranging from easy to medium and hard levels</td>
-      <td>March 2020 - April 2020</td>
-    </tr>
-     <tr>
-      <td><b><a href="https://www.atg.world/">ATG</a></b></td>
-       <td>Frontend Developer Intern</td>
-      <td>Working on frontend of website</td>
-      <td>July 2019 - August 2019</td>
-    </tr>
-  </tbody>
-</table>
-</details>
-<!-- end work experience section -->
 
-<!-- start work project section -->
-<details>
-<summary><b> My Work Project :point_right:</b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Skills used</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href='https://todo-codewithkeshav.herokuapp.com'>Todo-App</a></td>
-      <td>Python</td>
-      <td>this is my first flask project</td>
-    </tr>
-    <tr>
-      <td><a href='https://keshavsingh4522.github.io/Projects/Calculator/'>Calculator</a></td>
-      <td>Html,Css</td>
-      <td>It is a simple calculator which do +,-,\*,/  operation</td>
-    </tr>
-    <tr>
-      <td><a href="https://keshavsingh4522.github.io/Projects/CodeEditor/">CodeEditor</a></td>
-      <td>HTML,CSS,Javascript</td>
-      <td>write html cod here and the result will display there</td>
-    </tr>
-    <tr>
-      <td><a href='https://keshavsingh4522.github.io/Projects/Wordpad/'>Wordpad</a></td>
-      <td>Html,CSS,Javascript</td>
-      <td>its functionality look like as wordpad</td>
-    </tr>
-    <tr>
-      <td><a href='https://keshavsingh4522.github.io/Projects/address%20maker/'>Address Maker</a></td>
-      <td>Html,CSS,Javascript</td>
-      <td> It generates an address in design format by filling in the details</td>
-    </tr>
-    <tr>
-      <td><a href="https://keshavsingh4522.github.io/Projects/switcher-app/">Switcher app</a></td>
-      <td>HTML,CSS,jQuery</td>
-      <td>It changes  the text color by dragging and dropping color on text</td>
-    </tr>
-    <tr>
-      <td><a href='https://keshavsingh4522.github.io/music-player/'>Music Player</a></td>
-      <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
-      <td>add songs and play music, it also uses to store data in  INDEXEDB Database by which we can play songs, if we do not clear the catch then the song will remain stored in a database.</td>
-    </tr>
-  </tbody>
-</table>
-</details>
-<!-- end work project section -->
 
-<!-- start statics fun section -->
-<details>
-<summary><b> Some Statistics Fun </b></summary>
-<div align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=tokyonight&hide_langs_below=4' />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=keshavsingh4522&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=keshavsingh4522&theme=dark)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=keshavsingh4522&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshavsingh4522&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keshavsingh4522&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keshavsingh4522&theme=dracula)
-
-</div>
-</details>
-<!-- end statics fun section -->
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
@@ -1993,56 +1831,13 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
-<!--
-[![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522) 
--->
+
 
 [![test_workflow](https://github.com/keshavsingh4522/keshavsingh4522/actions/workflows/blank.yml/badge.svg)](https://github.com/keshavsingh4522/keshavsingh4522/actions/workflows/blank.yml)
 
 
 
 
-
-
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
-<!--
-**Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<table>
-	<tr>
-	</tr>
-	<tr>
-		<th>
-			<h2><code>𝚂𝚙𝚎𝚌𝚒𝚊𝚕</code>: 𝙸'𝚖 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝙷𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝!</h2>
-			𝙰𝚗𝚢𝚘𝚗𝚎 𝚠𝚑𝚘 𝚠𝚊𝚗𝚝𝚜 𝚝𝚘 𝚒𝚜 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚎! 𝙹𝚞𝚜𝚝 𝚜𝚒𝚐𝚗 𝚞𝚙 𝚊𝚝 <a href="https://hacktoberfest.digitalocean.com/">𝚑𝚝𝚝𝚙𝚜://𝚑𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝.𝚍𝚒𝚐𝚒𝚝𝚊𝚕𝚘𝚌𝚎𝚊𝚗.𝚌𝚘𝚖/</a>.
-				<br>𝙱𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢, 𝚖𝚊𝚔𝚎 𝟺 𝙿𝚁𝚜 𝚝𝚘 𝙶𝚒𝚝𝙷𝚞𝚋 𝚛𝚎𝚙𝚘𝚜 𝚊𝚗𝚍 𝚐𝚎𝚝 𝚝𝚑𝚎𝚖 𝚖𝚎𝚛𝚐𝚎𝚍 𝚘𝚛 𝚝𝚊𝚐𝚐𝚎𝚍 <code>hacktoberfest-accepted</code> 𝚠𝚒𝚕𝚕 𝚐𝚎𝚝 𝚌𝚘𝚘𝚕&nbsp𝚜𝚠𝚊𝚐!
-		</th>
-	</tr>
-	<tr>
-		<td>
-				<b>𝙻𝚒𝚜𝚝 𝚘𝚏 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚎𝚟𝚎𝚗𝚝:<b>
-				<ul>
-					<li><a href="https://github.com/Raymo111/emoji">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚎𝚖𝚘𝚓𝚒</a></li>
-					<li><a href="https://github.com/Raymo111/drracket-customization">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚍𝚛𝚛𝚊𝚌𝚔𝚎𝚝-𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗</a></li>
-					<li><a href="https://github.com/Raymo111/i3lock-color">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛</a></li>
-				</ul>
-		</td>
-	</tr>
-</table>
--->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
 - 💼 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
@@ -2058,12 +1853,7 @@ Here are some ideas to get you started:
 ```
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘... -->
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
-	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
-	- 𝙰𝚍𝚍 𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛 𝚝𝚘 𝙳𝚎𝚋𝚒𝚊𝚗, 𝚄𝚋𝚞𝚗𝚝𝚞, 𝚊𝚗𝚍 𝚁𝚎𝚍 𝙷𝚊𝚝/𝙵𝚎𝚍𝚘𝚛𝚊
-	- 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙶𝚎𝚗𝚝𝚘𝚘 (𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚢 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠... 𝙸 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍...)
-- 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
+- 🤔🤞 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 
@@ -2130,15 +1920,9 @@ I support Manchester United 👿 and Barcelona 😎.
 <br>
 
 
-<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
- - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
- - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
- 
- <br>
+
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
  
@@ -2182,14 +1966,9 @@ I support Manchester United 👿 and Barcelona 😎.
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
 
-<details>
-<summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-</details>
 
 
 
@@ -2212,9 +1991,8 @@ Working on something uncomfortably exciting
 ---
 
 
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Howdy!, I am <a href="https://github.com/Defcon27">Hemanth</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-</h1>
+
+
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
@@ -2225,7 +2003,7 @@ Working on something uncomfortably exciting
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)
 
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.edu/)** majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
@@ -2249,7 +2027,7 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
-### ⚙️ Some Tool and Tech I use
+### ⚙️🚀💥 Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -2267,29 +2045,13 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
 
 
-### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-<!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
-</p>
 
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
 
 
-<!-- <details>
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-<a href="https://github.com/Defcon27/Machine-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true&theme=react" />
-</a>&ensp;
-<a href="https://github.com/Defcon27/Deep-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
-</a>
-</p>
-</details> -->
+
+
+
 
 
 
