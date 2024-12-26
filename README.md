@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 📖🎨💡🌱👯👨🏻‍🎓👨‍💻💬📫🔭 :neutral_face: 🌱🤔💬😭😄 :bulb 👨🌐 :boom: :computer: :hourglass_flowing_sand: :rocket: :man_technologist: :dart: :trophy: :zap: :tv: :book: :girl: :crab: :paintbrush: :man_dancing: :skateboard: :book:
-👨‍🏛💻🌱🤔🧐💼💬❤️💻🎓🌱✍️💬✉️📄🔭🤝🌱👨🏻‍💻🎨💬📫📝📚🎨🎁🔥🏢🎵📈💳📟➡️📕✍️🅾️🎓💻😃👨🏻‍💻😎👿⚽⚡️🔭🅾️📊🖼🛠🤖📝👯💬📙🎉❤️🎬🏦📝💻📖💬👯⚡🧑‍💻🤔🤞🗣💪🎉🗣❗🔔📫🎯🔨🖥💼💜🎓🌐
+👨‍🏛💻🌱🤔🧐💼💬❤️💻🎓🌱✍️💬✉️📄🔭🤝🌱👨🏻‍💻🎨💬📫📝📚🎨🎁🔥🏢🎵📈💳📟➡️📕✍️🅾️🎓💻😃👨🏻‍💻😎👿⚽⚡️🔭🅾️📊🖼🛠🤖📝👯💬📙🎉❤️🎬🏦📝💻📖💬👯⚡🧑‍💻🤔🤞🗣💪🎉🗣❗🔔📫🎯🔨🖥💼💜🎓🌐🤝
 💊📈🏂❄️⛄🔧📔📝🔭🧐👨‍💻📝💬📙🎉 :office: :seedling: :speech_balloon: :book: :mailbox: :computer:
 
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
@@ -38,6 +38,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
 
 ---
+
+
+
+
+
+<p align="left">
+  <a href="https://discordapp.com/users/716544462997815347" target="_blank"><img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
+
 
 
 
@@ -922,46 +931,6 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/MartinHeinz
 [3]: https://www.linkedin.com/in/heinz-martin/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-
-
-<h3 align="left">🤝Connect with me on:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/im-vishalanand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/im_vishalanand" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://discordapp.com/users/716544462997815347" target="_blank"><img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white"></a>
-  
-<!--   <a href="https://medium.com/@________"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
-</p>
-
-<img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
 
 
 
