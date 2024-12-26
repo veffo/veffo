@@ -1,37 +1,14 @@
-Software Engineer
-A passionate FullStack Developer from India
-
-💻 Computer Engineer & Software Developer
-
-DL and ML enthusiast. Computer Sciencist who loves Competitive Programming and gardening.
-
-I love computer science, system design, and automating things 😃
-
-Fullstack Developer/Designer | Co-Founder @ MangoTree | Teaching @ Le Wagon
-
-An Entrepreneur who works in Software, Anime / Manga, Game Dev, and Content Creation.
-
-Self-taught Software Engineer 👨‍💻 | Gamer 👾 | Maker 🏗️ | Home Automation 🏠 | 3D Printing 🖨️
-
-I'm full stack web & app developer
-
-A ship in harbor is safe, but that is not what ships are built for.
-
-Full-Stack Developer
-
-Innovative Full Stack Engineer Pioneering Early-Stage Startup Solutions
-
-I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in javascript.
-
-I'm a Web Developer who likes building beautiful web interfaces & experiences.
-
-Full Stack Web developer
-
-Working on something uncomfortably exciting
 
 
 
 
+
+
+
+
+
+
+😃💻👨‍💻👾🏗️🏠🖨️
 
 
 
