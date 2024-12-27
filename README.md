@@ -257,68 +257,11 @@ Organisations I am part of:
 </p>
 
    
-<!-- Outer collapsible -->  
-<details>
-   <summary><b>↕️ Expand for more!</b></summary>
+
   
-   <br>
-   
-<!-- About Section -->
-<details>
-  <summary><b>👤 About</b></summary>
-    <p>
-      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
-      
-<blockquote>
-
-I software engineer based in London UK. And I love writing code!
-  
-I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
-
-I also enjoy attending ([and sometimes winning](https://notes.aliciasykes.com/p/0s5s3uOtKj)) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
-
-I have a small homelab, which I'm using to learn more about system administration, and host my own services. 
-
-When I'm not at the keyboard, I like sports, astronomy and hanging out with friends.
-
-</blockquote>
-    
-----
-  
-  </p>
-</details>
-  
-  
-<!-- Blog Posts -->
-<details>
-  <summary><b>📰 Latest Blog Posts</b></summary>
-    <p>
-       
-<a href="https://notes.aliciasykes.com"><img align="right" width="120" src="https://i.ibb.co/fkpSwVg/liss-bot-round.png" alt="Alicia Sykes Blog" /></a>
-      
-      
-<!-- BLOG-POST-LIST:START -->
-- [Astro is pretty cool 🆒](https://notes.aliciasykes.com/51203/astro-is-pretty-cool)
-- [My thoughts on Tailwind 🍃](https://notes.aliciasykes.com/49557/my-thoughts-on-tailwind)
-- [Project Ideas: Agile 💡](https://notes.aliciasykes.com/48239/project-ideas-agile)
-- [Trying out Solid.js 🍰](https://notes.aliciasykes.com/48068/trying-out-solid-js)
-- [50 ways to bring in extra cash as a developer  💰](https://notes.aliciasykes.com/47804/50-ways-to-bring-in-extra-cash-as-a-developer)
-- [SvelteKit 1.0 - Building a Blog that fetches from RSS 🦄](https://notes.aliciasykes.com/42764/sveltekit-1-0-building-a-blog-that-fetches-from-rss)
-- [20 Amazing Collections for Self-Taught Developers 🎓](https://notes.aliciasykes.com/42310/20-amazing-collections-for-self-taught-developers)
-- [CLI tools you can&#39;t live without 🔧](https://notes.aliciasykes.com/41983/cli-tools-you-can-t-live-without)
-<!-- BLOG-POST-LIST:END -->
-
-➡️  **[More Posts](/BLOG-POSTS.md)**
-
-----
-
-</p>
-</details>
 
 
-<!-- Tech Stack -->  
-<details>
-  <summary><b>🛠️ Tech Stack</b></summary>
+  <b>🛠️ Tech Stack</b>
     <p>
 
 | **Category** | **Technologies** |
@@ -332,60 +275,14 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
 **Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
       
- See **[➡️ Full Tech Stack](https://github.com/Lissy93/Lissy93/blob/master/TECH-STACK.md)**, for a list of projects using each of the above technologies
 
-----      
 
   </p>
-</details>
-  
+
+➡️🗣🗣🎉💪🔒📰🍃💡🍰💰🦄🎓🔧
 
 
-<!-- Metrics -->
-<details>
-  <summary><b>📊 Metrics</b></summary>
-    <p>
 
-<a href="https://github.com/Lissy93/Lissy93/blob/master/METRICS.md">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg" alt="General Stats">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg" alt="Coding Habits">
-</a>
-<br /><br /><br />
-       
-
-
-**[➡️ More Metrics](/METRICS.md)**
-
-</p>
-</details>
-
-
-<!-- Recent Activity -->
-<details>
-  <summary><b>⚡ Recent Activity</b></summary>
-    <p>
-            
-<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#206](https://github.com/Lissy93/web-check/issues/206) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 🗣 Commented on [#206](https://github.com/Lissy93/web-check/issues/206) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🗣 Commented on [#205](https://github.com/Lissy93/web-check/issues/205) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 🎉 Merged PR [#205](https://github.com/Lissy93/web-check/pull/205) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-5. 💪 Opened PR [#205](https://github.com/Lissy93/web-check/pull/205) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-6. 🗣 Commented on [#36](https://github.com/mikemaccana/whois-json/issues/36) in [mikemaccana/whois-json](https://github.com/mikemaccana/whois-json)
-7. 🗣 Commented on [#36](https://github.com/mikemaccana/whois-json/issues/36) in [mikemaccana/whois-json](https://github.com/mikemaccana/whois-json)
-8. 🎉 Merged PR [#1703](https://github.com/Lissy93/dashy/pull/1703) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#189](https://github.com/Lissy93/awesome-privacy/issues/189) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-10. 🔒 Closed issue [#189](https://github.com/Lissy93/awesome-privacy/issues/189) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-<!--END_SECTION:activity-->
-
-➡️  **[More Activity](/RECENT-ACTIVITY.md)**
-
-----
-
-</p>
-</details>
 
 
 
