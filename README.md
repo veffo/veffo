@@ -9,7 +9,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" /> from India.
 
 - 💻 I’m working and mine contributing building applications.
 
@@ -25,41 +25,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🎯 I'm focused on improving my coding skills.
 
 
-📖🎨💡🌱👯👨🏻‍🎓👨‍💻💬📫🔭 :neutral_face: 🌱🤔💬😭😄 :bulb 👨🌐 :boom: :computer: :hourglass_flowing_sand: :rocket: :man_technologist: :dart: :trophy: :zap: :tv: :book: :girl: :crab: :paintbrush: :man_dancing: :skateboard: :book:
-👨‍🏛💻🌱🤔🧐💼💬❤️💻🎓🌱✍️💬✉️📄🔭🤝🌱👨🏻‍💻🎨💬📫📝📚🎨🎁🔥🏢🎵📈💳📟➡️📕✍️🅾️🎓💻😃👨🏻‍💻😎👿⚽⚡️🔭🅾️📊🖼🛠🤖📝👯💬📙🎉❤️🎬🏦📝💻📖💬👯⚡🧑‍💻🤔🤞🗣💪🎉🗣❗🔔📫🎯🔨🖥💼💜🎓🌐🤝
-💊📈🏂❄️⛄🔧📔📝🔭🧐👨‍💻📝💬📙🎉 :office: :seedling: :speech_balloon: :book: :mailbox: :computer: 🥇🎁🌟🔭🐍🛎📚⭐👨📉📈📄🛠️📊🐦✍️😊👨🏼‍💻🛠️📺📕🌠📘 :yum:
 
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
-[<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
 
 ---
 
 
 
 
-
-<p align="left">
-  <a href="https://discordapp.com/users/716544462997815347" target="_blank"><img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🌐➡️📱 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubham.jitiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-jitiya/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/ShubhamJitiya)
+<a href="https://discordapp.com/users/716544462997815347" target="_blank"><img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -405,19 +380,7 @@ Organisations I am part of:
 
 
 
-👋📚💻🌐🔭🎯🌍🚀🎨📖💡📫👨‍💻😅⚡🛠️👤👨‍💼💼📝🗣️🙋‍♂️🧪🔬😀⚽💓👋🏼🎲📛🌐👨‍💻☁️✏️🚀💭🖼️💬❤️📈💼📫⬇️💻👨‍💻🔭✨🔭🌱👯🤔💬📫😄⚡👋✨🔥📊
-👩‍💻🧠👯‍♀️🤔💬📫😄⚡️🔗🚀✨🔭🌱👯🤔💬📫😄⚡🔭🌱👯🤔💬📫😄⚡💫👨‍💻⚡💼🌎👋💻📚⚡🍃😋👨‍💻⭐🌼📃⚠️🙏👍🙌🥳🏆🔧🔥💎💯🤘🚀⚡🎖️🔗📈
-😃💻👨‍💻👾🏗️🏠🖨️ :wink 🌍
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 
-<img src="https://github.com/dlirA01/dlirA01/blob/main/wave.gif" width="28px"/>
-<img src="https://github.com/dlirA01/dlirA01/blob/main/wink-tounge.gif" width="28px"/>
 
 
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 20 December, 01:03 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
@@ -429,13 +392,7 @@ Organisations I am part of:
 
 
 
-🔗📕⏩👇👆 :rofl &nbsp;**Connect with me**
-<p align="left">
-<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
 
 
 
@@ -699,51 +656,8 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 
 
-<h3 align="center"> :: 🔎My Tech-Stack Include🌎s :: </h3>
 
 
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <table align="center" width="100%">
-        <tr>
-          <td align="center">
-            <img width="150" height="250" src="./resources/boy.png">
-          </td>
-          <td align="center">
-            <table align="center" width="100%">
-              <tr>
-                <td align="center">
-                  <a href="mailto:makkimotasim@gmail.com"> <img src="./resources/gmail.png"/> </a>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a href="https://www.linkedin.com/in/motasim-010b0a135/"> <img src="./resources/linkedin.png" /> </a>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a href="https://twitter.com/_motasim_"> <img src="./resources/twitter.png" /> </a>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a href="https://www.instagram.com/dev.motasim"> <img src="./resources/instagram.png" /> </a>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center">
-      <img width="350" height="250" src="./resources/workspace-gif.gif">
-    </td>
-  </tr>
-</table>
-<hr>
    
 
 
