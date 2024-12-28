@@ -26,7 +26,12 @@
 <h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>! Nice to see you.</h1>
 <h3 align="center">A passionate FullStack Developer from Russia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!--
+https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+c87804714bf1a30cc514ea2462540d7e.gif
+-->
+
+<img align="right" alt="Coding" width="400" src="15524fc97da1deb992c00abdab295b1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge"> </p>
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> <img src="https://img.shields.io/badge/Hire%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge" alt="rishavchanda" /> </p>
