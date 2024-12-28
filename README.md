@@ -1,4 +1,4 @@
-<img alt="banner" src="c87804714bf1a30cc514ea2462540d7e.gif" />
+<img alt="banner" src="15524fc97da1deb992c00abdab295b1f.gif" />
 <h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>! Nice to see you.</h1>
 <h3 align="center">A passionate FullStack Developer from Russia</h3>
 
@@ -167,9 +167,14 @@ Organisations I am part of:
 </p>
 
 
-
+<!--
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 20 December, 01:03 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+-->
 
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
+<br />
 
-
+  <p>
+      <a href="#"><img alt="Json" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp"></a>
+  </p>
