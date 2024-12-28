@@ -166,6 +166,29 @@ Organisations I am part of:
       <a href="#"><img alt="Mail.ru" src="https://img.shields.io/badge/-Mail.ru-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:q.6110@mail.ru"></a>
 </p>
 
+<p align="center" style='margin: 16px 4px 8px;'>
+    <a href="https://twitter.com/utkarshpathrabe" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="mailto:uapathrabe@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:uapathrabe@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://linkedin.com/in/utkarshpathrabe" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://fb.com/utkarshpathrabe" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="https://fb.com/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://instagram.com/utkarsh_pathrabe" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.youtube.com/c/utkarshpathrabe" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/c/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.leetcode.com/utkarsh_pathrabe" target="blank" rel="noreferrer">
+        <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" alt="https://www.leetcode.com/utkarsh_pathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+</p>
 
 <!--
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 20 December, 01:03 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
