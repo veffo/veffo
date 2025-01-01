@@ -1,8 +1,11 @@
-<img alt="banner" src="https://www.kino-teatr.ru/movie/kadr/34409/975344.jpg" />
+<img src="banner.webp" alt="banner" />
+
+
 <h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>! Nice to see you.</h1>
 <h3 align="center">A passionate FullStack Developer from Russia</h3>
 
 <!--
+https://www.kino-teatr.ru/movie/kadr/34409/975344.jpg
 ![banner](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif)
 https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 c87804714bf1a30cc514ea2462540d7e.gif
