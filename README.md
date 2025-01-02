@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" />  </p>
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> <img src="https://img.shields.io/badge/Hire1%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge" alt="rishavchanda" /> </p>
 
-### <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" /> &nbsp;A little about me :
+### <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" /> &nbsp;A little about me:
 
 I am a full stack developer from Russia.
 
@@ -31,13 +31,13 @@ I am a full stack developer from Russia.
 
 ---
 
-### My Github stats :
+### My Github stats:
 
 | [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=itsZed0&theme=buefy&background=white)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 
-### Top Repositories :
+### Top Repositories:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
@@ -154,7 +154,7 @@ Organisations I am part of:
 
 ---
 
-### 📬 Connect with me:
+### Connect with me:
 
 <p>
       <a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
