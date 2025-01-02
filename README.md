@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
 -->
 
-<img align="right" alt="Coding" height="420" src="0be51f9b6d6e3ec172f0b31f477dab8b--ghost-in-the-shell-batou-you-my-everything.jpg">
+<img align="right" alt="Coding" height="405" src="0be51f9b6d6e3ec172f0b31f477dab8b--ghost-in-the-shell-batou-you-my-everything.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" />  </p>
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> <img src="https://img.shields.io/badge/Hire1%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge" alt="rishavchanda" /> </p>
