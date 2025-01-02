@@ -2,35 +2,28 @@
 
 
 <h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>! Nice to see you.</h1>
-<h3 align="center">A passionate FullStack Developer from Russia</h3>
+<h3 align="center">A passionate full stack developer from Russia</h3>
 
 <!--
-https://www.kino-teatr.ru/movie/kadr/34409/975344.jpg
-![banner](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif)
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
-c87804714bf1a30cc514ea2462540d7e.gif
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
-15524fc97da1deb992c00abdab295b1f.gif
+<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
 -->
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" height="420" src="0be51f9b6d6e3ec172f0b31f477dab8b--ghost-in-the-shell-batou-you-my-everything.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge"> </p>
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> <img src="https://img.shields.io/badge/Hire%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" />  </p>
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> <img src="https://img.shields.io/badge/Hire1%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge" alt="rishavchanda" /> </p>
 
 ### <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" /> &nbsp;A little about me :
 
-I am a Full Stack Developer from Russia.
+I am a full stack developer from Russia.
 
 - 💻 I’m working and mine contributing building applications.
 
-- 🌱 Exploring Technical Content Writing.
+- 📚 I'm currently studying computer science.
 
-- 💬 If you have any questions, **just ask me**
+- 💬 If you have any questions, **just ask me**.
 
 - 📫 You can reach me **q.6110@mail.ru**
-
-- 📚 I'm currently studying computer science.
 
 - 🌐 I'm interested in web design and development.
 
@@ -40,7 +33,7 @@ I am a Full Stack Developer from Russia.
 
 ### My Github stats :
 
-| [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=itsZed0&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=itsZed0&theme=buefy&background=white)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 
