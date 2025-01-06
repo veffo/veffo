@@ -1,4 +1,6 @@
+<a href="#">
 <img src="assets/images/banner.webp" alt="banner" />
+</a>
 
 <h1 align="center">
     Hey <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" />! Nice to see you.
@@ -8,11 +10,9 @@
     Interesting full stack developer from Russia
 </h3>
 
-<!--
-<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
--->
-
+<a>
 <img align="right" height="400" src="assets/images/sidebar.jpg" alt="sidebar" />
+</a>
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=veffo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
@@ -23,6 +23,7 @@
         <img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="twitter - veffo" />
     </a>
     <img src="https://img.shields.io/badge/Hire1%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge" alt="rishavchanda" />
+    <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" alt="rishavchanda" />
 </p>
 
 ### <img width="30" src="assets/images/dev.gif" alt="developer" /> &nbsp;A little about me:
@@ -43,6 +44,10 @@ I am a full stack developer from Russia.
 
 ---
 
+<!--
+github, default, buefy, swift, transparent, vue
+-->
+
 ### My Github stats:
 
 <table>
@@ -62,7 +67,7 @@ I am a full stack developer from Russia.
                 <img src="https://github-readme-stats.vercel.app/api?username=veffo&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true" />
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true" />
             </td>
         </tr>
     </tbody>
@@ -204,7 +209,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
     </a>
 </p>
 
-<p align="center">
+<p>
     <a href="https://twitter.com/utkarshpathrabe" target="blank">
         <img width="30" height="30" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" />
     </a>
