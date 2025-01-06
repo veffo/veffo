@@ -49,10 +49,10 @@ I am a full stack developer from Russia.
     <thead>
         <tr>
             <th>
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github" />
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github" />
             </th>
             <th>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsZed0&theme=buefy&background=white" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=veffo&theme=buefy&background=white" />
             </th>
         </tr>
     </thead>
