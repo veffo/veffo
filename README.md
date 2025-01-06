@@ -59,10 +59,10 @@ I am a full stack developer from Russia.
     <tbody>
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true" />
+                <img src="https://github-readme-stats.vercel.app/api?username=veffo&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true" />
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true" />
             </td>
         </tr>
     </tbody>
