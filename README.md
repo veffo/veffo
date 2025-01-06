@@ -13,6 +13,7 @@
 <a href="#">
     <img align="right" height="400" src="assets/images/sidebar.jpg" alt="sidebar" />
 </a>
+
 <!--
 <picture>
     <source
@@ -32,6 +33,7 @@
     <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 -->
+
 <p>
     <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
 </p>
