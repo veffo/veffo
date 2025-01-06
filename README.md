@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Interesting full stack developer from Russia
+    Interesting full stack developer from Russia2
 </h3>
 
 <!--
