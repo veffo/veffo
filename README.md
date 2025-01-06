@@ -1,5 +1,5 @@
 <a href="#">
-<img src="assets/images/banner.webp" alt="banner" />
+    <img src="assets/images/banner.webp" alt="banner" />
 </a>
 
 <h1 align="center">
@@ -10,9 +10,21 @@
     Interesting full stack developer from Russia
 </h3>
 
-<a>
-<img align="right" height="400" src="assets/images/sidebar.jpg" alt="sidebar" />
+<a href="#">
+    <img align="right" height="400" src="assets/images/sidebar.jpg" alt="sidebar" />
 </a>
+
+<picture>
+    <source
+        srcset="assets/images/sidebar.jpg"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="assets/images/sidebar.jpg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="assets/images/sidebar.jpg" />
+</picture>
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=veffo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
