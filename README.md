@@ -34,21 +34,21 @@
 </picture>
 -->
 
+[![][black-shield]][black]
+
+[black]: http://github.com/psf/black
+[black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
+
 <p>
     <a href="#">
         <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
     </a>
 </p>
-<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/comment/https%3A%2F%2Fimg.shields.io%2Freddit%2Fuser-karma%2Flink%2F%3Auser">
-[![][black-shield]][black]
 
-[black]: http://github.com/psf/black
-[black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
-https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
 <p>
-        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fcodepen.io%2Fveffo" alt="codepen - veffo" />
-        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fcodepen.io%2Fveffo">
-
+    <a href="https://codepen.io/veffo" target="_blank">
+        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
+    </a>
 </p>
 
 ### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
