@@ -31,12 +31,12 @@ github, buefy, vue
         <tr>
             <th>
                 <a href="#">
-                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github" />
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github&hide_border=true" />
                 </a>
             </th>
             <th>
                 <a href="#">
-                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github" />
+                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github&hide_border=true" />
                 </a>
             </th>
         </tr>
@@ -45,12 +45,24 @@ github, buefy, vue
         <tr>
             <td>
                 <a href="#">
-                    <img src="https://github-readme-stats.vercel.app/api?username=veffo&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" />
+                    <img src="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=white&border_color=E4E2E2&title_color=586069&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true" />
                 </a>
             </td>
             <td>
                 <a href="#">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&locale=en&layout=compact&langs_count=6" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">
+                    <img src="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=white&border_color=E4E2E2&title_color=1f2328&text_color=1f2328&icon_color=1f2328&show_icons=true&locale=en&count_private=true&include_all_commits=true" />
+                </a>
+            </td>
+            <td>
+                <a href="#">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&locale=en&layout=compact&langs_count=6" />
                 </a>
             </td>
         </tr>
