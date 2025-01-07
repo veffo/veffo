@@ -11,7 +11,7 @@
 </h3>
 
 <a href="#">
-    <img align="right" height="400" src="assets/images/sidebar.jpg" alt="sidebar" />
+    <img align="right" height="400" src="assets/images/sidebar3.png" alt="sidebar" />
 </a>
 
 <!--
