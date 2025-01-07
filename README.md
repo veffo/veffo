@@ -1,198 +1,30 @@
-<a href="#">
-    <img src="assets/images/banner.webp" alt="banner" />
-</a>
-
-<h1 align="center">
-    Hey <a href="#"><img width="30" src="assets/icons/blob-sunglasses.gif" alt="blob sunglasses" /></a>! Nice to see you.
-</h1>
-
-<h3 align="center">
-    Interesting full stack developer from Russia
-</h3>
-
-<a href="#">
-    <img align="right" height="400" src="assets/images/sidebar.png" alt="sidebar" />
-</a>
-
-<p>
-    <a href="#">
-        <img src="https://komarev.com/ghpvc/?username=veffo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
-    </a>
-</p>
-
-<p>
-    <a href="https://codepen.io/veffo" target="_blank">
-        <picture>
-            <source
-                srcset="https://img.shields.io/badge/CodePen-@veffo-6f6f6f?logo=codepen&logoColor=white&style=for-the-badge"
-                media="(prefers-color-scheme: dark)"
-                alt="codepen - veffo"
-            />
-            <source
-                srcset="https://img.shields.io/badge/CodePen-@veffo-8f8f8f?logo=codepen&logoColor=white&style=for-the-badge"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                alt="codepen - veffo"
-            />
-            <img src="https://img.shields.io/badge/CodePen-@veffo-8f8f8f?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
-        </picture>
-    </a>
-</p>
-
-### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
-
-I am a full stack developer from Russia.
-
-- 💻 I’m working and mine contributing building applications.
-
-- 📚 I'm currently studying computer science.
-
-- 💬 If you have any questions, **just ask me**.
-
-- 📫 You can reach me **q.6110@mail.ru**
-
-- 🌵 I'm interested in web design and development.
-
-- 🎯 I'm focused on improving my coding skills.
-
----
-
-### My Github stats:
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="#">
-                    <picture>
-                        <source
-                            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github_dark&hide_border=true"
-                            media="(prefers-color-scheme: dark)"
-                            alt="stats 1 item - veffo"
-                        />
-                        <source
-                            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github&hide_border=true"
-                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                            alt="stats 1 item - veffo"
-                        />
-                        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github&hide_border=true" alt="stats 1 item - veffo" />
-                    </picture>
-                </a>
-            </th>
-            <th>
-                <a href="#">
-                    <picture>
-                        <source
-                            srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github_dark&hide_border=true"
-                            media="(prefers-color-scheme: dark)"
-                            alt="stats 2 item - veffo"
-                        />
-                        <source
-                            srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github&hide_border=true"
-                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                            alt="stats 2 item - veffo"
-                        />
-                        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github&hide_border=true" alt="stats 2 item - veffo" />
-                    </picture>
-                </a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="#">
-                    <picture>
-                        <source
-                            srcset="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true"
-                            media="(prefers-color-scheme: dark)"
-                            alt="stats 3 item - veffo"
-                        />
-                        <source
-                            srcset="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true"
-                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                            alt="stats 3 item - veffo"
-                        />
-                        <img src="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" alt="stats 3 item - veffo" />
-                    </picture>
-                </a>
-            </td>
-            <td>
-                <a href="#">
-                    <picture>
-                        <source
-                            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&bg_color=0D1117&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true"
-                            media="(prefers-color-scheme: dark)"
-                            alt="stats 4 item - veffo"
-                        />
-                        <source
-                            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true"
-                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                            alt="stats 4 item - veffo"
-                        />
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" alt="stats 4 item - veffo" />
-                    </picture>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Top Repositories:
-
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/veffo/veffo" target="_blank">
-                    <picture>
-                        <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
-                            media="(prefers-color-scheme: dark)"
-                            alt="repository 1 item - veffo"
-                        />
-                        <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
-                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                            alt="repository 1 item - veffo"
-                        />
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 1 item - veffo" />
-                    </picture>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/veffo/Unity-2D-v6-Associative-Array-Limit" target="_blank">
-                    <picture>
-                        <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
-                            media="(prefers-color-scheme: dark)"
-                            alt="repository 2 item - veffo"
-                        />
-                        <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
-                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                            alt="repository 2 item - veffo"
-                        />
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 2 item - veffo" />
-                    </picture>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
----
-
-## Experience
-
-My professional experience cuts across knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
-
-I'm always seeking to take ownership of the project and deliver faster than expected. Familiar with both remote, and in-office roles.
-
-## Languages
-- English (Technical)
-- Russian (Native)
-
----
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
+[![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=fff)](#)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](#)
+[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 ### :woman_technologist: Programming and Markup Languages
 
