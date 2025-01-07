@@ -45,12 +45,12 @@ github, buefy, vue
         <tr>
             <td>
                 <a href="#">
-                    <img src="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&title_color=408AEE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" />
+                    <img src="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" />
                 </a>
             </td>
             <td>
                 <a href="#">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" />
                 </a>
             </td>
         </tr>
