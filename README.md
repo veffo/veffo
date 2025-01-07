@@ -23,7 +23,7 @@
 <p>
     <a href="https://codepen.io/veffo" target="_blank">
         <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
-        <img src="https://img.shields.io/badge/CodePen-0078d7-@veffo-6F6F6F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
+        <img src="https://img.shields.io/badge/CodePen-@veffo-6F6F6F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
     </a>
 </p>
 
