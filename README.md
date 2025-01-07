@@ -24,16 +24,16 @@
     <a href="https://codepen.io/veffo" target="_blank">
         <picture>
             <source
-                srcset="https://img.shields.io/badge/CodePen-@veffo-6F6F6F?logo=codepen&logoColor=white&style=for-the-badge"
+                srcset="https://img.shields.io/badge/CodePen-@veffo-6f6f6f?logo=codepen&logoColor=white&style=for-the-badge"
                 media="(prefers-color-scheme: dark)"
                 alt="codepen - veffo"
             />
             <source
-                srcset="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge"
+                srcset="https://img.shields.io/badge/CodePen-@veffo-8f8f8f?logo=codepen&logoColor=white&style=for-the-badge"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 alt="codepen - veffo"
             />
-            <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
+            <img src="https://img.shields.io/badge/CodePen-@veffo-8f8f8f?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
         </picture>
     </a>
 </p>
@@ -67,12 +67,14 @@ I am a full stack developer from Russia.
                         <source
                             srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github_dark&hide_border=true"
                             media="(prefers-color-scheme: dark)"
+                            alt="stats 1 item - veffo"
                         />
                         <source
                             srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                            alt="stats 1 item - veffo"
                         />
-                        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github&hide_border=true" />
+                        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github&hide_border=true" alt="stats 1 item - veffo" />
                     </picture>
                 </a>
             </th>
@@ -82,12 +84,14 @@ I am a full stack developer from Russia.
                         <source
                             srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github_dark&hide_border=true"
                             media="(prefers-color-scheme: dark)"
+                            alt="stats 2 item - veffo"
                         />
                         <source
                             srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                            alt="stats 2 item - veffo"
                         />
-                        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github&hide_border=true" />
+                        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github&hide_border=true" alt="stats 2 item - veffo" />
                     </picture>
                 </a>
             </th>
@@ -101,12 +105,14 @@ I am a full stack developer from Russia.
                         <source
                             srcset="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true"
                             media="(prefers-color-scheme: dark)"
+                            alt="stats 3 item - veffo"
                         />
                         <source
                             srcset="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                            alt="stats 3 item - veffo"
                         />
-                        <img src="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" />
+                        <img src="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" alt="stats 3 item - veffo" />
                     </picture>
                 </a>
             </td>
@@ -116,12 +122,14 @@ I am a full stack developer from Russia.
                         <source
                             srcset="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&bg_color=0D1117&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true"
                             media="(prefers-color-scheme: dark)"
+                            alt="stats 4 item - veffo"
                         />
                         <source
                             srcset="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                            alt="stats 4 item - veffo"
                         />
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" />
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" alt="stats 4 item - veffo" />
                     </picture>
                 </a>
             </td>
@@ -140,12 +148,14 @@ I am a full stack developer from Russia.
                         <source
                             srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
+                            alt="repository 1 item - veffo"
                         />
                         <source
                             srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                            alt="repository 1 item - veffo"
                         />
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" />
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 1 item - veffo" />
                     </picture>
                 </a>
             </td>
@@ -155,12 +165,14 @@ I am a full stack developer from Russia.
                         <source
                             srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
+                            alt="repository 2 item - veffo"
                         />
                         <source
                             srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                            alt="repository 2 item - veffo"
                         />
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" />
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 2 item - veffo" />
                     </picture>
                 </a>
             </td>
