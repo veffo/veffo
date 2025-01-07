@@ -50,7 +50,7 @@ github, buefy, vue
             </td>
             <td>
                 <a href="#">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&locale=en&layout=compactlangs_count=6&hide_border=true" />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" />
                 </a>
             </td>
         </tr>
