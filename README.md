@@ -103,7 +103,7 @@
             </td>
             <td>
                 <a href="https://github.com/veffo/Unity-2D-Associative-Array-Limit" target="_blank">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&locale=en&hide_border=true" />
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&locale=en&hide_border=true" />
                 </a>
             </td>
         </tr>
