@@ -68,6 +68,8 @@ github, default, buefy, swift, transparent, vue
     </tbody>
 </table>
 
+---
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 
