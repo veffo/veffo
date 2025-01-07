@@ -50,7 +50,7 @@
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="#"><img alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white" /></a>
+    <a href="#"><img alt="Json" src="https://img.shields.io/badge/json-5E5C5C?logo=json&logoColor=white" /></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github" /></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" /></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" /></a>
@@ -79,9 +79,9 @@
     <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white" /></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
-    <a href="#"><img alt="Adobe Photoshop" src="https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-001D34.svg?style=flat&logo=adobe-photoshop&logoColor=white" /></a>
-    <a href="#"><img alt="Adobe After Effects" src="https://custom-icon-badges.demolab.com/badge/Adobe%20After%20Effects-0A0235.svg?style=flat&logo=adobe-after-effects&logoColor=white" /></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></a>
+    <a href="#"><img alt="Adobe Photoshop" src="https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-001D34.svg?logo=adobe-photoshop&logoColor=white" /></a>
+    <a href="#"><img alt="Adobe After Effects" src="https://custom-icon-badges.demolab.com/badge/Adobe%20After%20Effects-0A0235.svg?logo=adobe-after-effects&logoColor=white" /></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" /></a>
     <a href="#"><img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint" /></a>
     <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-%23F7B93E?logo=prettier&logoColor=ffffff" /></a>
     <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black" /></a>
