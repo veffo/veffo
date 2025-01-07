@@ -23,6 +23,7 @@
 <p>
     <a href="https://codepen.io/veffo" target="_blank">
         <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
+        <img src="https://img.shields.io/badge/CodePen-@veffo-6F6F6F?logo=white&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
     </a>
 </p>
 
@@ -106,7 +107,7 @@ I am a full stack developer from Russia.
                 <a href="#">
                     <picture>
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=0D1117&title_color=0366DE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
@@ -145,7 +146,7 @@ I am a full stack developer from Russia.
                 <a href="https://github.com/veffo/github-readme-info" target="_blank">
                     <picture>
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=0D1117&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
@@ -160,7 +161,7 @@ I am a full stack developer from Russia.
                 <a href="https://github.com/veffo/Unity-2D-Associative-Array-Limit" target="_blank">
                     <picture>
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=0D1117&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
