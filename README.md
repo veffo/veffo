@@ -1,3 +1,48 @@
+<a href="#">
+    <img src="assets/images/banner.webp" alt="banner" />
+</a>
+
+<h1 align="center">
+    Hey <a href="#"><img width="30" src="assets/icons/blob-sunglasses.gif" alt="blob sunglasses" /></a>! Nice to see you.
+</h1>
+
+<h3 align="center">
+    Interesting full stack developer from Russia
+</h3>
+
+<a href="#">
+    <img align="right" height="400" src="assets/images/sidebar.png" alt="sidebar" />
+</a>
+
+<p>
+    <a href="#">
+        <img src="https://komarev.com/ghpvc/?username=veffo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
+    </a>
+</p>
+
+<p>
+    <a href="https://codepen.io/veffo" target="_blank">
+        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
+    </a>
+</p>
+
+### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
+
+I am a full stack developer from Russia.
+
+- 💻 I’m working and mine contributing building applications.
+
+- 📚 I'm currently studying computer science.
+
+- 💬 If you have any questions, **just ask me**.
+
+- 📫 You can reach me **q.6110@mail.ru**
+
+- 🌵 I'm interested in web design and development.
+
+- 🎯 I'm focused on improving my coding skills.
+
+---
 <!--
 <picture>
     <source
@@ -61,7 +106,7 @@
                 <a href="#">
                     <picture>
                         <source
-                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            srcset="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
@@ -76,7 +121,7 @@
                 <a href="#">
                     <picture>
                         <source
-                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
@@ -100,7 +145,7 @@
                 <a href="https://github.com/veffo/github-readme-info" target="_blank">
                     <picture>
                         <source
-                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
@@ -115,7 +160,7 @@
                 <a href="https://github.com/veffo/Unity-2D-Associative-Array-Limit" target="_blank">
                     <picture>
                         <source
-                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
