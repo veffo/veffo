@@ -10,7 +10,7 @@
     Interesting full stack developer from Russia
 </h3>
 
-<a href="#">
+<a href="#" target="_blank">
     <img align="right" height="400" src="assets/images/sidebar.png" alt="sidebar" />
 </a>
 
