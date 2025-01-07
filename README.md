@@ -46,7 +46,7 @@
     </a>
     <img src="https://img.shields.io/badge/Hire1%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge" alt="rishavchanda" />
     <a href="https://codepen.io/veffo" target="blank">
-        <img src="https://img.shields.io/badge/CodePen%10veffo%10on-@veffo-brightgreen?logo=codepen&logoColor=black&style=for-the-badge" alt="codepen - veffo" />
+        <img src="https://img.shields.io/badge/CodePen%20veffo%20on-@veffo-brightgreen?logo=codepen&logoColor=black&style=for-the-badge" alt="codepen - veffo" />
         <img src="https://img.shields.io/badge/CodePen%veffo-white?&logo=codepen&logoColor=black&style=for-the-badge" alt="codepen - veffo" />
     </a>
 </p>
