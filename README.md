@@ -1,8 +1,4 @@
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 ### :woman_technologist: Programming and Markup Languages
@@ -26,6 +22,7 @@
 <p>
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F23529?style=flat-square&logo=Laravel&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" />
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white" />
@@ -59,7 +56,8 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" />
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F6A113.svg?logo=mysql&logoColor=white" />
+    <img alt="MariaDB" src ="hhttps://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" />
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" />
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
