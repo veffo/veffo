@@ -66,7 +66,7 @@
 ### 💻 Software and Tools
 
 <p>
-    <a href="#"><img alt="Adobe Acrobat Reader" src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-FF0000.svg?logo=adobe-acrobat&logoColor=white" /></a>
+    <a href="#"><img alt="Adobe Acrobat Reader" src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-FF0000.svg?logo=adobe-acrobat-reader&logoColor=white" /></a>
     <a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" /></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" /></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white" /></a>
