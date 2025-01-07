@@ -41,7 +41,7 @@
 </p>
 
 <p>
-    <a href="https://codepen.io/veffo" target="blank">
+    <a href="https://codepen.io/veffo" target="_blank">
         <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
     </a>
 </p>
@@ -236,10 +236,10 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 </p>
 
 <p>
-    <a href="https://twitter.com/utkarshpathrabe" target="blank">
+    <a href="https://twitter.com/utkarshpathrabe" target="_blank">
         <img width="30" height="30" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" />
     </a>
-    <a href="mailto:q.6110@mail.ru" target="blank">
+    <a href="mailto:q.6110@mail.ru">
         <img width="30" height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="q.6110@mail.ru" />
     </a>
 </p>
