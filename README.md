@@ -61,7 +61,7 @@ github, default, buefy, swift, transparent, vue
             </td>
             <td>
                 <a href="https://github.com/veffo/github-readme-info" target="_blank">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=github-readme-info&theme=buefy&hide_border=true" />
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&theme=buefy&hide_border=true" />
                 </a>
             </td>
         </tr>
