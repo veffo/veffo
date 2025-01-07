@@ -36,7 +36,7 @@
 
 <p>
     <a href="#">
-        <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=6CB4BC&style=flat" alt="profile views - veffo" />
+        <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
     </a>
 </p>
 
