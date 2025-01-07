@@ -17,15 +17,15 @@
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F23529logo=Laravel&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8logo=react&logoColor=white" />
+    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F23529?logo=Laravel&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABClogo=redux&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" />
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white" />
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699logo=sass&logoColor=white" />
-    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092logo=styled-components&logoColor=white" />
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-37A59Flogo=tailwind-css&logoColor=white" />
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" />
+    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?logo=styled-components&logoColor=white" />
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-37A59F?logo=tailwind-css&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" />
     <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white" />
     <img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white" />
@@ -36,21 +36,21 @@
 ### 🛠️ Project build tool and misc
 
 <p>
-    <img alt="Vite" src="https://img.shields.io/badge/-Vite-%23646CFFlogo=vite&logoColor=white" />
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-2B3A42logo=webpack&logoColor=white" />
+    <img alt="Vite" src="https://img.shields.io/badge/-Vite-%23646CFF?logo=vite&logoColor=white" />
+    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-2B3A42?logo=webpack&logoColor=white" />
     <img alt="Composer" src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff" />
     <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837logo=npm&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1logo=docker&logoColor=white" />
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FFlogo=github-actions&logoColor=white" />
-    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121logo=gitlab" />
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white" />
+    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab" />
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
     <img alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717logo=github" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github" />
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" />
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" />
     <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white" />
@@ -58,8 +58,8 @@
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" />
     <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
-    <img alt="Reg.ru" src="https://custom-icon-badges.demolab.com/badge/Reg.ru-0078d7.svglogo=google-cloud&logoColor=white" />
-    <img alt="TimeWeb.com" src="https://custom-icon-badges.demolab.com/badge/TimeWeb.com-0078d7.svglogo=google-cloud&logoColor=white" />
+    <img alt="Reg.ru" src="https://custom-icon-badges.demolab.com/badge/Reg.ru-0078d7.svg?logo=google-cloud&logoColor=white" />
+    <img alt="TimeWeb.com" src="https://custom-icon-badges.demolab.com/badge/TimeWeb.com-0078d7.svg?logo=google-cloud&logoColor=white" />
 </p>
 
 ### 💻 Software and Tools
@@ -75,14 +75,14 @@
     <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white" />
     <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white" />
     <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white" />
-    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BElogo=insomnia&logoColor=white" />
+    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
     <img alt="Selenium" src="https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=white" />
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
     <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-    <img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3logo=eslint" />
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-%23F7B93Elogo=prettier&logoColor=ffffff" />
+    <img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint" />
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-%23F7B93E?logo=prettier&logoColor=ffffff" />
     <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black" />
     <img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" />
     <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
@@ -107,13 +107,13 @@
         <img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea" />
     </a>
     <a href="#">
-        <img alt="Github" src="http://img.shields.io/badge/-@veffo-blacklogo=github&link=https://github.com/Defcon27/" />
+        <img alt="Github" src="http://img.shields.io/badge/-@veffo-black?logo=github&link=https://github.com/Defcon27/" />
     </a>
     <a href="#">
         <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
     </a>
     <a href="#">
-        <img alt="Mail.ru" src="https://img.shields.io/badge/-Mail.ru-d14836logo=Gmail&logoColor=white&link=mailto:q.6110@mail.ru" />
+        <img alt="Mail.ru" src="https://img.shields.io/badge/-Mail.ru-d14836?logo=Gmail&logoColor=white&link=mailto:q.6110@mail.ru" />
     </a>
 </p>
 
