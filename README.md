@@ -39,9 +39,14 @@
         <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
     </a>
 </p>
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/comment/https%3A%2F%2Fimg.shields.io%2Freddit%2Fuser-karma%2Flink%2F%3Auser">
+[![][black-shield]][black]
 
+[black]: http://github.com/psf/black
+[black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
+https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
 <p>
-        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&link=https://codepen.io/veffo&style=for-the-badge" alt="codepen - veffo" />
+        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&url=https://codepen.io/veffo&style=for-the-badge" alt="codepen - veffo" />
 </p>
 
 ### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
