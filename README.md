@@ -80,9 +80,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
     <a href="#"><img alt="Adobe Photoshop" src="https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-001D34.svg?logo=adobe-photoshop&logoColor=white" /></a>
-    <a href="#"><img alt="Adobe After Effects" src="https://custom-icon-badges.demolab.com/badge/Adobe%20After%20Effects-0A0235.svg?logo=adobe-after-effects&logoColor=white" /></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma1-001D34?logo=figma&logoColor=white" /></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma2-0A0235?logo=figma&logoColor=white" /></a>
+    <a href="#"><img alt="Adobe After Effects" src="https://custom-icon-badges.demolab.com/badge/Adobe%20After%20Effects-C18AF7.svg?logo=adobe-after-effects&logoColor=white" /></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" /></a>
     <a href="#"><img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint" /></a>
     <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-%23F7B93E?logo=prettier&logoColor=ffffff" /></a>
