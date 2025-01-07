@@ -143,7 +143,7 @@ I am a full stack developer from Russia.
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/veffo/github-readme-info" target="_blank">
+                <a href="https://github.com/veffo/veffo" target="_blank">
                     <picture>
                         <source
                             srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
@@ -160,7 +160,7 @@ I am a full stack developer from Russia.
                 </a>
             </td>
             <td>
-                <a href="https://github.com/veffo/Unity-2D-Associative-Array-Limit" target="_blank">
+                <a href="https://github.com/veffo/Unity-2D-v6-Associative-Array-Limit" target="_blank">
                     <picture>
                         <source
                             srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
