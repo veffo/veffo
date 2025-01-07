@@ -58,8 +58,8 @@
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" />
     <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
-    <img alt="Reg.ru" src="https://custom-icon-badges.demolab.com/badge/Reg.ru-0078d7.svg?logo=google-cloud&logoColor=white" />
-    <img alt="TimeWeb.com" src="https://custom-icon-badges.demolab.com/badge/TimeWeb.com-0078d7.svg?logo=google-cloud&logoColor=white" />
+    <img alt="Reg.ru" src="https://custom-icon-badges.demolab.com/badge/Reg.ru-0668C0.svg?logo=google-cloud&logoColor=white" />
+    <img alt="TimeWeb.com" src="https://custom-icon-badges.demolab.com/badge/TimeWeb.com-4E749E.svg?logo=google-cloud&logoColor=white" />
 </p>
 
 ### 💻 Software and Tools
