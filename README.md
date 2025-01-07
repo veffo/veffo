@@ -18,24 +18,6 @@
 </picture>
 -->
 
-### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
-
-I am a full stack developer from Russia.
-
-- 💻 I’m working and mine contributing building applications.
-
-- 📚 I'm currently studying computer science.
-
-- 💬 If you have any questions, **just ask me**.
-
-- 📫 You can reach me **q.6110@mail.ru**
-
-- 🌵 I'm interested in web design and development.
-
-- 🎯 I'm focused on improving my coding skills.
-
----
-
 ### My Github stats:
 
 <table>
@@ -45,7 +27,7 @@ I am a full stack developer from Russia.
                 <a href="#">
                     <picture>
                         <source
-                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github_dark&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
@@ -60,7 +42,7 @@ I am a full stack developer from Russia.
                 <a href="#">
                     <picture>
                         <source
-                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github_dark&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
