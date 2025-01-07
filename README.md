@@ -44,7 +44,9 @@
     <a href="https://codepen.io/veffo" target="_blank">
         <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
     </a>
+    <a href="https://codepen.io/veffo" target="_blank">
     <img width="30" src="assets/images/dev.gif" alt="developer" />
+    </a>
 </p>
 
 ### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
