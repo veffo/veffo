@@ -45,7 +45,7 @@ github, buefy, vue
         <tr>
             <td>
                 <a href="#">
-                    <img src="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&border_color=E4E2E2&title_color=586069&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true" />
+                    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=ffffff&border_color=E4E2E2&title_color=586069&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true" />
                 </a>
             </td>
             <td>
@@ -57,7 +57,7 @@ github, buefy, vue
         <tr>
             <td>
                 <a href="#">
-                    <img src="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&border_color=E4E2E2&title_color=1f2328&text_color=1f2328&icon_color=1f2328&show_icons=true&locale=en&count_private=true&include_all_commits=true" />
+                    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=ffffff&border_color=E4E2E2&title_color=1f2328&text_color=1f2328&icon_color=1f2328&show_icons=true&locale=en&count_private=true&include_all_commits=true" />
                 </a>
             </td>
             <td>
