@@ -1,10 +1,10 @@
 ### :woman_technologist: Programming and Markup Languages
 
 <p>
-    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white" />
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white" />
+    <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white" /></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" /></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" /></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white" /></a>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
@@ -25,6 +25,7 @@
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white" />
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" />
     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?logo=styled-components&logoColor=white" />
+    <img alt="Selenium" src="https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=white" />
     <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-37A59F?logo=tailwind-css&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" />
     <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white" />
@@ -73,13 +74,13 @@
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" />
     <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white" />
-    <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white" />
+    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white" />
     <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white" />
     <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-    <img alt="Selenium" src="https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=white" />
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
-    <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
+    <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white" />
+    <img alt="After Effects" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=After%20Effects&logoColor=white" />
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
     <img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-%23F7B93E?logo=prettier&logoColor=ffffff" />
