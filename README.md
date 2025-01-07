@@ -34,22 +34,37 @@
 
 ---
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
 <table>
     <thead>
         <tr>
             <th>
                 <a href="#">
-                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github&hide_border=true" />
+                    <picture>
+                        <source
+                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github&hide_border=true"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github&hide_border=true" />
+                    </picture>
                 </a>
             </th>
             <th>
                 <a href="#">
-                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github&hide_border=true" />
+                    <picture>
+                        <source
+                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github&hide_border=true"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veffo&theme=github&hide_border=true" />
+                    </picture>
                 </a>
             </th>
         </tr>
@@ -58,12 +73,32 @@
         <tr>
             <td>
                 <a href="#">
-                    <img src="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" />
+                    <picture>
+                        <source
+                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img src="https://github-readme-stats.vercel.app/api?username=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" />
+                    </picture>
                 </a>
             </td>
             <td>
                 <a href="#">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" />
+                    <picture>
+                        <source
+                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" />
+                    </picture>
                 </a>
             </td>
         </tr>
@@ -77,12 +112,12 @@
         <tr>
             <td>
                 <a href="https://github.com/veffo/github-readme-info" target="_blank">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&theme=buefy&hide_border=true" />
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&theme=buefy&hide_border=true" />
                 </a>
             </td>
             <td>
                 <a href="https://github.com/veffo/Unity-2D-v6-Associative-Array-Limit" target="_blank">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&theme=buefy&hide_border=true" />
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&theme=buefy&hide_border=true" />
                 </a>
             </td>
         </tr>
