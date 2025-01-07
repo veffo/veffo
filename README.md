@@ -22,8 +22,19 @@
 
 <p>
     <a href="https://codepen.io/veffo" target="_blank">
-        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
-        <img src="https://img.shields.io/badge/CodePen-@veffo-6F6F6F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
+        <picture>
+            <source
+                srcset="https://img.shields.io/badge/CodePen-@veffo-6F6F6F?logo=codepen&logoColor=white&style=for-the-badge"
+                media="(prefers-color-scheme: dark)"
+                alt="codepen - veffo"
+            />
+            <source
+                srcset="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="codepen - veffo"
+            />
+            <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
+        </picture>
     </a>
 </p>
 
@@ -44,25 +55,6 @@ I am a full stack developer from Russia.
 - 🎯 I'm focused on improving my coding skills.
 
 ---
-<!--
-<picture>
-    <source
-        srcset="assets/images/sidebar.jpg"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="assets/images/sidebar.jpg"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="assets/images/sidebar.jpg" />
-</picture>
--->
-<!--
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
--->
 
 ### My Github stats:
 
