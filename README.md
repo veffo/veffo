@@ -35,24 +35,19 @@
 -->
 
 <p>
-    <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
+    <a href="#">
+        <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
+    </a>
 </p>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C508%20hrs%2058%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-761-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
-
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
 <p>
     <a href="https://twitter.com/rishavchanda" target="blank">
         <img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="twitter - veffo" />
     </a>
     <img src="https://img.shields.io/badge/Hire1%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge" alt="rishavchanda" />
-    <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" alt="codepen - veffo" />
+    <a href="https://codepen.io/veffo" target="blank">
+        <img src="https://img.shields.io/badge/CodePen%@veffo-white?&logo=codepen&logoColor=black&style=for-the-badge" alt="codepen - veffo" />
+    </a>
 </p>
 
 ### <img width="30" src="assets/images/dev.gif" alt="developer" /> &nbsp;A little about me:
@@ -67,7 +62,7 @@ I am a full stack developer from Russia.
 
 - 📫 You can reach me **q.6110@mail.ru**
 
-- 🌐 I'm interested in web design and development.
+- 🌵 I'm interested in web design and development.
 
 - 🎯 I'm focused on improving my coding skills.
 
@@ -104,13 +99,22 @@ github, default, buefy, swift, transparent, vue
 
 ### Top Repositories:
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-
-<a href="https://github.com/anuraghazra/anuraghazra.github.io" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/anuraghazra/anuraghazra.github.io" target="_blank">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
@@ -229,9 +233,6 @@ I'm always seeking to take ownership of the project and deliver faster than expe
     </a>
     <a href="#">
         <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
-    </a>
-    <a href="#">
-        <img alt="Stackoverflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara" />
     </a>
     <a href="#">
         <img alt="Mail.ru" src="https://img.shields.io/badge/-Mail.ru-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:q.6110@mail.ru" />
