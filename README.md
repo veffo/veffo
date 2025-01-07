@@ -1,18 +1,8 @@
-<a href="#">
-    <img src="assets/images/banner.webp" alt="banner" />
-</a>
 
-<h1 align="center">
-    Hey <a href="#"><img width="30" src="assets/icons/blob-sunglasses.gif" /></a>! Nice to see you.
-</h1>
 
-<h3 align="center">
-    Interesting full stack developer from Russia
-</h3>
-
-<a href="#">
-    <img align="right" height="400" src="assets/images/sidebar.png" alt="sidebar" />
-</a>
+<!--
+github, default, buefy, swift, transparent, vue
+-->
 
 <!--
 <picture>
@@ -32,40 +22,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
     <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
--->
-
-<p>
-    <a href="#">
-        <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
-    </a>
-</p>
-
-<p>
-    <a href="https://codepen.io/veffo" target="_blank">
-        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
-    </a>
-</p>
-
-### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
-
-I am a full stack developer from Russia.
-
-- 💻 I’m working and mine contributing building applications.
-
-- 📚 I'm currently studying computer science.
-
-- 💬 If you have any questions, **just ask me**.
-
-- 📫 You can reach me **q.6110@mail.ru**
-
-- 🌵 I'm interested in web design and development.
-
-- 🎯 I'm focused on improving my coding skills.
-
----
-
-<!--
-github, default, buefy, swift, transparent, vue
 -->
 
 ### My Github stats:
