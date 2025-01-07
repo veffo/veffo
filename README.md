@@ -35,13 +35,13 @@
 -->
 
 <p>
+    <a href="#">
         <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
+    </a>
 </p>
 
 <p>
-    <a href="https://codepen.io/veffo" target="_blank">
-        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
-    </a>
+        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&link=https://codepen.io/veffo&style=for-the-badge" alt="codepen - veffo" />
 </p>
 
 ### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
