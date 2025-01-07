@@ -18,6 +18,24 @@
 </picture>
 -->
 
+### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
+
+I am a full stack developer from Russia.
+
+- 💻 I’m working and mine contributing building applications.
+
+- 📚 I'm currently studying computer science.
+
+- 💬 If you have any questions, **just ask me**.
+
+- 📫 You can reach me **q.6110@mail.ru**
+
+- 🌵 I'm interested in web design and development.
+
+- 🎯 I'm focused on improving my coding skills.
+
+---
+
 ### My Github stats:
 
 <table>
@@ -80,10 +98,10 @@
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                         />
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" />
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veffo&bg_color=ffffff&title_color=0366DE&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" />
                     </picture>
                 </a>
             </td>
