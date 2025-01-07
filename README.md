@@ -36,13 +36,13 @@
 
 <p>
     <a href="#">
-        <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
+        <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=112A1B&style=flat" alt="profile views - veffo" />
     </a>
 </p>
 
 <p>
     <a href="https://codepen.io/veffo" target="blank">
-        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=black&style=for-the-badge" alt="codepen - veffo" />
+        <img src="https://img.shields.io/badge/CodePen-@veffo-112A1B?logo=codepen&logoColor=black&style=for-the-badge" alt="codepen - veffo" />
     </a>
 </p>
 
