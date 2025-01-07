@@ -19,6 +19,7 @@
 <p>
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F23529?style=flat-square&logo=Laravel&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" />
