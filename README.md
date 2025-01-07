@@ -10,7 +10,7 @@
     Interesting full stack developer from Russia
 </h3>
 
-<a href="assets/images/sidebar.png" target="_blank">
+<a href="#">
     <img align="right" height="400" src="assets/images/sidebar.png" alt="sidebar" />
 </a>
 
@@ -44,9 +44,10 @@
     <a href="https://codepen.io/veffo" target="_blank">
         <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
     </a>
+    <img width="30" src="assets/images/dev.gif" alt="developer" />
 </p>
 
-### <img width="30" src="assets/images/dev.gif" alt="developer" /> &nbsp;A little about me:
+### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
 
 I am a full stack developer from Russia.
 
