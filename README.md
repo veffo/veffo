@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">
-    Hey <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" />! Nice to see you.
+    Hey <a href="#"><img width="30" src="assets/icons/blob-sunglasses.gif" /></a>! Nice to see you.
 </h1>
 
 <h3 align="center">
@@ -11,7 +11,7 @@
 </h3>
 
 <a href="#">
-    <img align="right" height="400" src="assets/images/sidebar3.png" alt="sidebar" />
+    <img align="right" height="400" src="assets/images/sidebar.png" alt="sidebar" />
 </a>
 
 <!--
@@ -38,12 +38,21 @@
     <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views - veffo" />
 </p>
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C508%20hrs%2058%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-761-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+
 <p>
     <a href="https://twitter.com/rishavchanda" target="blank">
         <img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="twitter - veffo" />
     </a>
     <img src="https://img.shields.io/badge/Hire1%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge" alt="rishavchanda" />
-    <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" alt="rishavchanda" />
+    <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" alt="codepen - veffo" />
 </p>
 
 ### <img width="30" src="assets/images/dev.gif" alt="developer" /> &nbsp;A little about me:
@@ -77,7 +86,7 @@ github, default, buefy, swift, transparent, vue
                 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github" />
             </th>
             <th>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=veffo&theme=buefy&background=white" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=buefy&background=white" />
             </th>
         </tr>
     </thead>
