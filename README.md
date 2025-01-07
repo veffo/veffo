@@ -56,7 +56,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" />
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" />
-    <img alt="MariaDB" src ="hhttps://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white" />
+    <img alt="MariaDB" src ="hhttps://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" />
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" />
