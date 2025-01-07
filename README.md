@@ -80,7 +80,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white" /></a>
-    <a href="#"><img alt="After Effects" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=After%20Effects&logoColor=white" /></a>
+    <a href="#"><img alt="After Effects" src="https://img.shields.io/badge/After%20Effects-31A8FF?style=flat&logo=After%20Effects&logoColor=white" /></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></a>
     <a href="#"><img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint" /></a>
     <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-%23F7B93E?logo=prettier&logoColor=ffffff" /></a>
