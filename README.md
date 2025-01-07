@@ -98,12 +98,32 @@
         <tr>
             <td>
                 <a href="https://github.com/veffo/github-readme-info" target="_blank">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&hide_border=true" />
+                    <picture>
+                        <source
+                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" />
+                    </picture>
                 </a>
             </td>
             <td>
                 <a href="https://github.com/veffo/Unity-2D-Associative-Array-Limit" target="_blank">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" />
+                    <picture>
+                        <source
+                            srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" />
+                    </picture>
                 </a>
             </td>
         </tr>
