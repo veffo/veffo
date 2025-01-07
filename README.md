@@ -20,20 +20,6 @@
 
 ### My Github stats:
 
-<picture>
-    <source
-        srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" />
-</picture>
-
----
-
 <table>
     <thead>
         <tr>
@@ -112,12 +98,12 @@
         <tr>
             <td>
                 <a href="https://github.com/veffo/github-readme-info" target="_blank">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&theme=buefy&hide_border=true" />
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&hide_border=true" />
                 </a>
             </td>
             <td>
-                <a href="https://github.com/veffo/Unity-2D-v6-Associative-Array-Limit" target="_blank">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&theme=buefy&hide_border=true" />
+                <a href="https://github.com/veffo/Unity-2D-Associative-Array-Limit" target="_blank">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&locale=en&hide_border=true" />
                 </a>
             </td>
         </tr>
