@@ -46,7 +46,9 @@
 [black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
 https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
 <p>
-        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge&metadataUrl=https%3A%2F%2Fcodepen.io%2Fveffo" alt="codepen - veffo" />
+        <img src="https://img.shields.io/badge/CodePen-@veffo-9F9F9F?logo=codepen&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fcodepen.io%2Fveffo" alt="codepen - veffo" />
+        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fcodepen.io%2Fveffo">
+
 </p>
 
 ### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
