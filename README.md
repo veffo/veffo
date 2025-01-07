@@ -56,17 +56,20 @@ github, default, buefy, swift, transparent, vue
         <tr>
             <td>
                 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy&hide_border=true" />
                 </a>
             </td>
             <td>
                 <a href="https://github.com/anuraghazra/anuraghazra.github.io" target="_blank">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy&hide_border=true" />
                 </a>
             </td>
         </tr>
     </tbody>
 </table>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 
 ---
 
