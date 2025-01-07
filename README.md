@@ -66,7 +66,7 @@
 ### 💻 Software and Tools
 
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white" /></a>
+    <a href="#"><img alt="Adobe Acrobat Reader" src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-FF0000.svg?logo=adobe&logoColor=white" /></a>
     <a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" /></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" /></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white" /></a>
@@ -80,7 +80,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white" /></a>
-    <a href="#"><img alt="After Effects" src="https://img.shields.io/badge/After%20Effects-31A8FF?style=flat&logo=After%20Effects&logoColor=white" /></a>
+    <a href="#"><img alt="After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-31A8FF?style=flat&logo=After%20Effects&logoColor=white" /></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></a>
     <a href="#"><img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint" /></a>
     <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-%23F7B93E?logo=prettier&logoColor=ffffff" /></a>
