@@ -30,20 +30,28 @@ github, default, buefy, swift, transparent, vue
     <thead>
         <tr>
             <th>
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github" />
+                <a href="#">
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veffo&theme=github" />
+                </a>
             </th>
             <th>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=veffo&theme=buefy&background=white" />
+                <a href="#">
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=veffo&theme=buefy&background=white" />
+                </a>
             </th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=veffo&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true" />
+                <a href="#">
+                    <img src="https://github-readme-stats.vercel.app/api?username=veffo&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true&hide_border=true" />
+                </a>
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true" />
+                <a href="#">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&locale=en&layout=compact&theme=buefy&langs_count=6&hide_border=true" />
+                </a>
             </td>
         </tr>
     </tbody>
@@ -55,26 +63,13 @@ github, default, buefy, swift, transparent, vue
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy&hide_border=true" />
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/anuraghazra/anuraghazra.github.io" target="_blank">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy&hide_border=true" />
+                <a href="https://github.com/veffo/github-readme-info" target="_blank">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&theme=buefy&hide_border=true" />
                 </a>
             </td>
             <td>
                 <a href="https://github.com/veffo/Unity-2D-v6-Associative-Array-Limit" target="_blank">
                     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&theme=buefy&hide_border=true" />
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/anuraghazra/anuraghazra.github.io" target="_blank">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy&hide_border=true" />
-                </a>
-                <a href="https://github.com/veffo/github-readme-info" target="_blank">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&theme=buefy&hide_border=true" />
                 </a>
             </td>
         </tr>
