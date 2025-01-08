@@ -34,29 +34,22 @@
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-070707.svg?logo=unity&logoColor=ffffff" /></a>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
 ### 🛠️ Project build tool and misc
 
 <p>
-    <a href="#"><img alt="Vite" src="https://img.shields.io/badge/-Vite-%23646CFF?logo=vite&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-2B3A42?logo=webpack&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Composer" src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=ffffff" /></a>
-    <a href="#"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=ffffff" /></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=ffffff" /></a>
-    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab" /></a>
+    <a href="#"><img alt="Vite" src="https://img.shields.io/badge/-Vite-5f66eb.svg?logo=vite&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-2b3a42.svg?logo=webpack&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Composer" src="https://img.shields.io/badge/Composer-885630.svg?logo=composer&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-2c8ebb.svg?logo=yarn&logoColor=ffffff" /></a>
+    <a href="#"><img alt="npm" src="https://img.shields.io/badge/-NPM-cb3837.svg?logo=npm&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1.svg?logo=docker&logoColor=ffffff" /></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088ff.svg?logo=github-actions&logoColor=ffffff" /></a>
+    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/-GitLab-fca121.svg?logo=gitlab" /></a>
 </p>
+
+
+
+
 
 ### 🗄️ Databases and Cloud Hosting
 
