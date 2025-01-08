@@ -304,7 +304,6 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 <p>
     <a href="https://t.me/veffo1" target="_blank"><img width="30" height="30" src="assets/icons/telegram.svg" alt="https://t.me/veffo1" /></a>
     <a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="assets/icons/mail.ru.svg" alt="q.6110@mail.ru" /></a>
-    <a href="https://codepen.io/veffo" target="_blank"><img width="30" height="30" src="assets/icons/codepen.svg" alt="https://codepen.io/veffo" /></a>
     <a href="https://codepen.io/veffo" target="_blank">
         <picture>
             <source
@@ -320,7 +319,21 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             <img width="30" height="30" src="assets/icons/codepen-light.svg" alt="https://codepen.io/veffo" />
         </picture>
     </a>
-    <a href="https://github.com/veffo" target="_blank"><img width="30" height="30" src="assets/icons/github.svg" alt="https://github.com/veffo" /></a>
+    <a href="https://github.com/veffo" target="_blank">
+        <picture>
+            <source
+                srcset="assets/icons/github-dark.svg"
+                media="(prefers-color-scheme: dark)"
+                alt="https://github.com/veffo"
+            />
+            <source
+                srcset="assets/icons/github-light.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="https://github.com/veffo"
+            />
+            <img width="30" height="30" src="assets/icons/github-light.svg" alt="https://github.com/veffo" />
+        </picture>
+    </a>
     <a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><img width="30" height="30" src="assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo" /></a>
 </p>
 
