@@ -160,19 +160,19 @@ I am a full stack developer from Russia.
                 </a>
             </td>
             <td>
-                <a href="https://github.com/veffo/Unity-2D-v6-Associative-Array-Limit" target="_blank">
+                <a href="https://github.com/veffo/Unity-2D-Associative-Array-Limit" target="_blank">
                     <picture>
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-Associative-Array-Limit&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                             alt="repository 2 item - veffo"
                         />
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                             alt="repository 2 item - veffo"
                         />
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-v6-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 2 item - veffo" />
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-2D-Associative-Array-Limit&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 2 item - veffo" />
                     </picture>
                 </a>
             </td>
@@ -286,7 +286,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 </p>
 
 ---
-
+<!--
 ### Organisations I am part of:
 
 <p>
@@ -297,6 +297,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 </p>
 
 ---
+-->
 
 ### Connect with me:
 
@@ -304,6 +305,21 @@ I'm always seeking to take ownership of the project and deliver faster than expe
     <a href="https://t.me/veffo1" target="_blank"><img width="30" height="30" src="assets/icons/telegram.svg" alt="https://t.me/veffo1" /></a>
     <a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="assets/icons/mail.ru.svg" alt="q.6110@mail.ru" /></a>
     <a href="https://codepen.io/veffo" target="_blank"><img width="30" height="30" src="assets/icons/codepen.svg" alt="https://codepen.io/veffo" /></a>
+    <a href="https://codepen.io/veffo" target="_blank">
+        <picture>
+            <source
+                srcset="assets/icons/codepen-dark.svg"
+                media="(prefers-color-scheme: dark)"
+                alt="https://codepen.io/veffo"
+            />
+            <source
+                srcset="assets/icons/codepen-light.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="https://codepen.io/veffo"
+            />
+            <img width="30" height="30" src="assets/icons/codepen-light.svg" alt="https://codepen.io/veffo" />
+        </picture>
+    </a>
     <a href="https://github.com/veffo" target="_blank"><img width="30" height="30" src="assets/icons/github.svg" alt="https://github.com/veffo" /></a>
     <a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><img width="30" height="30" src="assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo" /></a>
 </p>
