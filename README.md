@@ -14,12 +14,8 @@
     <a href="https://t.me/veffo1" target="_blank">
         <img width="30" height="30" src="assets/icons/telegram.svg" alt="https://t.me/veffo1" />
     </a>
-    <a href="mailto:q.6110@mail.ru">
-        <img width="30" height="30" src="assets/icons/mail.ru.svg" alt="q.6110@mail.ru" />
-    </a>
-    <a href="https://codepen.io/veffo" target="_blank">
-        <img width="30" height="30" src="assets/icons/codepen.svg" alt="https://codepen.io/veffo" />
-    </a>
+    <a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="assets/icons/mail.ru.svg" alt="q.6110@mail.ru" /></a>
+    <a href="https://codepen.io/veffo" target="_blank"><img width="30" height="30" src="assets/icons/codepen.svg" alt="https://codepen.io/veffo" /></a>
     <a href="https://github.com/veffo" target="_blank">
         <img width="30" height="30" src="assets/icons/github.svg" alt="https://github.com/veffo" />
     </a>
