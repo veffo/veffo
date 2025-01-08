@@ -26,17 +26,17 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-f05033.svg?logo=git&logoColor=ffffff" /></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034a9.svg?logo=github&logoColor=ffffff" /></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34a853.svg?logo=google%20sheets&logoColor=ffffff" /></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Adobe Photoshop" src="https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-2EA3F7.svg?logo=adobe-photoshop&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Adobe After Effects" src="https://custom-icon-badges.demolab.com/badge/Adobe%20After%20Effects-CB8CF7.svg?logo=adobe-after-effects&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff" /></a>
-    <a href="#"><img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint" /></a>
-    <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-%23F7B93E?logo=prettier&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=000000" /></a>
-    <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=ffffff" /></a>
+    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302e31.svg?logo=obs-studio&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849be.svg?logo=insomnia&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37.svg?logo=postman&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-fe7a16.svg?logo=stack-overflow&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Adobe Photoshop" src="https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-2ea3f7.svg?logo=adobe-photoshop&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Adobe After Effects" src="https://custom-icon-badges.demolab.com/badge/Adobe%20After%20Effects-cb8cf7.svg?logo=adobe-after-effects&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-f24e1e.svg?logo=figma&logoColor=ffffff" /></a>
+    <a href="#"><img alt="ESlint" src="https://img.shields.io/badge/-ESLint-513abd.svg?logo=eslint" /></a>
+    <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-eeb647.svg?logo=prettier&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90e59a.svg?&logo=notepad%2b%2b&logoColor=000000" /></a>
+    <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5c2d91.svg?&logo=visual-studio&logoColor=ffffff" /></a>
     <a href="#"><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=ffffff" /></a>
 </p>
 
