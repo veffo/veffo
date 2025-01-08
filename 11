@@ -26,14 +26,14 @@
             <source
                 srcset="https://img.shields.io/badge/CodePen-@veffo-6f6f6f?logo=codepen&logoColor=white&style=for-the-badge"
                 media="(prefers-color-scheme: dark)"
-                alt="codepen - veffo"
+                alt="https://codepen.io/veffo"
             />
             <source
                 srcset="https://img.shields.io/badge/CodePen-@veffo-8f8f8f?logo=codepen&logoColor=white&style=for-the-badge"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                alt="codepen - veffo"
+                alt="https://codepen.io/veffo"
             />
-            <img src="https://img.shields.io/badge/CodePen-@veffo-8f8f8f?logo=codepen&logoColor=white&style=for-the-badge" alt="codepen - veffo" />
+            <img src="https://img.shields.io/badge/CodePen-@veffo-8f8f8f?logo=codepen&logoColor=white&style=for-the-badge" alt="https://codepen.io/veffo" />
         </picture>
     </a>
 </p>
