@@ -25,9 +25,7 @@
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769ad.svg?logo=jquery&logoColor=ffffff" /></a>
     <a href="#"><img alt="Sass" src="https://img.shields.io/badge/-Sass-cc6699.svg?logo=sass&logoColor=ffffff" /></a>
     <a href="#"><img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092.svg?logo=styled-components&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Selenium 0" src="https://img.shields.io/static/v1?label=&message=Selenium&color=43b02a.svg&logo=selenium&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Selenium 1" src="https://img.shields.io/badge/Selenium-43b02a.svg&logo=selenium&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Selenium 2" src="https://img.shields.io/badge/-Selenium-43b02a.svg&logo=selenium&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/static/v1?label=&message=Selenium&color=43b02a.svg&logo=selenium&logoColor=ffffff" /></a>
     <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-37a59f.svg?logo=tailwind-css&logoColor=ffffff" /></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=ffffff" /></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081cb.svg?logo=material-design&logoColor=ffffff" /></a>
