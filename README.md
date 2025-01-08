@@ -1,9 +1,10 @@
 ### Organisations I am part of:
 
 <p>
-    <a href="#"><img width="50" height="50" src="https://avatars.githubusercontent.com/u/66388388?s=88&v=4" /></a>
-    <a href="#"><img width="50" height="50" src="https://avatars.githubusercontent.com/u/35373879?s=60&v=4" /></a>
-    <a href="#"><img width="50" height="50" src="https://avatars.githubusercontent.com/u/87652881?s=200&v=4" /></a>
+    <a href="#"><img width="50" height="50" src="assets/icons/organisations/EddieHub.png" /></a>
+    <a href="#"><img width="50" height="50" src="assets/icons/organisations/Zero_To_Mastery.png" /></a>
+    <a href="#"><img width="50" height="50" src="assets/icons/organisations/Coding_Contributors_Lair.png" /></a>
+    <a href="#"><img width="50" height="50" src="assets/icons/organisations/Roques_Beach.jpeg" /></a>
 </p>
 
 ---
