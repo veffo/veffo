@@ -14,15 +14,19 @@
     <a href="https://t.me/veffo1" target="_blank">
         <img width="30" height="30" src="assets/icons/telegram.svg" alt="https://t.me/veffo1" />
     </a>
+    &nbsp;
     <a href="mailto:q.6110@mail.ru">
         <img width="30" height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="q.6110@mail.ru" />
     </a>
+    &nbsp;
     <a href="https://codepen.io/veffo" target="_blank">
         <img width="30" height="30" src="assets/icons/codepen.svg" alt="https://codepen.io/veffo" />
     </a>
+    &nbsp;
     <a href="https://github.com/veffo" target="_blank">
         <img width="30" height="30" src="assets/icons/github.svg" alt="https://github.com/veffo" />
     </a>
+    &nbsp;
     <a href="https://stackoverflow.com/users/29074285/veffo" target="_blank">
         <img width="30" height="30" src="assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo" />
     </a>
