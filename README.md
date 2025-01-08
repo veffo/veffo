@@ -15,9 +15,9 @@
         <img width="30" height="30" src="assets/icons/telegram.svg" alt="https://t.me/veffo1" />
     </a>
     <a href="mailto:q.6110@mail.ru">
-        <img width="30" height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="q.6110@mail.ru" />
+        <img width="30" height="30" src="assets/icons/mail.ru.svg" alt="q.6110@mail.ru" />
     </a>
-    <a href="#" target="_blank">
+    <a href="https://codepen.io/veffo" target="_blank">
         <img width="30" height="30" src="assets/icons/codepen.svg" alt="https://codepen.io/veffo" />
     </a>
     <a href="https://github.com/veffo" target="_blank">
