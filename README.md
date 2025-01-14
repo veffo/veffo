@@ -21,7 +21,7 @@
 </p>
 
 <p>
-    <a href="https://codepen.io/veffo" target="_blank">
+    <a href="https://codepen.io/veffo" target="_blank"> 
         <picture>
             <source
                 srcset="https://img.shields.io/badge/CodePen-@veffo-6f6f6f?logo=codepen&logoColor=white&style=for-the-badge"
