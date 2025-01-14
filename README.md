@@ -228,7 +228,21 @@ I'm always seeking to take ownership of the project and deliver faster than expe
     <a href="#"><img alt="MaterializeCSS" src="https://custom-icon-badges.demolab.com/badge/Materialize%20CSS-de6a70.svg?logo=materialize-css&logoColor=ffffff" /></a>
     <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=ffffff" /></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-444444.svg?logo=wordpress&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-070707.svg?logo=unity&logoColor=ffffff" /></a>
+    <a href="#">
+        <picture>
+            <source
+                srcset="https://img.shields.io/badge/Unity-052b34.svg?logo=unity&logoColor=ffffff"
+                media="(prefers-color-scheme: dark)"
+                alt="Unity"
+            />
+            <source
+                srcset="https://img.shields.io/badge/Unity-070707.svg?logo=unity&logoColor=ffffff"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="Unity"
+            />
+            <img src="https://img.shields.io/badge/Unity-070707.svg?logo=unity&logoColor=ffffff" alt="Unity" />
+        </picture>
+    </a>
 </p>
 
 ### 🛠️ Project build tool and misc
@@ -249,6 +263,19 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 <p>
     <a href="#"><img alt="Json" src="https://img.shields.io/badge/json-5e5c5c.svg?logo=json&logoColor=ffffff" /></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github" /></a>
+        <picture>
+            <source
+                srcset="https://img.shields.io/badge/-GitHub-24262a.svg?logo=github"
+                media="(prefers-color-scheme: dark)"
+                alt="GitHub"
+            />
+            <source
+                srcset="https://img.shields.io/badge/-GitHub-181717.svg?logo=github"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="GitHub"
+            />
+            <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github" alt="GitHub" />
+        </picture>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327fc7.svg?logo=github&logoColor=ffffff" /></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=ffffff" /></a>
     <a href="#"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=ffffff" /></a>
