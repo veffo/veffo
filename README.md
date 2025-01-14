@@ -143,19 +143,19 @@ I am a full stack developer from Russia.
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/veffo/veffo" target="_blank">
+                <a href="https://github.com/veffo/gitignore" target="_blank">
                     <picture>
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=gitignore&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                             alt="repository 1 item - veffo"
                         />
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=gitignore&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                             alt="repository 1 item - veffo"
                         />
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=veffo&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 1 item - veffo" />
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=gitignore&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 1 item - veffo" />
                     </picture>
                 </a>
             </td>
