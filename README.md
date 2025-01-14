@@ -201,7 +201,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-e34f26.svg?logo=html5&logoColor=ffffff" /></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572b6.svg?logo=css3&logoColor=ffffff" /></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777bb4.svg?logo=php&logoColor=ffffff" /></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&logoColor=ffffff" /></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&logoColor=000000" /></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007acc.svg?logo=typescript&logoColor=ffffff" /></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853d.svg?logo=node.js&logoColor=ffffff" /></a>
     <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=ffffff" /></a>
@@ -280,9 +280,9 @@ I'm always seeking to take ownership of the project and deliver faster than expe
     <a href="#"><img alt="Adobe After Effects" src="https://custom-icon-badges.demolab.com/badge/Adobe%20After%20Effects-cb8cf7.svg?logo=adobe-after-effects&logoColor=ffffff" /></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-f24e1e.svg?logo=figma&logoColor=ffffff" /></a>
     <a href="#"><img alt="ESlint" src="https://img.shields.io/badge/-ESLint-513abd.svg?logo=eslint" /></a>
-    <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-eeb647.svg?logo=prettier&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90e59a.svg?logo=notepad%2b%2b&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Adobe Dreamweaver" src="https://custom-icon-badges.demolab.com/badge/Adobe%20Dreamweaver-98ef03.svg?logo=adobe-dreamweaver&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-eeb647.svg?logo=prettier&logoColor=000000" /></a>
+    <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90e59a.svg?logo=notepad%2b%2b&logoColor=000000" /></a>
+    <a href="#"><img alt="Adobe Dreamweaver" src="https://custom-icon-badges.demolab.com/badge/Adobe%20Dreamweaver-98ef03.svg?logo=adobe-dreamweaver&logoColor=000000" /></a>
     <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5c2d91.svg?logo=visual-studio&logoColor=ffffff" /></a>
     <a href="#"><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=ffffff" /></a>
 </p>
