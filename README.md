@@ -262,6 +262,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 
 <p>
     <a href="#"><img alt="Json" src="https://img.shields.io/badge/json-5e5c5c.svg?logo=json&logoColor=ffffff" /></a>
+    <a href="#">
         <picture>
             <source
                 srcset="https://img.shields.io/badge/-GitHub-24262a.svg?logo=github"
@@ -275,6 +276,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             />
             <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github" alt="GitHub" />
         </picture>
+    </a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327fc7.svg?logo=github&logoColor=ffffff" /></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=ffffff" /></a>
     <a href="#"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=ffffff" /></a>
