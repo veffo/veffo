@@ -262,7 +262,6 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 
 <p>
     <a href="#"><img alt="Json" src="https://img.shields.io/badge/json-5e5c5c.svg?logo=json&logoColor=ffffff" /></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github" /></a>
         <picture>
             <source
                 srcset="https://img.shields.io/badge/-GitHub-24262a.svg?logo=github"
