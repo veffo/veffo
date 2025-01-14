@@ -226,7 +226,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=ffffff" /></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081cb.svg?logo=material-design&logoColor=ffffff" /></a>
     <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759b7.svg?logo=wordpress&logoColor=ffffff" /></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-444444.svg?logo=wordpress&logoColor=ffffff" /></a>
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-070707.svg?logo=unity&logoColor=ffffff" /></a>
 </p>
 
