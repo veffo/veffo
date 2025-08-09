@@ -349,6 +349,21 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="https://codepen.io/veffo" />
         </picture>
     </a>
+    <a href="https://codesandbox.io/u/Veffo" target="_blank">
+        <picture>
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-dark.svg"
+                media="(prefers-color-scheme: dark)"
+                alt="https://codesandbox.io/u/Veffo"
+            />
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="https://codesandbox.io/u/Veffo"
+            />
+            <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" alt="https://codesandbox.io/u/Veffo" />
+        </picture>
+    </a>
     <a href="https://github.com/veffo" target="_blank">
         <picture>
             <source
