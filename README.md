@@ -1,9 +1,9 @@
 <a href="#">
-    <img src="assets/images/banner.webp" alt="banner" />
+    <img src="https://raw.githubusercontent.com/veffo/veffo/main/assets/images/banner.webp" alt="banner" />
 </a>
 
 <h1 align="center">
-    Hey <a href="#"><img width="30" src="assets/icons/blob-sunglasses.gif" alt="blob sunglasses" /></a>! Nice to see you.
+    Hey <a href="#"><img width="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/blob-sunglasses.gif" alt="blob sunglasses" /></a>! Nice to see you.
 </h1>
 
 <h3 align="center">
@@ -11,7 +11,7 @@
 </h3>
 
 <a href="#">
-    <img align="right" height="400" src="assets/images/sidebar.png" alt="sidebar" />
+    <img align="right" height="400" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/images/sidebar.png" alt="sidebar" />
 </a>
 
 <p>
@@ -38,7 +38,7 @@
     </a>
 </p>
 
-### <a href="#"><img width="30" src="assets/images/dev.gif" alt="developer" /></a> A little about me:
+### <a href="#"><img width="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/images/dev.gif" alt="developer" /></a> A little about me:
 
 I am a full stack developer from Russia.
 
@@ -160,19 +160,19 @@ I am a full stack developer from Russia.
                 </a>
             </td>
             <td>
-                <a href="https://github.com/veffo/Unity-Counter-FPS" target="_blank">
+                <a href="https://github.com/veffo/Unity-FPS-Counter" target="_blank">
                     <picture>
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-Counter-FPS&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-FPS-Counter&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                             alt="repository 1 item - veffo"
                         />
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-Counter-FPS&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-FPS-Counter&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                             alt="repository 1 item - veffo"
                         />
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-Counter-FPS&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 1 item - veffo" />
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-FPS-Counter&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 1 item - veffo" />
                     </picture>
                 </a>
             </td>
@@ -320,10 +320,10 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 ### Organisations I am part of:
 
 <p>
-    <a href="#"><img width="50" height="50" src="assets/icons/organisations/EddieHub.png" /></a>
-    <a href="#"><img width="50" height="50" src="assets/icons/organisations/Zero_To_Mastery.png" /></a>
-    <a href="#"><img width="50" height="50" src="assets/icons/organisations/Coding_Contributors_Lair.png" /></a>
-    <a href="#"><img width="50" height="50" src="assets/icons/organisations/Roques_Beach.jpeg" /></a>
+    <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/organisations/EddieHub.png" /></a>
+    <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/organisations/Zero_To_Mastery.png" /></a>
+    <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/organisations/Coding_Contributors_Lair.png" /></a>
+    <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/organisations/Roques_Beach.jpeg" /></a>
 </p>
 
 ---
@@ -332,39 +332,39 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 ### Connect with me:
 
 <p>
-    <a href="https://t.me/veffo1" target="_blank"><img width="30" height="30" src="assets/icons/telegram.svg" alt="https://t.me/veffo1" /></a>
-    <a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="assets/icons/mail.ru.svg" alt="q.6110@mail.ru" /></a>
+    <a href="https://t.me/veffo1" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" alt="https://t.me/veffo1" /></a>
+    <a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" alt="q.6110@mail.ru" /></a>
     <a href="https://codepen.io/veffo" target="_blank">
         <picture>
             <source
-                srcset="assets/icons/codepen-dark.svg"
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-dark.svg"
                 media="(prefers-color-scheme: dark)"
                 alt="https://codepen.io/veffo"
             />
             <source
-                srcset="assets/icons/codepen-light.svg"
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 alt="https://codepen.io/veffo"
             />
-            <img width="30" height="30" src="assets/icons/codepen-light.svg" alt="https://codepen.io/veffo" />
+            <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="https://codepen.io/veffo" />
         </picture>
     </a>
     <a href="https://github.com/veffo" target="_blank">
         <picture>
             <source
-                srcset="assets/icons/github-dark.svg"
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-dark.svg"
                 media="(prefers-color-scheme: dark)"
                 alt="https://github.com/veffo"
             />
             <source
-                srcset="assets/icons/github-light.svg"
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 alt="https://github.com/veffo"
             />
-            <img width="30" height="30" src="assets/icons/github-light.svg" alt="https://github.com/veffo" />
+            <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" alt="https://github.com/veffo" />
         </picture>
     </a>
-    <a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><img width="30" height="30" src="assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo" /></a>
+    <a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo" /></a>
 </p>
 
 <h3 align="center">
@@ -375,6 +375,6 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 
 <p>
     <a href="#">
-        <img src="assets/images/footer.jpg" alt="footer" />
+        <img src="https://raw.githubusercontent.com/veffo/veffo/main/assets/images/footer.jpg" alt="footer" />
     </a>
 </p>
