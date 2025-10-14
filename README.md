@@ -348,7 +348,8 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             />
             <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="https://codepen.io/veffo" />
         </picture>
-    </a><a href="https://codesandbox.io/u/Veffo" target="_blank">
+    </a>
+    <a href="https://codesandbox.io/u/Veffo" target="_blank">
         <picture>
             <source
                 srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-dark.svg"
@@ -362,7 +363,8 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             />
             <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" alt="https://codesandbox.io/u/Veffo" />
         </picture>
-    </a><a href="https://github.com/veffo" target="_blank">
+    </a>
+    <a href="https://github.com/veffo" style="text-decoration: none;" target="_blank">
         <picture>
             <source
                 srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-dark.svg"
@@ -376,7 +378,8 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             />
             <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" alt="https://github.com/veffo" />
         </picture>
-    </a><a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo" /></a>
+    </a>
+    <a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo" /></a>
 </p>
 
 <h3 align="center">
