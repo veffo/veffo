@@ -148,31 +148,31 @@ I am a full stack developer from Russia.
                         <source
                             srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Parallax-Scrolling&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
-                            alt="repository 2 item - veffo"
+                            alt="repository 1 item - veffo"
                         />
                         <source
                             srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Parallax-Scrolling&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                            alt="repository 2 item - veffo"
+                            alt="repository 1 item - veffo"
                         />
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Parallax-Scrolling&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 2 item - veffo" />
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Parallax-Scrolling&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 1 item - veffo" />
                     </picture>
                 </a>
             </td>
             <td>
-                <a href="https://github.com/veffo/Unity-FPS-Counter" target="_blank">
+                <a href="https://github.com/veffo/Unity-Project-Info-Stats" target="_blank">
                     <picture>
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-FPS-Counter&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-Project-Info-Stats&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
-                            alt="repository 1 item - veffo"
+                            alt="repository 2 item - veffo"
                         />
                         <source
-                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-FPS-Counter&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-Project-Info-Stats&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                            alt="repository 1 item - veffo"
+                            alt="repository 2 item - veffo"
                         />
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-FPS-Counter&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 1 item - veffo" />
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Unity-Project-Info-Stats&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true" alt="repository 2 item - veffo" />
                     </picture>
                 </a>
             </td>
