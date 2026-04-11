@@ -146,12 +146,12 @@ I am a full stack developer from Russia.
                 <a href="https://github.com/veffo/Laravel-React-Webpack-Multiple-Themes" target="_blank">
                     <picture>
                         <source
-                            img="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Laravel-React-Webpack-Multiple-Themes&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=veffo&repo=Laravel-React-Webpack-Multiple-Themes&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
                             media="(prefers-color-scheme: dark)"
                             alt="repository 1 item - veffo"
                         />
                         <source
-                            img="https://github-readme-stats.vercel.app/api/pin/?username=veffo&repo=Laravel-React-Webpack-Multiple-Themes&bg_color=ffffff&title_color=0366DE&text_color=586069&icon_color=586069&locale=en&hide_border=true"
+                            srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=veffo&repo=Laravel-React-Webpack-Multiple-Themes&bg_color=0D1117&title_color=0366DE&text_color=77909C&icon_color=77909C&locale=en&hide_border=true"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                             alt="repository 1 item - veffo"
                         />
