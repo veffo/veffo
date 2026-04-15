@@ -448,8 +448,15 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 
 
 
-[![Telegram](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg)](https://t.me/veffo1) [![Mail](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg)](mailto:q.6110@mail.ru) [![CodePen](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-dark.svg)](https://codepen.io/veffo) [![CodeSandbox](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-dark.svg)](https://codesandbox.io/u/Veffo) [![GitHub](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-dark.svg)](https://github.com/veffo) [![StackOverflow](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg)](https://stackoverflow.com/users/29074285/veffo)
 
+[<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg">](https://t.me/veffo1)&nbsp;[<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg">](mailto:q.6110@mail.ru)&nbsp;
+[<img width="30" height="30" src="https://githubusercontent.com">](https://codepen.io)&nbsp;
+[<img width="30" height="30" src="https://githubusercontent.com">](https://codesandbox.io)&nbsp;
+[<img width="30" height="30" src="https://githubusercontent.com">](https://github.com)&nbsp;
+[<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg">](https://stackoverflow.com/users/29074285/veffo)
+
+
+<p align="left"><a href="https://t.me/veffo1"><img src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" width="30" height="30"></a> <a href="mailto:q.6110@mail.ru"><img src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" width="30" height="30"></a> <a href="https://codepen.io/veffo"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" width="30" height="30"></picture></a> <a href="https://codesandbox.io/u/Veffo"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" width="30" height="30"></picture></a> <a href="https://github.com/veffo"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" width="30" height="30"></picture></a> <a href="https://stackoverflow.com/users/29074285/veffo"><img src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" width="30" height="30"></a></p>
 
 
 
