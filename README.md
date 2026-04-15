@@ -393,7 +393,21 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 
 
 <p>
-    <a href="https://t.me/veffo1" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" alt="https://t.me/veffo1"></a>
+    <a href="https://t.me/veffo1" target="_blank">
+        <picture>
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg"
+                media="(prefers-color-scheme: dark)"
+                alt="https://t.me/veffo1"
+            />
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="https://t.me/veffo1"
+            />
+            <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" alt="https://t.me/veffo1" />
+        </picture>
+    </a>
     <a href="mailto:q.6110@mail.ru" target="_blank">
         <picture>
             <source
@@ -454,7 +468,21 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" alt="https://github.com/veffo" />
         </picture>
     </a>
-    <a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo"></a>
+    <a href="https://stackoverflow.com/users/29074285/veffo" target="_blank">
+        <picture>
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg"
+                media="(prefers-color-scheme: dark)"
+                alt="https://stackoverflow.com/users/29074285/veffo"
+            />
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="https://stackoverflow.com/users/29074285/veffo"
+            />
+            <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo" />
+        </picture>
+    </a>
 </p>
 
 
