@@ -384,41 +384,81 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 </p>
 -->
 
-<p align="left"><a href="https://t.me/veffo1" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" alt="https://t.me/veffo1"></a>&nbsp;<a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" alt="q.6110@mail.ru"></a>&nbsp;<a href="https://codepen.io/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-dark.svg" media="(prefers-color-scheme: dark)" alt="https://codepen.io/veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://codepen.io/veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="https://codepen.io/veffo"></picture></a>&nbsp;<a href="https://codesandbox.io/u/Veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-dark.svg" media="(prefers-color-scheme: dark)" alt="https://codesandbox.io/u/Veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://codesandbox.io/u/Veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" alt="https://codesandbox.io/u/Veffo"></picture></a>&nbsp;<a href="https://github.com/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-dark.svg" media="(prefers-color-scheme: dark)" alt="https://github.com/veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://github.com/veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" alt="https://github.com/veffo"></picture></a>&nbsp;<a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo"></a></p>
+<!--
+<p><a href="https://t.me/veffo1" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" alt="https://t.me/veffo1"></a>&nbsp;<a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" alt="q.6110@mail.ru"></a>&nbsp;<a href="https://codepen.io/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-dark.svg" media="(prefers-color-scheme: dark)" alt="https://codepen.io/veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://codepen.io/veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="https://codepen.io/veffo"></picture></a>&nbsp;<a href="https://codesandbox.io/u/Veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-dark.svg" media="(prefers-color-scheme: dark)" alt="https://codesandbox.io/u/Veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://codesandbox.io/u/Veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" alt="https://codesandbox.io/u/Veffo"></picture></a>&nbsp;<a href="https://github.com/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-dark.svg" media="(prefers-color-scheme: dark)" alt="https://github.com/veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://github.com/veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" alt="https://github.com/veffo"></picture></a>&nbsp;<a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo"></a></p>
+-->
 
 
-<div align="left">
-  <a href="https://t.me" target="_blank"><img width="30" height="30" src="https://githubusercontent.com" alt="https://t.me"></a><a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="https://githubusercontent.com" alt="q.6110@mail.ru"></a><a href="https://codepen.io" target="_blank"><img width="30" height="30" src="https://githubusercontent.com" alt="https://codepen.io"><img width="30" height="30" src="https://githubusercontent.com" alt="https://codepen.io"></a><a href="https://codesandbox.io" target="_blank"><img width="30" height="30" src="https://githubusercontent.com" alt="https://codesandbox.io"><img width="30" height="30" src="https://githubusercontent.com" alt="https://codesandbox.io"></a><a href="https://github.com" target="_blank"><img width="30" height="30" src="https://githubusercontent.com" alt="https://github.com"><img width="30" height="30" src="https://githubusercontent.com" alt="https://github.com"></a><a href="https://stackoverflow.com" target="_blank"><img width="30" height="30" src="https://githubusercontent.com" alt="https://stackoverflow.com"></a>
-</div>
-
-
-[<img src="https://githubusercontent.com" width="30">](https://t.me) [<img src="https://githubusercontent.com" width="30">](mailto:q.6110@mail.ru) [<img src="https://githubusercontent.com" width="30">](https://codepen.io) [<img src="https://githubusercontent.com" width="30">](https://codesandbox.io) [<img src="https://githubusercontent.com" width="30">](https://github.com) [<img src="https://githubusercontent.com" width="30">](https://stackoverflow.com)
+<p><a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" alt="q.6110@mail.ru"></a>&nbsp;<a href="https://codepen.io/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-dark.svg" media="(prefers-color-scheme: dark)" alt="https://codepen.io/veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://codepen.io/veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="https://codepen.io/veffo"></picture></a>&nbsp;<a href="https://codesandbox.io/u/Veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-dark.svg" media="(prefers-color-scheme: dark)" alt="https://codesandbox.io/u/Veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://codesandbox.io/u/Veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" alt="https://codesandbox.io/u/Veffo"></picture></a>&nbsp;<a href="https://github.com/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-dark.svg" media="(prefers-color-scheme: dark)" alt="https://github.com/veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://github.com/veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" alt="https://github.com/veffo"></picture></a>&nbsp;<a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo"></a></p>
 
 
 
 
-<table border="0">
-    <tr border="0">
-        <td border="0">
-            <a href="https://t.me" target="_blank"><img width="30" height="30" src="https://githubusercontent.com" alt="Telegram"></a>
-        </td>
-        <td>
-            <a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="https://githubusercontent.com" alt="Email"></a>
-        </td>
-        <td border="0">
-            <a href="https://codepen.io/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-dark.svg" media="(prefers-color-scheme: dark)" alt="https://codepen.io/veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://codepen.io/veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="https://codepen.io/veffo"></picture></a>
-        </td>
-        <td>
-            <a href="https://codesandbox.io" target="_blank"><picture><source srcset="https://githubusercontent.com" media="(prefers-color-scheme: dark)"><img width="30" height="30" src="https://githubusercontent.com" alt="CodeSandbox"></picture></a>
-        </td>
-        <td>
-            <a href="https://github.com" target="_blank"><picture><source srcset="https://githubusercontent.com" media="(prefers-color-scheme: dark)"><img width="30" height="30" src="https://githubusercontent.com" alt="GitHub"></picture></a>
-        </td>
-        <td>
-            <a href="https://stackoverflow.com" target="_blank"><img width="30" height="30" src="https://githubusercontent.com" alt="StackOverflow"></a>
-        </td>
-  </tr>
-</table>
+
+<!--
+<p>
+    <a href="https://codepen.io/veffo" target="_blank">
+        <picture>
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-dark.svg"
+                media="(prefers-color-scheme: dark)"
+                alt="https://codepen.io/veffo"
+            />
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="https://codepen.io/veffo"
+            />
+            <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="https://codepen.io/veffo" />
+        </picture>
+    </a>
+    <a href="https://codesandbox.io/u/Veffo" target="_blank">
+        <picture>
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-dark.svg"
+                media="(prefers-color-scheme: dark)"
+                alt="https://codesandbox.io/u/Veffo"
+            />
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="https://codesandbox.io/u/Veffo"
+            />
+            <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" alt="https://codesandbox.io/u/Veffo" />
+        </picture>
+    </a>
+    <a href="https://github.com/veffo" target="_blank">
+        <picture>
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-dark.svg"
+                media="(prefers-color-scheme: dark)"
+                alt="https://github.com/veffo"
+            />
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="https://github.com/veffo"
+            />
+            <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" alt="https://github.com/veffo" />
+        </picture>
+    </a>
+</p>
+-->
+
+
+
+
+<p>
+    [<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg">](https://t.me/veffo1)&nbsp;[<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg">](mailto:q.6110@mail.ru)&nbsp;
+    [<img width="30" height="30" src="https://githubusercontent.com">](https://codepen.io)&nbsp;
+    [<img width="30" height="30" src="https://githubusercontent.com">](https://codesandbox.io)&nbsp;
+    [<img width="30" height="30" src="https://githubusercontent.com">](https://github.com)&nbsp;
+    [<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg">](https://stackoverflow.com/users/29074285/veffo)
+</p>
+
+
+
+
 
 <h3 align="center">
     Thanks for visiting! Check out more repositories!
