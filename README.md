@@ -406,7 +406,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 alt="q.6110@mail.ru"
             />
-            <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="q.6110@mail.ru" />
+            <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" alt="q.6110@mail.ru" />
         </picture>
     </a>
     <a href="https://codepen.io/veffo" target="_blank">
