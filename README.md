@@ -448,13 +448,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 
 
 
-
-[<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg">](https://t.me/veffo1)&nbsp;[<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg">](mailto:q.6110@mail.ru)&nbsp;
-[<img width="30" height="30" src="https://githubusercontent.com">](https://codepen.io)&nbsp;
-[<img width="30" height="30" src="https://githubusercontent.com">](https://codesandbox.io)&nbsp;
-[<img width="30" height="30" src="https://githubusercontent.com">](https://github.com)&nbsp;
-[<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg">](https://stackoverflow.com/users/29074285/veffo)
-
+[![Telegram](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg)](https://t.me/veffo1) [![Mail](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg)](mailto:q.6110@mail.ru) [![CodePen](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-dark.svg)](https://codepen.io/veffo) [![CodeSandbox](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-dark.svg)](https://codesandbox.io/u/Veffo) [![GitHub](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-dark.svg)](https://github.com/veffo) [![StackOverflow](https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg)](https://stackoverflow.com/users/29074285/veffo)
 
 
 
