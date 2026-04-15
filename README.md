@@ -388,10 +388,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 <p><a href="https://t.me/veffo1" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" alt="https://t.me/veffo1"></a>&nbsp;<a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" alt="q.6110@mail.ru"></a>&nbsp;<a href="https://codepen.io/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-dark.svg" media="(prefers-color-scheme: dark)" alt="https://codepen.io/veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://codepen.io/veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="https://codepen.io/veffo"></picture></a>&nbsp;<a href="https://codesandbox.io/u/Veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-dark.svg" media="(prefers-color-scheme: dark)" alt="https://codesandbox.io/u/Veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://codesandbox.io/u/Veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" alt="https://codesandbox.io/u/Veffo"></picture></a>&nbsp;<a href="https://github.com/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-dark.svg" media="(prefers-color-scheme: dark)" alt="https://github.com/veffo"><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://github.com/veffo"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" alt="https://github.com/veffo"></picture></a>&nbsp;<a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo"></a></p>
 -->
 
-
-
-
-
+<!--
 <p>
     <a href="https://t.me/veffo1" target="_blank">
         <picture>
@@ -407,7 +404,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             />
             <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" alt="https://t.me/veffo1" />
         </picture>
-    </a>
+    </a>&nbsp;
     <a href="mailto:q.6110@mail.ru" target="_blank">
         <picture>
             <source
@@ -422,7 +419,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             />
             <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" alt="q.6110@mail.ru" />
         </picture>
-    </a>
+    </a>&nbsp;
     <a href="https://codepen.io/veffo" target="_blank">
         <picture>
             <source
@@ -437,7 +434,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             />
             <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="https://codepen.io/veffo" />
         </picture>
-    </a>
+    </a>&nbsp;
     <a href="https://codesandbox.io/u/Veffo" target="_blank">
         <picture>
             <source
@@ -452,7 +449,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             />
             <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" alt="https://codesandbox.io/u/Veffo" />
         </picture>
-    </a>
+    </a>&nbsp;
     <a href="https://github.com/veffo" target="_blank">
         <picture>
             <source
@@ -467,7 +464,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
             />
             <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" alt="https://github.com/veffo" />
         </picture>
-    </a>
+    </a>&nbsp;
     <a href="https://stackoverflow.com/users/29074285/veffo" target="_blank">
         <picture>
             <source
@@ -484,9 +481,9 @@ I'm always seeking to take ownership of the project and deliver faster than expe
         </picture>
     </a>
 </p>
+-->
 
-
-
+<p><a href="https://t.me/veffo1" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" media="(prefers-color-scheme: dark)" alt="https://t.me/veffo1" /><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://t.me/veffo1" /><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" alt="https://t.me/veffo1" /></picture></a>&nbsp; <a href="mailto:q.6110@mail.ru" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" media="(prefers-color-scheme: dark)" alt="q.6110@mail.ru" /><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="q.6110@mail.ru" /><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" alt="q.6110@mail.ru" /></picture></a>&nbsp; <a href="https://codepen.io/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-dark.svg" media="(prefers-color-scheme: dark)" alt="https://codepen.io/veffo" /><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://codepen.io/veffo" /><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="https://codepen.io/veffo" /></picture></a>&nbsp; <a href="https://codesandbox.io/u/Veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-dark.svg" media="(prefers-color-scheme: dark)" alt="https://codesandbox.io/u/Veffo" /><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://codesandbox.io/u/Veffo" /><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codesandbox-light.svg" alt="https://codesandbox.io/u/Veffo" /></picture></a>&nbsp; <a href="https://github.com/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-dark.svg" media="(prefers-color-scheme: dark)" alt="https://github.com/veffo" /><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://github.com/veffo" /><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/github-light.svg" alt="https://github.com/veffo" /></picture></a>&nbsp; <a href="https://stackoverflow.com/users/29074285/veffo" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" media="(prefers-color-scheme: dark)" alt="https://stackoverflow.com/users/29074285/veffo" /><source srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="https://stackoverflow.com/users/29074285/veffo" /><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/29074285/veffo" /></picture></a></p>
 
 <h3 align="center">
     Thanks for visiting! Check out more repositories!
