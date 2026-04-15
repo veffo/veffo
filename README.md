@@ -394,7 +394,21 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 
 <p>
     <a href="https://t.me/veffo1" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg" alt="https://t.me/veffo1"></a>
-    <a href="mailto:q.6110@mail.ru"><img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg" alt="q.6110@mail.ru"></a>
+    <a href="mailto:q.6110@mail.ru" target="_blank">
+        <picture>
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg"
+                media="(prefers-color-scheme: dark)"
+                alt="q.6110@mail.ru"
+            />
+            <source
+                srcset="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                alt="q.6110@mail.ru"
+            />
+            <img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/codepen-light.svg" alt="q.6110@mail.ru" />
+        </picture>
+    </a>
     <a href="https://codepen.io/veffo" target="_blank">
         <picture>
             <source
