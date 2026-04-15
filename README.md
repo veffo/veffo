@@ -449,11 +449,11 @@ I'm always seeking to take ownership of the project and deliver faster than expe
 
 
 <p>
-    [<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg">](https://t.me/veffo1)&nbsp;[<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg">](mailto:q.6110@mail.ru)&nbsp;
-    [<img width="30" height="30" src="https://githubusercontent.com">](https://codepen.io)&nbsp;
-    [<img width="30" height="30" src="https://githubusercontent.com">](https://codesandbox.io)&nbsp;
-    [<img width="30" height="30" src="https://githubusercontent.com">](https://github.com)&nbsp;
-    [<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg">](https://stackoverflow.com/users/29074285/veffo)
+[<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/telegram.svg">](https://t.me/veffo1)&nbsp;[<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/mail.ru.svg">](mailto:q.6110@mail.ru)&nbsp;
+[<img width="30" height="30" src="https://githubusercontent.com">](https://codepen.io)&nbsp;
+[<img width="30" height="30" src="https://githubusercontent.com">](https://codesandbox.io)&nbsp;
+[<img width="30" height="30" src="https://githubusercontent.com">](https://github.com)&nbsp;
+[<img width="30" height="30" src="https://raw.githubusercontent.com/veffo/veffo/main/assets/icons/stackoverflow.svg">](https://stackoverflow.com/users/29074285/veffo)
 </p>
 
 
