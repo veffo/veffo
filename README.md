@@ -300,7 +300,7 @@ I'm always seeking to take ownership of the project and deliver faster than expe
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-f05033.svg?logo=git&logoColor=ffffff" /></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034a9.svg?logo=github&logoColor=ffffff" /></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34a853.svg?logo=google%20sheets&logoColor=ffffff" /></a>
-    <!--<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302e31.svg?logo=obs-studio&logoColor=ffffff" /></a>-->
+    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302e31.svg?logo=obs-studio&logoColor=ffffff" /></a>
     <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849be.svg?logo=insomnia&logoColor=ffffff" /></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37.svg?logo=postman&logoColor=ffffff" /></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-fe7a16.svg?logo=stack-overflow&logoColor=ffffff" /></a>
